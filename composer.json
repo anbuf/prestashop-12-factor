@@ -1,13 +1,20 @@
 {
 	"require": {
+		"php": "^5.5.0",
+		"ext-gd": "*",
 		"gskema/prestashop-installer": "~2.0"
 	},
 	"scripts": {
+		"post-install-cmd": "composer prestashop-setup",
+		"prestashop-setup": "composer prestashop-setup-core && composer prestashop-setup-db && composer prestashop-setup-clean && composer prestashop-setup-welcome",
 		"prestashop-setup-core": "prestashop new store --release=1.6.1.4 --fixture=starwars",
-		"prestashop-db-core": "php store/install/install_cli.php",
-		"prestashop-setup-clean": "php rename(realpath(dirname(__FILE__)).'/store/install',realpath(dirname(__FILE__)).'/store/archived')",
+		"prestashop-setup-db": "php store/install/index_cli.php --domain=\"$PRESTASHOP_SHOP_DOMAIN\" --db_server=\"$PRESTASHOP_DATABASE_SERVER\" --db_name=\"$PRESTASHOP_DATABASE_NAME\" --db_user=\"$PRESTASHOP_DATABASE_USER\" --db_password=\"$PRESTASHOP_DATABASE_PASSWORD\" --send_email=0",
+		"prestashop-setup-clean": "mv store/install/ store/archived/ & mv store/admin/ store/backoffice/",
 		"prestashop-setup-welcome": [
 			"echo 'It works! Please see <a href=\"https://github.com/absalomedia/prestashop-12factor\">prestashop-12factor on GitHub</a> for info and post-install instructions.'"
 		]
+	},
+	"require-dev": {
+		"heroku/heroku-buildpack-php": "^107.0"
 	}
 }
