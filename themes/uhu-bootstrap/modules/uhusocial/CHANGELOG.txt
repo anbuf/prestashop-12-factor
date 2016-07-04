@@ -1,0 +1,5 @@
+2015-02-27 1.0.0			// Created
+2015-04-01 1.0.1			// Update to new uhuthemesetting
+							// Fixed live demo bug
+2015-10-20 1.0.2			// Support Native Languages Setting
+2015-11-10 1.0.3			// Fix language issue	

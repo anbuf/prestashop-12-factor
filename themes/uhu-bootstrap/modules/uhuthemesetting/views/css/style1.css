@@ -1,0 +1,11 @@
+@media only screen and (min-width: 1200px) {
+#columns #columns_top, #columns #slider_row {width: 100%;}
+#columns #top_banner {width: 100%;}
+#columns #bottom_banner {width: 100%;}
+header .nav {width: 100%;}
+header .content {width: 100%;}
+#header .menu {width: 1170px;}
+.footer-container .footer_nav {width: 1260px;}
+.footer-container #footer {width: 100%;}
+.footer-container .footer_banner {width: 100%;}
+ }

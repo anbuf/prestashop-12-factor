@@ -1,0 +1,364 @@
+52
+type01
+Nav
+cssselect_3_69
+002
+Global & General
+
+
+type02
+Logo
+cssselect_7_0
+003
+Modules in Header
+
+
+type03
+Menu Bar
+cssselect_16_2
+010
+Modules in Header
+
+
+type04
+Popup Title
+cssselect_16_16
+011
+Modules in Header
+
+
+type05
+Popup Link
+cssselect_16_10
+012
+Modules in Header
+
+
+type06
+Popup Text
+cssselect_16_17
+013
+Modules in Header
+
+
+type07
+Slider H2
+cssselect_61_16
+101
+Modules in Middle
+
+
+type08
+Slider H3
+cssselect_61_17
+102
+Modules in Middle
+
+
+type09
+Slider H4
+cssselect_61_18
+103
+Modules in Middle
+
+
+type10
+Slider H5
+cssselect_61_19
+104
+Modules in Middle
+
+
+type11
+Slider Link
+cssselect_61_21
+105
+Modules in Middle
+
+
+type12
+Featured Block Title
+cssselect_20_1|cssselect_21_1
+501
+Modules in Middle
+hidden
+
+type13
+Featured Product Title
+cssselect_20_3|cssselect_21_3
+502
+Modules in Middle
+hidden
+
+type14
+Featured Product Price
+cssselect_20_6|cssselect_21_6
+503
+Modules in Middle
+hidden
+
+type15
+New Arrivals
+cssselect_68_43
+601
+Modules in Middle
+
+
+type16
+New Block Title
+cssselect_68_1
+602
+Modules in Middle
+
+
+type17
+New Product Title
+cssselect_68_7
+603
+Modules in Middle
+
+
+type18
+New Product Price
+cssselect_68_11
+604
+Modules in Middle
+
+
+type19
+Best Block Title
+cssselect_72_2
+701
+Modules in Middle
+
+
+type20
+Best Product Title
+cssselect_72_4
+702
+Modules in Middle
+
+
+type21
+Best Product Price
+cssselect_72_12
+703
+Modules in Middle
+
+
+type22
+Footer Title
+cssselect_3_85
+901
+Global & General
+
+
+type23
+Footer Link
+cssselect_3_56|cssselect_34_1|cssselect_33_3
+902
+Global & General
+
+
+type24
+Reassurance Title Header
+cssselect_73_4
+801
+Modules in Header
+
+
+type25
+Reassurance Title Slide
+cssselect_73_9
+811
+Modules in Middle
+
+
+type26
+Reassurance Title Footer
+cssselect_73_19
+841
+Modules in Footer
+
+
+type27
+Reassurance Text FooterNav
+cssselect_73_14
+831
+Modules in Footer
+
+
+type28
+Body
+cssselect_2_0
+001
+Global & General
+
+
+type29
+Reassurance Title Home
+cssselect_73_40
+821
+Modules in Middle
+
+
+type30
+Native Product Module Block Title
+cssselect_56_13
+301
+Modules in Middle
+
+
+type31
+Native Product Module Product Title
+cssselect_56_36
+302
+Modules in Middle
+
+
+type32
+Native Product Module Product Price
+cssselect_56_40
+303
+Modules in Middle
+
+
+type33
+Native Product Module Product New label
+cssselect_56_35
+304
+Modules in Middle
+
+
+type34
+Native Product Module Product Button
+cssselect_56_59
+305
+Modules in Middle
+
+
+type35
+Contact Block Title
+cssselect_35_8|cssselect_35_22|cssselect_35_29
+401
+Modules in Middle
+hidden
+
+type36
+Contact Block Subtitle
+cssselect_35_46|cssselect_35_47|cssselect_35_48
+402
+Modules in Middle
+hidden
+
+type37
+Contact Block Text
+cssselect_35_35|cssselect_35_36|cssselect_35_37
+403
+Modules in Middle
+hidden
+
+type38
+Contact Block List
+cssselect_35_10|cssselect_35_24|cssselect_35_31
+404
+Modules in Middle
+hidden
+
+type39
+Reassurance Text Header
+cssselect_73_24
+802
+Modules in Header
+hidden
+
+type40
+Reassurance Text Slider
+cssselect_73_25
+812
+Modules in Middle
+hidden
+
+type41
+Reassurance Text Home
+cssselect_73_42
+822
+Modules in Middle
+hidden
+
+type42
+Reassurance Text FooterNav
+cssselect_73_26
+832
+Modules in Footer
+hidden
+
+type43
+Reassurance Text Footer
+cssselect_73_27
+842
+Modules in Footer
+hidden
+
+type44
+Reassurance Icon Header
+cssselect_73_3
+803
+Modules in Header
+hidden
+
+type45
+Reassurance Icon Slider
+cssselect_73_8
+813
+Modules in Middle
+hidden
+
+type46
+Reassurance Icon Home
+cssselect_73_39
+823
+Modules in Middle
+hidden
+
+type47
+Reassurance Icon FooterNav
+cssselect_73_13
+833
+Modules in Footer
+hidden
+
+type48
+Reassurance Icon Footer
+cssselect_73_18
+843
+Modules in Footer
+hidden
+
+type49
+Footer Contact Title
+cssselect_35_1
+405
+Modules in Footer
+
+
+type50
+Footer Footer Subtitle
+cssselect_35_49
+406
+Modules in Footer
+
+
+type51
+Footer Contact Text
+cssselect_35_38
+407
+Modules in Footer
+
+
+type52
+Footer Contact List
+cssselect_35_3
+408
+Modules in Footer
+

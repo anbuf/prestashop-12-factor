@@ -1,0 +1,450 @@
+A0
+
+social_0
+
+
+
+false
+Display This Module
+yes|no
+A1
+
+social_1
+
+
+
+false
+Enable This Module
+Set yes or no for each theme style, separated by |
+A2
+
+social_2
+
+
+
+false
+Block Grids
+Set blcck girds each theme style, separated by |
+A3
+
+social_3
+
+
+
+true
+Item Number
+
+A4
+
+social_4
+
+
+
+true
+Effects
+spin | scale | translate
+A5
+
+social_5
+
+
+
+false
+Icon or Image
+true for icon in Font Awesome 3.2, false for image upload
+A6
+
+social_6
+
+
+
+true
+Image
+Filename for each image, separated by |
+A7
+
+social_7
+
+
+
+true
+Link
+Link for each image, separated by |
+A8
+
+social_8
+
+
+
+true
+Multi-language
+Multi-languages: lang1|lang2|lang3, such as en|fr|es|de
+A9
+
+social_9
+
+
+
+true
+Block Title
+Title each language, separated by |
+B0
+
+social_10
+
+
+
+false
+Display This Module
+yes|no
+B1
+
+social_11
+
+
+
+false
+Enable This Module
+Set yes or no for each theme style, separated by |
+B2
+
+social_12
+
+
+
+false
+Block Grids
+Set blcck girds each theme style, separated by |
+B3
+
+social_13
+
+
+
+true
+Item Number
+
+B4
+
+social_14
+
+
+
+true
+Effects
+spin | scale | translate
+B5
+
+social_15
+
+
+
+false
+Icon or Image
+true for icon in Font Awesome 3.2, false for image upload
+B6
+
+social_16
+
+
+
+true
+Image
+Filename for each image, separated by |
+B7
+
+social_17
+
+
+
+true
+Link
+Link for each image, separated by |
+B8
+
+social_18
+
+
+
+true
+Multi-language
+Multi-languages: lang1|lang2|lang3, such as en|fr|es|de
+B9
+
+social_19
+
+
+
+true
+Block Title
+Title each language, separated by |
+C0
+
+social_20
+
+
+yes
+false
+Display This Module
+yes|no
+C1
+
+social_21
+
+
+yes|yes|yes
+false
+Enable This Module
+Set yes or no for each theme style, separated by |
+C2
+
+social_22
+
+
+4
+false
+Block Grids
+Set blcck girds each theme style, separated by |
+C3
+
+social_23
+
+
+5
+true
+Item Number
+
+C4
+
+social_24
+
+
+scale
+true
+Effects
+spin | scale | translate
+C5
+
+social_25
+
+
+false
+false
+Icon or Image
+true for icon in Font Awesome 3.2, false for image upload
+C6
+
+social_26
+
+
+facebook.png|twitter.png|googleplus.png|linkedin.png|pinterest.png
+true
+Image
+Filename for each image, separated by |
+C7
+
+social_27
+
+
+
+true
+Link
+Link for each image, separated by |
+C8
+
+social_28
+
+
+
+true
+Multi-language
+Multi-languages: lang1|lang2|lang3, such as en|fr|es|de
+C9
+
+social_29
+
+
+
+true
+Block Title
+Title each language, separated by |
+D0
+
+social_30
+
+
+no
+false
+Display This Module
+yes|no
+D1
+
+social_31
+
+
+yes|yes|yes
+false
+Enable This Module
+Set yes or no for each theme style, separated by |
+D2
+
+social_32
+
+
+4
+false
+Block Grids
+Set blcck girds each theme style, separated by |
+D3
+
+social_33
+
+
+5
+true
+Item Number
+
+D4
+
+social_34
+
+
+scale
+true
+Effects
+spin | scale | translate
+D5
+
+social_35
+
+
+false
+false
+Icon or Image
+true for icon in Font Awesome 3.2, false for image upload
+D6
+
+social_36
+
+
+facebook.png|twitter.png|googleplus.png|linkedin.png|pinterest.png
+true
+Image
+Filename for each image, separated by |
+D7
+
+social_37
+
+
+
+true
+Link
+Link for each image, separated by |
+D8
+
+social_38
+
+
+
+true
+Multi-language
+Multi-languages: lang1|lang2|lang3, such as en|fr|es|de
+D9
+
+social_39
+
+
+
+true
+Block Title
+Title each language, separated by |
+E0
+
+social_40
+
+
+no
+false
+Display This Module
+yes|no
+E1
+
+social_41
+
+
+yes|yes|yes
+false
+Enable This Module
+Set yes or no for each theme style, separated by |
+E2
+
+social_42
+
+
+2
+false
+Block Grids
+Set blcck girds each theme style, separated by |
+E3
+
+social_43
+
+
+6
+true
+Item Number
+
+E4
+
+social_44
+
+
+spin
+true
+Effects
+spin | scale | translate
+E5
+
+social_45
+
+
+false
+false
+Icon or Image
+true for icon in Font Awesome 3.2, false for image upload
+E6
+
+social_46
+
+
+facebook.png|twitter.png|googleplus.png|linkedin.png|pinterest.png|github.png
+true
+Image
+Filename for each image, separated by |
+E7
+
+social_47
+
+
+
+true
+Link
+Link for each image, separated by |
+E8
+
+social_48
+
+
+en|fr
+true
+Multi-language
+Multi-languages: lang1|lang2|lang3, such as en|fr|es|de
+E9
+
+social_49
+
+
+Follow us|Nous suivre
+true
+Block Title
+Title each language, separated by |

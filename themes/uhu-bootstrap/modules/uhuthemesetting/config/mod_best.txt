@@ -1,0 +1,234 @@
+A1
+
+best_0
+
+
+12|3|3
+false
+
+
+A1
+
+best_1
+
+
+3|12|12
+false
+Product Grids
+
+A1
+
+best_2
+
+
+4|1|1
+false
+Preline
+
+A2
+
+best_3
+
+
+5
+true
+Number of product to show
+
+A1
+
+best_4
+
+
+4
+false
+Img Grids
+
+A1
+
+best_5
+
+
+8
+false
+Info Grids
+
+A4
+
+best_6
+
+
+certificate
+true
+Type of label
+circle | bookmark | certificate | cloud | comment | flag | heart | star | tag | trophy
+A3
+
+best_7
+
+
+
+true
+Icon for Block Title
+icon-plus|icon-star, all icon in Font Awesome 3.0
+A1
+
+best_8
+
+
+
+
+First Img Grids
+
+A1
+
+best_9
+
+
+
+
+First info Grids
+
+A0
+
+best_10
+
+
+no|yes|yes
+true
+Enable This Module
+Enable or disable this module on each theme style, separated by |
+A1
+
+best_11
+
+
+
+
+Show comment
+
+A1
+
+best_12
+
+
+
+
+Comment Number
+
+A1
+
+best_13
+
+
+
+
+Use waterfall
+
+A1
+
+best_14
+
+
+h4
+
+Position for title
+h4|li
+A5
+
+best_15
+
+
+
+true
+File name for title BG
+
+A1
+
+best_16
+
+
+rollleft
+
+css type
+rollup|rolldown|rollleft
+A6
+
+best_17
+
+
+yes
+true
+Show Price
+yes|no
+A7
+
+best_18
+
+
+
+true
+Grid for Advertising
+
+A8
+
+best_19
+
+
+
+true
+File name for advertising
+
+A9
+
+best_20
+
+
+
+true
+Link for advertising
+
+B0
+
+best_21
+
+
+en|fr|es|de
+true
+Language
+Multi-languages: lang1|lang2|lang3, such as en|fr|es|de
+B1
+
+best_22
+
+
+Best Sellers|Meilleures Ventes|Los más vendidos|Verkaufshits
+true
+Block Title
+Title for each language, separated by |
+B2
+
+best_23
+
+
+Add to cart|Ajouter au panier|Añadir al carrito|In den Warenkorb
+true
+Add to cart
+Title for each language, separated by |
+A10
+
+best_24
+
+
+yes
+true
+Show Rating
+
+A11
+
+best_25
+
+
+no
+true
+Show Description
+

@@ -1,0 +1,900 @@
+A0
+
+reinsurance_0
+
+
+no
+false
+Display This Module
+yes or no
+A1
+
+reinsurance_1
+
+
+yes|no|no
+false
+Enable This Module
+Set yes or no for each theme style, separated by |
+A2
+
+reinsurance_2
+
+
+12
+false
+Block Grids
+Set blcck girds for each theme style, separated by |, grids for pc|pad|mobile, separated by :
+A3
+
+reinsurance_3
+
+
+4|8
+false
+Item Grids
+One value for all, or each item has a value, separated by commas
+A4
+
+reinsurance_4
+
+
+
+false
+Slider Setting
+Enable Slider:Showing columns on pc|pad|mobile, yes:4|2|1
+A5
+
+reinsurance_5
+
+
+true
+true
+Number of Items
+
+A6
+
+reinsurance_6
+
+
+icon-money|icon-truck|icon-lock
+true
+Image
+File name upload or Icon name in Font Awesome 3.2 for each item, separated by ^
+A7
+textarea
+reinsurance_7
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Link
+Link for each item, separated by ^
+A8
+
+reinsurance_8
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+All Title
+Title for each Items, separated by ^
+A9
+
+reinsurance_9
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+All subtitle
+Subtitle for each Items, separated by ^
+A10
+textarea
+reinsurance_10
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+All Text
+Text for each Items, separated by ^
+A11
+
+reinsurance_11
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+All footer title
+Footer title for each Items, separated by ^
+A12
+
+reinsurance_12
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+All footer text
+Footer text for each Items, separated by ^
+A13
+
+reinsurance_13
+
+
+
+
+No Use
+
+A14
+
+reinsurance_14
+
+
+
+
+No Use
+
+A15
+
+reinsurance_15
+
+
+
+
+No Use
+
+A16
+
+reinsurance_16
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Block Title
+
+A17
+textarea
+reinsurance_17
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Block info text
+
+A18
+
+reinsurance_18
+
+
+
+
+No Use
+
+A19
+
+reinsurance_19
+
+
+
+
+New Div ID
+
+B0
+
+reinsurance_20
+
+
+no
+false
+Display This Module
+yes or no
+B1
+
+reinsurance_21
+
+
+yes|no|no
+false
+Enable This Module
+Set yes or no for each theme style, separated by |
+B2
+
+reinsurance_22
+
+
+12
+false
+Block Grids
+Set blcck girds for each theme style, separated by |, grids for pc|pad|mobile, separated by :
+B3
+
+reinsurance_23
+
+
+4
+false
+Item Grids
+One value for all, or each item has a value, separated by commas
+B4
+
+reinsurance_24
+
+
+
+false
+Slider Setting
+Enable Slider:Showing columns on pc|pad|mobile, yes:4|2|1
+B5
+
+reinsurance_25
+
+
+true
+true
+Number of Items
+
+B6
+
+reinsurance_26
+
+
+icon-money|icon-truck|icon-lock
+true
+Image
+File name upload or Icon name in Font Awesome 3.2 for each item, separated by ^
+B7
+textarea
+reinsurance_27
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Link
+Link for each item, separated by ^
+B8
+
+reinsurance_28
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+All Title
+Title for each Items, separated by ^
+B9
+
+reinsurance_29
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+All subtitle
+Subtitle for each Items, separated by ^
+B10
+textarea
+reinsurance_30
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+All Text
+Text for each Items, separated by ^
+B11
+
+reinsurance_31
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+All footer title
+Footer title for each Items, separated by ^
+B12
+
+reinsurance_32
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+All footer text
+Footer text for each Items, separated by ^
+B13
+
+reinsurance_33
+
+
+
+
+No Use
+
+B14
+
+reinsurance_34
+
+
+Lorem ipsum dolor sit amet conse ctetur voluptate velit esse cillum dolore eu
+
+No Use
+
+B15
+
+reinsurance_35
+
+
+Lorem ipsum dolor sit amet conse ctetur voluptate velit esse cillum dolore eu
+
+No Use
+
+B16
+
+reinsurance_36
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Block Title
+
+B17
+textarea
+reinsurance_37
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Block info text
+
+B18
+
+reinsurance_38
+
+
+
+
+No Use
+
+B19
+
+reinsurance_39
+
+
+
+
+New Div ID
+
+C0
+
+reinsurance_40
+
+
+yes
+false
+Display This Module
+yes or no
+C1
+
+reinsurance_41
+
+
+yes|yes|yes
+false
+Enable This Module
+Set yes or no for each theme style, separated by |
+C2
+
+reinsurance_42
+
+
+3
+false
+Block Grids
+Set blcck girds for each theme style, separated by |, grids for PC|PAD|PHONE, separated by :
+C3
+
+reinsurance_43
+
+
+12
+false
+Item Grids
+One value for all, or each item has a value, separated by commas
+C4
+
+reinsurance_44
+
+
+
+false
+Slider Setting
+Enable Slider:Showing Columns on PC|PAD|PHONE, yes:4|2|1
+C5
+
+reinsurance_45
+
+
+3
+true
+Number of Items
+
+C6
+
+reinsurance_46
+
+
+icon-money^icon-credit-card^icon-truck
+true
+Image
+File name upload or Icon name in Font Awesome 3.2 for each item, separated by ^
+C7
+textarea
+reinsurance_47
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Link
+Link for each item, separated by ^
+C8
+
+reinsurance_48
+Multi-languages
+
+Money back guarantee^Payment upon shipment^Free Shipping over $99¤en|¤fr|¤es|¤de|
+true
+All Title
+Title for each Items, separated by ^
+C9
+
+reinsurance_49
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+All subtitle
+Subtitle for each Items, separated by ^
+C10
+textarea
+reinsurance_50
+Multi-languages
+
+Lorem ipsum dolor sit amet conse ctetur voluptate velit esse cillum dolore eu^Lorem ipsum dolor sit amet conse ctetur voluptate velit esse cillum dolore eu^Lorem ipsum dolor sit amet conse ctetur voluptate velit esse cillum dolore eu¤en|¤fr|¤es|¤de|
+true
+All Text
+Text for each Items, separated by ^
+C11
+
+reinsurance_51
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+All footer title
+Footer title for each Items, separated by ^
+C12
+
+reinsurance_52
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+All footer text
+Footer text for each Items, separated by ^
+C13
+
+reinsurance_53
+
+
+
+
+No Use
+
+C14
+
+reinsurance_54
+
+
+
+
+No Use
+
+C15
+
+reinsurance_55
+
+
+
+
+No Use
+
+C16
+
+reinsurance_56
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Block Title
+
+C17
+textarea
+reinsurance_57
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Block info text
+
+C18
+
+reinsurance_58
+
+
+
+
+No Use
+
+C19
+
+reinsurance_59
+
+
+
+
+New Div ID
+
+D0
+
+reinsurance_60
+
+
+no|no|yes
+false
+Display This Module
+yes or no
+D1
+
+reinsurance_61
+
+
+yes|yes|yes
+false
+Enable This Module
+Set yes or no for each theme style, separated by |
+D2
+
+reinsurance_62
+
+
+12
+false
+Block Grids
+Set blcck girds for each theme style, separated by |, grids for pc|pad|mobile, separated by :
+D3
+
+reinsurance_63
+
+
+4
+false
+Item Grids
+One value for all, or each item has a value, separated by commas
+D4
+
+reinsurance_64
+
+
+
+false
+Slider Setting
+Enable Slider:Showing columns on pc|pad|mobile, yes:4|2|1
+D5
+
+reinsurance_65
+
+
+3
+true
+Number of Items
+
+D6
+
+reinsurance_66
+
+
+http://prestashop.uhupage.com/theme_317/modules/uhuthemesetting/views/img/reinsurance/370x270_1.jpg^http://prestashop.uhupage.com/theme_317/modules/uhuthemesetting/views/img/reinsurance/370x270_2.jpg^http://prestashop.uhupage.com/theme_317/modules/uhuthemesetting/views/img/reinsurance/370x270_3.jpg
+true
+Image
+File name upload or Icon name in Font Awesome 3.2 for each item, separated by ^
+D7
+textarea
+reinsurance_67
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Link
+Link for each item, separated by ^
+D8
+
+reinsurance_68
+Multi-languages
+
+Popular Category^Popular Brand^Popular Porduct¤en|¤fr|¤es|¤de|
+true
+All Title
+Title for each Items, separated by ^
+D9
+
+reinsurance_69
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+All subtitle
+Subtitle for each Items, separated by ^
+D10
+textarea
+reinsurance_70
+Multi-languages
+
+Lorem ipsum dolor sit amet conse ctetur voluptate velit esse cillum dolore eu^Lorem ipsum dolor sit amet conse ctetur voluptate velit esse cillum dolore eu^Lorem ipsum dolor sit amet conse ctetur voluptate velit esse cillum dolore eu¤en|¤fr|¤es|¤de|
+true
+All Text
+Text for each Items, separated by ^
+D11
+
+reinsurance_71
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+All footer title
+Footer title for each Items, separated by ^
+D12
+
+reinsurance_72
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+All footer text
+Footer text for each Items, separated by ^
+D13
+
+reinsurance_73
+
+
+
+
+No Use
+
+D14
+
+reinsurance_74
+
+
+
+
+No Use
+
+D15
+
+reinsurance_75
+
+
+
+
+No Use
+
+D16
+
+reinsurance_76
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Block Title
+
+D17
+textarea
+reinsurance_77
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Block info text
+
+D18
+
+reinsurance_78
+
+
+
+
+No Use
+
+D19
+
+reinsurance_79
+
+
+
+
+New Div ID
+
+E0
+
+reinsurance_80
+
+
+
+false
+Display This Module
+yes or no
+E1
+
+reinsurance_81
+
+
+
+false
+Enable This Module
+Set yes or no for each theme style, separated by |
+E2
+
+reinsurance_82
+
+
+6
+false
+Block Grids
+Set blcck girds for each theme style, separated by |, grids for pc|pad|mobile, separated by :
+E3
+
+reinsurance_83
+
+
+6
+false
+Item Grids
+One value for all, or each item has a value, separated by commas
+E4
+
+reinsurance_84
+
+
+
+false
+Slider Setting
+Enable Slider:Showing columns on pc|pad|mobile, yes:4|2|1
+E5
+
+reinsurance_85
+
+
+true
+true
+Number of Items
+
+E6
+
+reinsurance_86
+
+
+icon-money|icon-credit-card|icon-truck|icon-lock
+true
+Image
+File name upload or Icon name in Font Awesome 3.2 for each item, separated by ^
+E7
+textarea
+reinsurance_87
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Link
+Link for each item, separated by ^
+E8
+
+reinsurance_88
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+All Title
+Title for each Items, separated by ^
+E9
+
+reinsurance_89
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+All subtitle
+Subtitle for each Items, separated by ^
+E10
+textarea
+reinsurance_90
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+All Text
+Text for each Items, separated by ^
+E11
+
+reinsurance_91
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+All footer title
+Footer title for each Items, separated by ^
+E12
+
+reinsurance_92
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+All footer text
+Footer text for each Items, separated by ^
+E13
+
+reinsurance_93
+
+
+
+
+No Use
+
+E14
+
+reinsurance_94
+
+
+
+
+No Use
+
+E15
+
+reinsurance_95
+
+
+
+
+No Use
+
+E16
+
+reinsurance_96
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Block Title
+
+E17
+textarea
+reinsurance_97
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Block info text
+
+E18
+
+reinsurance_98
+
+
+
+
+No Use
+
+E19
+
+reinsurance_99
+
+
+
+
+New Div ID
+

@@ -1,0 +1,11 @@
+2015-03-12 1.0.0			// Created
+2015-05-22 1.0.1			// Fixed bug in setting total grids
+2015-06-03 1.0.2			// Fixed bug get document width in uhuslider.tpl 
+                            // Fixed bug explode images in uhuslider.php
+2015-07-24 1.0.3			// Add define height for image of pc/pad/mobile
+2015-08-24 1.1.0			// Switch to refineslide.js
+2015-09-24 1.2.0			// Add multi slider, customer can select silder
+2015-10-20 1.2.1			// Support Native Languages Setting
+2015-10-22 1.2.2			// Fixed no use text issue. Add close css effect.
+2015-11-10 1.2.3			// Fix language issue	
+2015-12-04 1.2.4			// Add preload image	

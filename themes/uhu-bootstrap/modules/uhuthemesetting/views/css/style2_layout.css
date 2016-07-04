@@ -1,0 +1,12 @@
+@media only screen and (min-width: 1200px) {
+#header_user #header_user_info a span {display: none;}
+#header .menu ul.nav_item {max-width: 1170px;}
+body {background-color: #EDEDED;}
+.container {max-width: 1290px;}
+#columns #columns_home {padding: 0 45px; max-width: 1290px;}
+header .nav .row {max-width: 1170px;}
+#uhu_contactus_foot {padding: 0 15px;}
+#uhu_contactus_foot .block_content {max-width: 1170px;}
+#uhu_gj_9541 .block_content {max-width: 1170px;}
+#uhu_reassure_home .block_content {max-width: 1170px; }
+ }

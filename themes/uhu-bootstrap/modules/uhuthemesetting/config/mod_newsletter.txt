@@ -1,0 +1,54 @@
+
+
+newsletter_0
+
+
+4000
+true
+Show PopUp After
+Time in ms
+
+
+newsletter_1
+
+
+750
+true
+Img Width
+
+
+
+newsletter_2
+
+
+350
+true
+Img Height
+
+
+
+newsletter_3
+
+
+newsletter.png
+true
+Img File Name
+
+
+
+newsletter_4
+
+
+30
+true
+Cookie Expire Days
+
+
+
+newsletter_5
+
+
+55px 230px 25px 80px
+true
+Padding
+

@@ -1,0 +1,8 @@
+2015-02-27 1.0.0			// Created
+2015-05-25 1.0.1			// Fixed total grids bug. 
+							// Fixed live demo bug
+2015-06-07 1.0.2			// Add div to list
+2015-06-27 1.0.3			// Support aminate.css and WOW.js
+2015-08-07 1.0.4			// Add block grid for list mode
+2015-08-20 1.0.5			// Add block_content for list mode
+2015-10-12 1.0.6			// Add choose tpl file

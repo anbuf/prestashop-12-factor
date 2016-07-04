@@ -1,0 +1,630 @@
+A1
+
+new_0
+框架所占的格子数
+
+12
+
+框架所占的格子数
+取值0-12，用户端不可见
+A3
+
+new_1
+
+
+3
+true
+Grids per product
+
+A3
+
+new_2
+
+
+4
+true
+Products per line
+
+A3
+
+new_3
+
+
+8
+true
+Products per column
+
+A3
+
+new_4
+小标签类型
+
+tag
+true
+New Label
+icon-circle | icon-bookmark | icon-certificate | icon-cloud | icon-comment | icon-flag | icon-heart | icon-star | icon-tag | icon-trophy
+A1
+
+new_5
+标题位置
+
+bottom
+
+标题位置
+用户端不可见
+B3
+
+new_6
+
+
+icon-circle
+true
+New Label
+icon-circle | icon-bookmark | icon-certificate | icon-cloud | icon-comment | icon-flag | icon-heart | icon-star | icon-tag | icon-trophy
+A0
+
+new_7
+激活
+
+no|no|no
+true
+Enable in
+style1|style2|style3
+B0
+
+new_8
+激活
+
+no
+true
+Enable in
+style1|style2|style3
+C0
+
+new_9
+激活
+
+yes|yes
+true
+Enable in
+style1|style2|style3
+B2
+
+new_10
+
+
+12|12|12
+true
+Product Grids
+0 - 12
+A1
+
+new_11
+动态效果定义
+
+zoom viewdown
+
+动态效果定义
+用户端不可见
+A13
+
+new_12
+
+
+
+true
+CSS3 effects
+rollimg|circleimg|upimg|downimg|rightimg|leftimg
+D0
+
+new_13
+多语言支持
+
+en|fr|es|de
+true
+Multi-language
+Multi-languages: lang1|lang2|lang3, such as en|fr|es|de
+A10
+
+new_14
+广告框所占的格子数
+
+
+true
+Advertising Grids
+0 - 12
+A2
+
+new_15
+产品框所占的格子数
+
+12
+true
+Product Grids
+0 - 12
+A10
+
+new_16
+单个广告占的格子数
+
+
+true
+Number of grid per image
+separated by commas
+A11
+
+new_17
+
+
+
+true
+Image 1
+Image filename you upload below or the img url in the web, Multi-languages: file for lang1|file for lang2|file for lang3
+A11
+
+new_18
+
+
+
+true
+Image 2
+Image filename you upload below or the img url in the web, Multi-languages: file for lang1|file for lang2|file for lang3
+A11
+
+new_19
+
+
+
+true
+Image 3
+Image filename you upload below or the img url in the web, Multi-languages: file for lang1|file for lang2|file for lang3
+A11
+
+new_20
+
+
+
+true
+Link for each image
+separated by |
+B8
+
+new_21
+
+
+
+true
+Name for each image
+separated by |
+B8
+
+new_22
+
+
+
+true
+Link for each image
+separated by |
+B3
+
+new_23
+
+
+3
+true
+Grids per product
+
+B3
+
+new_24
+
+
+4
+true
+Products per line
+
+B3
+
+new_25
+
+
+8
+true
+Products per category
+
+B3
+
+new_26
+
+
+no
+true
+Description
+
+B3
+
+new_27
+
+
+65
+true
+Description length
+default length is 65
+B3
+
+new_28
+
+
+yes
+true
+Show Rating
+yes|no
+B9
+
+new_29
+
+
+
+true
+CSS3 effects
+rollimg|circleimg|upimg|downimg|rightimg|leftimg
+B7
+
+new_30
+
+
+
+true
+Advertising Grids
+0 - 12
+C8
+
+new_31
+
+
+
+true
+Name for each image
+separated by |
+C8
+
+new_32
+
+
+
+true
+Link for each image
+separated by |
+A3
+
+new_33
+简介
+
+no
+true
+Description
+
+A3
+
+new_34
+简介字数
+
+
+true
+Description length
+default length is 65
+C3
+
+new_35
+
+
+3|3|1
+false
+Owl Responsive
+pc|pad|phone
+C0
+
+new_36
+
+
+12
+false
+Module Grids
+pc|pad|phone, style1:style2:style3
+A3
+
+new_37
+显示评分
+
+yes
+true
+Show Rating
+yes|no
+B7
+
+new_38
+Category ID
+
+3,4,5,8
+true
+Category ID
+Selected Category ID, separated by commas
+B4
+
+new_39
+Grids for per category
+
+3
+true
+Grids for per Title
+Total grids is 12.
+C7
+
+new_40
+
+
+
+
+Advertising Area Grid
+0 - 12
+C9
+
+new_41
+
+
+downimg
+true
+CSS3 effects
+rollimg|circleimg|upimg|downimg|rightimg|leftimg
+C2
+
+new_42
+
+
+12
+
+Product Area Grid
+0 - 12
+C3
+
+new_43
+
+
+12
+false
+(Res) : Grids per product
+
+C3
+
+new_44
+
+
+1
+false
+(Res) : Products per line
+
+C3
+
+new_45
+
+
+3
+true
+Products per category
+
+C3
+
+new_46
+
+
+icon-certificate
+false
+(Res) : New Label
+icon-circle | icon-bookmark | icon-certificate | icon-cloud | icon-comment | icon-flag | icon-heart | icon-star | icon-tag | icon-trophy
+C3
+
+new_47
+
+
+yes
+false
+(Res) : Show Rating
+yes|no
+C7
+
+new_48
+
+
+3,4,8,5
+true
+Category ID
+Selected Category ID, separated by commas
+D1
+
+new_49
+
+
+New arrivals|Nouveautés|Nuevos|Neu im Shop
+true
+Block Title
+Title for each language, separated by |
+D2
+
+new_50
+
+
+Add to cart|Ajouter au panier|Añadir al carrito|In den Warenkorb
+true
+Add to cart
+Title for each language, separated by |
+C1
+
+new_51
+
+
+4|4
+
+Column Grids
+Grids for Products Block, pc|tablet
+D2
+
+new_52
+
+
+bottom_banner
+
+Hook
+home|bottom_banner
+D2
+
+new_53
+
+
+
+
+TPL File
+
+
+
+new_54
+
+
+
+
+Owl Responsive
+4|4|2
+
+
+new_55
+
+
+
+
+
+
+
+
+new_56
+
+
+
+
+
+
+
+
+new_57
+
+
+
+
+
+
+
+
+new_58
+
+
+
+
+
+
+
+
+new_59
+
+
+
+
+
+
+
+
+new_60
+
+
+
+
+
+
+
+
+new_61
+
+
+
+
+
+
+
+
+new_62
+
+
+
+
+
+
+
+
+new_63
+
+
+
+
+
+
+
+
+new_64
+
+
+
+
+
+
+
+
+new_65
+
+
+
+
+
+
+
+
+new_66
+
+
+
+
+
+
+
+
+new_67
+
+
+
+
+
+
+
+
+new_68
+
+
+
+
+
+
+
+
+new_69
+
+
+
+
+
+

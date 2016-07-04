@@ -1,0 +1,585 @@
+30
+
+topmenu_0
+推荐分类区格子数
+
+7
+true
+Grid of Featured Category
+Suggest is 6, value is 0 - 12
+30
+
+topmenu_1
+全部分类区格子数
+
+5
+true
+Grid of All Category
+Suggest is 6, value is 0 - 12
+32
+
+topmenu_2
+推荐产品区格子数
+
+8
+true
+Grid of Featured Products
+Suggest is 8, value is 0 - 12
+32
+
+topmenu_3
+产品广告区格子数
+
+4
+true
+Grid of Advertising
+Suggest is 4, value is 0 - 12
+34
+
+topmenu_4
+推荐品牌区格子数
+
+7
+true
+Grid of Featured Brands
+Suggest is 7, value is 0 - 12
+34
+
+topmenu_5
+全部品牌区格子数
+
+5
+true
+Grid of All Brands
+Suggest is 5, value is 0 - 12
+3
+
+topmenu_6
+产品栏：推荐产品
+
+2,3,4,5
+true
+Featured Product ID
+Input product ID, separated by commas
+4
+
+topmenu_7
+品牌栏：推荐品牌
+
+1,2,3
+true
+Featured Manufacturers ID
+Input Manufacturers ID, separated by commas
+2
+
+topmenu_8
+分类栏：推荐分类
+
+3,4,5,6,7,8
+true
+Featured Category ID
+Input Category ID, separated by commas
+5
+
+topmenu_9
+CMS 菜单项
+
+3,4,5,6,7,8
+true
+CMS page ID
+Input CMS page ID, separated by commas
+40
+
+topmenu_10
+推荐分类区每行个数
+
+2
+
+
+
+31
+
+topmenu_11
+推荐分类区单个分类格子数
+
+3
+true
+Grid for a single Featured Category
+Suggest is 6, value is 0 - 12
+28
+
+topmenu_12
+定制菜单：推荐分类汇总
+
+CAT4,CAT8,CAT,CATA5,CATA6,CATA7,CATA8,CATB9,CATB10,CATB11,
+
+Custom menu item A
+Set ID category, ID product, ID Manufacturers, separated by commas
+31
+
+topmenu_13
+全部分类区单个分类格子数
+
+4
+true
+Grid of Single Category
+Suggest is 4, single category in all category block
+3
+
+topmenu_14
+产品广告区之产品图
+
+http://prestashop.uhupage.com/theme_317/modules/uhuthemesetting/views/img/topmenu/menuad.jpg
+true
+Advertising filename
+
+3
+
+topmenu_15
+产品广告区之链接
+
+
+true
+Advertising link
+
+33
+
+topmenu_16
+推荐产品区每行推荐产品个数
+
+4
+true
+Products per line
+
+33
+
+topmenu_17
+推荐产品区单个推荐产品格子数
+
+3
+true
+grid for each featured product
+suggest is 3
+35
+
+topmenu_18
+推荐品牌区每行品牌个数
+
+4
+true
+Brands per line
+value is 2,3,4,6
+35
+
+topmenu_19
+推荐品牌区单个品牌格子数
+
+4
+true
+grid for each featured brand
+suggest is 4
+35
+
+topmenu_20
+全部品牌区每行个数
+
+2
+
+
+
+35
+
+topmenu_21
+全部品牌区单个品牌格子数
+
+6
+true
+Grid for each brand
+suggest is 6
+1
+
+topmenu_22
+是否启用弹出窗口
+
+yes
+true
+Enable Pop Menu
+yes|no
+6
+
+topmenu_23
+Multi-languages
+
+Our store¤en|¤fr|¤es|¤de|
+true
+Custom Menu Labels
+Please enter the title words separated by ^
+6
+
+topmenu_24
+
+
+index.php?controller=stores
+true
+Custom Menu Links
+Please enter the links separated by |
+8
+
+topmenu_25
+定制菜单项目一
+
+4
+true
+Menu Bar
+Featured Category ID, display in menu bar,only one.
+7
+
+topmenu_26
+分类菜单项
+
+3
+true
+Categories menuitem
+Set ID category, separated by commas (e.g. 3,4,5)
+1
+
+topmenu_27
+启用Home项
+
+true
+true
+Home menu item
+true|false
+28
+
+topmenu_28
+定制菜单：广告图片汇总
+
+CATA:http://prestashop.uhupage.com/theme_317/modules/uhuthemesetting/views/img/topmenu/c3.jpg|CATB:http://prestashop.uhupage.com/theme_317/modules/uhuthemesetting/views/img/topmenu/c1.jpg,http://prestashop.uhupage.com/theme_317/modules/uhuthemesetting/views/img/topmenu/c2.jpg|CATC:
+
+
+
+28
+
+topmenu_29
+定制菜单：广告链接汇总
+
+CATA:http://www.prestashop.com|CATB:http://www.prestashop.com,http://www.prestashop.com|CATC:
+
+
+
+8
+
+topmenu_30
+定制菜单项目一
+
+5,6,7,8
+true
+Pop Menu
+Featured Category ID, display in pop menu, separated by commas
+8
+
+topmenu_31
+定制菜单项目一
+
+http://prestashop.uhupage.com/theme_317/modules/uhuthemesetting/views/img/topmenu/c3.jpg
+true
+Advertising
+Advertising image file names, display in pop menu, separated by commas
+8
+
+topmenu_32
+定制菜单项目一
+
+http://www.prestashop.com
+true
+Advertising Link
+Advertising image links, display in pop menu, separated by commas
+9
+
+topmenu_33
+定制菜单项目二
+
+8
+true
+Menu Bar
+Featured Category ID, display in menu bar,only one.
+9
+
+topmenu_34
+定制菜单项目二
+
+9,10,11
+true
+Pop Menu
+Featured Category ID, display in pop menu, separated by commas
+9
+
+topmenu_35
+定制菜单项目二
+
+http://prestashop.uhupage.com/theme_317/modules/uhuthemesetting/views/img/topmenu/c1.jpg,http://prestashop.uhupage.com/theme_317/modules/uhuthemesetting/views/img/topmenu/c2.jpg
+true
+Advertising
+Advertising image file names, display in pop menu, separated by commas
+9
+
+topmenu_36
+定制菜单项目二
+
+http://www.prestashop.com,http://www.prestashop.com
+true
+Advertising Link
+Advertising image links, display in pop menu, separated by commas
+10
+
+topmenu_37
+定制菜单项目三
+
+
+true
+Menu Bar
+Featured Category ID, display in menu bar,only one.
+10
+
+topmenu_38
+定制菜单项目三
+
+
+true
+Pop Menu
+Featured Category ID, display in pop menu, separated by commas
+10
+
+topmenu_39
+定制菜单项目三
+
+
+true
+Advertising
+Advertising image file names, display in pop menu, separated by commas
+10
+
+topmenu_40
+定制菜单项目三
+
+
+true
+Advertising Link
+Advertising image links, display in pop menu, separated by commas
+41
+
+topmenu_41
+是否显示全部分类
+
+yes
+true
+Show All categories
+yes|no
+42
+
+topmenu_42
+Show All brands
+
+yes
+true
+Show All brands
+yes|no
+11
+
+topmenu_43
+更多定制菜单项目
+
+
+true
+Menu Bar
+Featured Category ID in menu bar, Each Full Custom separated by |
+11
+
+topmenu_44
+更多定制菜单项目
+
+
+true
+Pop Menu
+Featured Category ID in pop menu, separated by commas, Each Full Custom separated by |
+11
+
+topmenu_45
+更多定制菜单项目
+
+
+true
+Advertising
+Advertising image file names in pop menu, separated by commas, Each Full Custom separated by |
+11
+
+topmenu_46
+更多定制菜单项目
+
+
+true
+Advertising Link
+Advertising image links in pop menu, separated by commas, Each Full Custom separated by |
+0
+
+topmenu_47
+Position
+
+
+false
+Position
+top|topcontent
+0
+
+topmenu_48
+
+
+
+false
+
+
+
+
+topmenu_49
+
+
+9
+true
+Grid of News Content
+0 - 12, Grid of News Content + Grid of CMS Content = 12
+
+
+topmenu_50
+
+
+3
+true
+Grid of CMS Content
+0 - 12, Grid of News Content + Grid of CMS Content = 12
+
+
+topmenu_51
+
+
+http://prestashop.uhupage.com/theme_317/modules/uhuthemesetting/views/img/topmenu/cover.jpg
+true
+News Picture
+Image filename you upload below or the img url in the web
+
+
+topmenu_52
+Multi-languages
+
+Latest News¤en|¤fr|¤es|¤de|
+true
+News Title
+
+
+
+topmenu_53
+Multi-languages
+
+Nov 11, 2015¤en|¤fr|¤es|¤de|
+true
+News Subtitle 1
+
+
+textarea
+topmenu_54
+Multi-languages
+
+New version 1.1 for PrestaShop v1.6.1.2[br]Full new design for this theme, it is designed with a simple, clean and clear style.[br]Aoraceae is a great PrestaShop theme for your choice!¤en|¤fr|¤es|¤de|
+true
+News Text 1
+
+
+
+topmenu_55
+Multi-languages
+
+It is a title.¤en|¤fr|¤es|¤de|
+true
+News Subtitle 2
+
+
+textarea
+topmenu_56
+Multi-languages
+
+Here is the text paragraph.[br]Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.¤en|¤fr|¤es|¤de|
+true
+News Text 2
+
+
+
+topmenu_57
+Multi-languages
+
+It is a title.¤en|¤fr|¤es|¤de|
+true
+News Subtitle 3
+
+
+textarea
+topmenu_58
+Multi-languages
+
+Here is the text paragraph.[br]Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.¤en|¤fr|¤es|¤de|
+true
+News Text 3
+
+
+
+topmenu_59
+Multi-languages
+
+Featured CMS¤en|¤fr|¤es|¤de|
+true
+Title of CMS Block
+
+
+
+topmenu_60
+mobile
+
+4
+true
+CMS page ID
+Input CMS page ID, separated by commas
+
+
+topmenu_61
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Custom Menu Labels
+Please enter the title words separated by ^
+
+
+topmenu_62
+mobile
+
+
+true
+Custom Menu Links
+Please enter the links separated by |
+
+
+topmenu_63
+search
+
+
+
+Search Block
+
+
+
+topmenu_64
+
+
+
+
+
+

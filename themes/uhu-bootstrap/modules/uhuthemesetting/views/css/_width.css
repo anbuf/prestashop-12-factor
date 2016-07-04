@@ -1,0 +1,5 @@
+@media only screen and (min-width: 1200px) {
+#columns #columns_top,  #columns #slider_row {width:1170px;}
+#columns #top_banner {width:1170px;}
+#columns #bottom_banner {width:1170px;}
+ }

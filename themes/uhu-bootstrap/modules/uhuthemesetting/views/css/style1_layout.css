@@ -1,0 +1,12 @@
+@media only screen and (min-width: 1200px) {
+#header .menu ul.nav_item {max-width: 1290px;}
+.container {max-width: 1290px;}
+#columns #columns_home {padding: 0 45px; max-width: 1290px;}
+.footer-container .footer_nav {    width: 1290px;}
+header .nav .row {max-width: 1290px;}
+#uhu_contactus_foot .block_content {max-width: 1170px;}
+.pb-left-column #image-block {    padding: 30px;}
+#uhu_gj_9541 .block_content {max-width: 1290px;}
+#uhu_tj_9502 {padding-top: 30px; padding-bottom: 30px;}
+#uhu_reassure_home .block_content {max-width: 1290px; }
+ }

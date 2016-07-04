@@ -1,0 +1,4104 @@
+002
+
+font_0
+Nav
+cssselect_3_69
+type01
+font-family
+Font Family
+header .nav
+002
+
+font_1
+Nav
+cssselect_3_69
+type01
+font-size
+Font Size
+header .nav
+002
+
+font_2
+Nav
+cssselect_3_69
+type01
+font-weight
+Font Weight
+header .nav
+002
+
+font_3
+Nav
+cssselect_3_69
+type01
+font-style
+Font Style
+header .nav
+002
+
+font_4
+Nav
+cssselect_3_69
+type01
+text-align
+Text Align
+header .nav
+002
+
+font_5
+Nav
+cssselect_3_69
+type01
+text-transform
+Text Transform
+header .nav
+002
+
+font_6
+Nav
+cssselect_3_69
+type01
+text-indent
+Text Indent
+header .nav
+002
+100px
+font_7
+Nav
+cssselect_3_69
+type01
+line-height
+Line Height
+header .nav
+003
+Fascinate Inline
+font_8
+Logo
+cssselect_7_0
+type02
+font-family
+Font Family
+header .row #logo
+003
+50px
+font_9
+Logo
+cssselect_7_0
+type02
+font-size
+Font Size
+header .row #logo
+003
+
+font_10
+Logo
+cssselect_7_0
+type02
+font-weight
+Font Weight
+header .row #logo
+003
+
+font_11
+Logo
+cssselect_7_0
+type02
+font-style
+Font Style
+header .row #logo
+003
+left
+font_12
+Logo
+cssselect_7_0
+type02
+text-align
+Text Align
+header .row #logo
+003
+
+font_13
+Logo
+cssselect_7_0
+type02
+text-transform
+Text Transform
+header .row #logo
+003
+
+font_14
+Logo
+cssselect_7_0
+type02
+text-indent
+Text Indent
+header .row #logo
+003
+
+font_15
+Logo
+cssselect_7_0
+type02
+line-height
+Line Height
+header .row #logo
+010
+Carrois Gothic SC
+font_16
+Menu Bar
+cssselect_16_2
+type03
+font-family
+Font Family
+#header .menu ul.nav_item li
+010
+16px
+font_17
+Menu Bar
+cssselect_16_2
+type03
+font-size
+Font Size
+#header .menu ul.nav_item li
+010
+
+font_18
+Menu Bar
+cssselect_16_2
+type03
+font-weight
+Font Weight
+#header .menu ul.nav_item li
+010
+
+font_19
+Menu Bar
+cssselect_16_2
+type03
+font-style
+Font Style
+#header .menu ul.nav_item li
+010
+
+font_20
+Menu Bar
+cssselect_16_2
+type03
+text-align
+Text Align
+#header .menu ul.nav_item li
+010
+
+font_21
+Menu Bar
+cssselect_16_2
+type03
+text-transform
+Text Transform
+#header .menu ul.nav_item li
+010
+
+font_22
+Menu Bar
+cssselect_16_2
+type03
+text-indent
+Text Indent
+#header .menu ul.nav_item li
+010
+70px
+font_23
+Menu Bar
+cssselect_16_2
+type03
+line-height
+Line Height
+#header .menu ul.nav_item li
+011
+Dosis
+font_24
+Popup Title
+cssselect_16_16
+type04
+font-family
+Font Family
+#header .menu .nav_item li dl dd .s_title_block
+011
+
+font_25
+Popup Title
+cssselect_16_16
+type04
+font-size
+Font Size
+#header .menu .nav_item li dl dd .s_title_block
+011
+
+font_26
+Popup Title
+cssselect_16_16
+type04
+font-weight
+Font Weight
+#header .menu .nav_item li dl dd .s_title_block
+011
+
+font_27
+Popup Title
+cssselect_16_16
+type04
+font-style
+Font Style
+#header .menu .nav_item li dl dd .s_title_block
+011
+
+font_28
+Popup Title
+cssselect_16_16
+type04
+text-align
+Text Align
+#header .menu .nav_item li dl dd .s_title_block
+011
+
+font_29
+Popup Title
+cssselect_16_16
+type04
+text-transform
+Text Transform
+#header .menu .nav_item li dl dd .s_title_block
+011
+
+font_30
+Popup Title
+cssselect_16_16
+type04
+text-indent
+Text Indent
+#header .menu .nav_item li dl dd .s_title_block
+011
+
+font_31
+Popup Title
+cssselect_16_16
+type04
+line-height
+Line Height
+#header .menu .nav_item li dl dd .s_title_block
+012
+Dosis
+font_32
+Popup Link
+cssselect_16_10
+type05
+font-family
+Font Family
+#header .menu .nav_item li dl.pop_adver p
+012
+
+font_33
+Popup Link
+cssselect_16_10
+type05
+font-size
+Font Size
+#header .menu .nav_item li dl.pop_adver p
+012
+
+font_34
+Popup Link
+cssselect_16_10
+type05
+font-weight
+Font Weight
+#header .menu .nav_item li dl.pop_adver p
+012
+
+font_35
+Popup Link
+cssselect_16_10
+type05
+font-style
+Font Style
+#header .menu .nav_item li dl.pop_adver p
+012
+
+font_36
+Popup Link
+cssselect_16_10
+type05
+text-align
+Text Align
+#header .menu .nav_item li dl.pop_adver p
+012
+
+font_37
+Popup Link
+cssselect_16_10
+type05
+text-transform
+Text Transform
+#header .menu .nav_item li dl.pop_adver p
+012
+
+font_38
+Popup Link
+cssselect_16_10
+type05
+text-indent
+Text Indent
+#header .menu .nav_item li dl.pop_adver p
+012
+
+font_39
+Popup Link
+cssselect_16_10
+type05
+line-height
+Line Height
+#header .menu .nav_item li dl.pop_adver p
+013
+
+font_40
+Popup Text
+cssselect_16_17
+type06
+font-family
+Font Family
+#header .menu .nav_item li dl dd .product_desc
+013
+12px
+font_41
+Popup Text
+cssselect_16_17
+type06
+font-size
+Font Size
+#header .menu .nav_item li dl dd .product_desc
+013
+
+font_42
+Popup Text
+cssselect_16_17
+type06
+font-weight
+Font Weight
+#header .menu .nav_item li dl dd .product_desc
+013
+
+font_43
+Popup Text
+cssselect_16_17
+type06
+font-style
+Font Style
+#header .menu .nav_item li dl dd .product_desc
+013
+
+font_44
+Popup Text
+cssselect_16_17
+type06
+text-align
+Text Align
+#header .menu .nav_item li dl dd .product_desc
+013
+
+font_45
+Popup Text
+cssselect_16_17
+type06
+text-transform
+Text Transform
+#header .menu .nav_item li dl dd .product_desc
+013
+
+font_46
+Popup Text
+cssselect_16_17
+type06
+text-indent
+Text Indent
+#header .menu .nav_item li dl dd .product_desc
+013
+
+font_47
+Popup Text
+cssselect_16_17
+type06
+line-height
+Line Height
+#header .menu .nav_item li dl dd .product_desc
+101
+Lato
+font_48
+Slider H2
+cssselect_61_16
+type07
+font-family
+Font Family
+#uhuslider .block_content ul li h2
+101
+50px
+font_49
+Slider H2
+cssselect_61_16
+type07
+font-size
+Font Size
+#uhuslider .block_content ul li h2
+101
+
+font_50
+Slider H2
+cssselect_61_16
+type07
+font-weight
+Font Weight
+#uhuslider .block_content ul li h2
+101
+
+font_51
+Slider H2
+cssselect_61_16
+type07
+font-style
+Font Style
+#uhuslider .block_content ul li h2
+101
+
+font_52
+Slider H2
+cssselect_61_16
+type07
+text-align
+Text Align
+#uhuslider .block_content ul li h2
+101
+uppercase
+font_53
+Slider H2
+cssselect_61_16
+type07
+text-transform
+Text Transform
+#uhuslider .block_content ul li h2
+101
+
+font_54
+Slider H2
+cssselect_61_16
+type07
+text-indent
+Text Indent
+#uhuslider .block_content ul li h2
+101
+
+font_55
+Slider H2
+cssselect_61_16
+type07
+line-height
+Line Height
+#uhuslider .block_content ul li h2
+102
+Lato
+font_56
+Slider H3
+cssselect_61_17
+type08
+font-family
+Font Family
+#uhuslider .block_content ul li h3
+102
+22px
+font_57
+Slider H3
+cssselect_61_17
+type08
+font-size
+Font Size
+#uhuslider .block_content ul li h3
+102
+
+font_58
+Slider H3
+cssselect_61_17
+type08
+font-weight
+Font Weight
+#uhuslider .block_content ul li h3
+102
+
+font_59
+Slider H3
+cssselect_61_17
+type08
+font-style
+Font Style
+#uhuslider .block_content ul li h3
+102
+
+font_60
+Slider H3
+cssselect_61_17
+type08
+text-align
+Text Align
+#uhuslider .block_content ul li h3
+102
+capitalize
+font_61
+Slider H3
+cssselect_61_17
+type08
+text-transform
+Text Transform
+#uhuslider .block_content ul li h3
+102
+
+font_62
+Slider H3
+cssselect_61_17
+type08
+text-indent
+Text Indent
+#uhuslider .block_content ul li h3
+102
+
+font_63
+Slider H3
+cssselect_61_17
+type08
+line-height
+Line Height
+#uhuslider .block_content ul li h3
+103
+Lato
+font_64
+Slider H4
+cssselect_61_18
+type09
+font-family
+Font Family
+#uhuslider .block_content ul li h4
+103
+20px
+font_65
+Slider H4
+cssselect_61_18
+type09
+font-size
+Font Size
+#uhuslider .block_content ul li h4
+103
+
+font_66
+Slider H4
+cssselect_61_18
+type09
+font-weight
+Font Weight
+#uhuslider .block_content ul li h4
+103
+
+font_67
+Slider H4
+cssselect_61_18
+type09
+font-style
+Font Style
+#uhuslider .block_content ul li h4
+103
+
+font_68
+Slider H4
+cssselect_61_18
+type09
+text-align
+Text Align
+#uhuslider .block_content ul li h4
+103
+
+font_69
+Slider H4
+cssselect_61_18
+type09
+text-transform
+Text Transform
+#uhuslider .block_content ul li h4
+103
+
+font_70
+Slider H4
+cssselect_61_18
+type09
+text-indent
+Text Indent
+#uhuslider .block_content ul li h4
+103
+
+font_71
+Slider H4
+cssselect_61_18
+type09
+line-height
+Line Height
+#uhuslider .block_content ul li h4
+104
+Lato
+font_72
+Slider H5
+cssselect_61_19
+type10
+font-family
+Font Family
+#uhuslider .block_content ul li h5
+104
+20px
+font_73
+Slider H5
+cssselect_61_19
+type10
+font-size
+Font Size
+#uhuslider .block_content ul li h5
+104
+
+font_74
+Slider H5
+cssselect_61_19
+type10
+font-weight
+Font Weight
+#uhuslider .block_content ul li h5
+104
+
+font_75
+Slider H5
+cssselect_61_19
+type10
+font-style
+Font Style
+#uhuslider .block_content ul li h5
+104
+
+font_76
+Slider H5
+cssselect_61_19
+type10
+text-align
+Text Align
+#uhuslider .block_content ul li h5
+104
+lowercase
+font_77
+Slider H5
+cssselect_61_19
+type10
+text-transform
+Text Transform
+#uhuslider .block_content ul li h5
+104
+
+font_78
+Slider H5
+cssselect_61_19
+type10
+text-indent
+Text Indent
+#uhuslider .block_content ul li h5
+104
+
+font_79
+Slider H5
+cssselect_61_19
+type10
+line-height
+Line Height
+#uhuslider .block_content ul li h5
+105
+
+font_80
+Slider Link
+cssselect_61_21
+type11
+font-family
+Font Family
+#uhuslider .block_content ul li h6
+105
+
+font_81
+Slider Link
+cssselect_61_21
+type11
+font-size
+Font Size
+#uhuslider .block_content ul li h6
+105
+
+font_82
+Slider Link
+cssselect_61_21
+type11
+font-weight
+Font Weight
+#uhuslider .block_content ul li h6
+105
+
+font_83
+Slider Link
+cssselect_61_21
+type11
+font-style
+Font Style
+#uhuslider .block_content ul li h6
+105
+
+font_84
+Slider Link
+cssselect_61_21
+type11
+text-align
+Text Align
+#uhuslider .block_content ul li h6
+105
+
+font_85
+Slider Link
+cssselect_61_21
+type11
+text-transform
+Text Transform
+#uhuslider .block_content ul li h6
+105
+
+font_86
+Slider Link
+cssselect_61_21
+type11
+text-indent
+Text Indent
+#uhuslider .block_content ul li h6
+105
+
+font_87
+Slider Link
+cssselect_61_21
+type11
+line-height
+Line Height
+#uhuslider .block_content ul li h6
+501
+
+font_88
+Featured Block Title
+cssselect_20_1|cssselect_21_1
+type12
+font-family
+Font Family
+#uhu_xp_9501 h4, #uhu_xp_9502 h4,  #index .nav-tabs
+501
+
+font_89
+Featured Block Title
+cssselect_20_1|cssselect_21_1
+type12
+font-size
+Font Size
+#uhu_xp_9501 h4, #uhu_xp_9502 h4,  #index .nav-tabs
+501
+
+font_90
+Featured Block Title
+cssselect_20_1|cssselect_21_1
+type12
+font-weight
+Font Weight
+#uhu_xp_9501 h4, #uhu_xp_9502 h4,  #index .nav-tabs
+501
+
+font_91
+Featured Block Title
+cssselect_20_1|cssselect_21_1
+type12
+font-style
+Font Style
+#uhu_xp_9501 h4, #uhu_xp_9502 h4,  #index .nav-tabs
+501
+
+font_92
+Featured Block Title
+cssselect_20_1|cssselect_21_1
+type12
+text-align
+Text Align
+#uhu_xp_9501 h4, #uhu_xp_9502 h4,  #index .nav-tabs
+501
+
+font_93
+Featured Block Title
+cssselect_20_1|cssselect_21_1
+type12
+text-transform
+Text Transform
+#uhu_xp_9501 h4, #uhu_xp_9502 h4,  #index .nav-tabs
+501
+
+font_94
+Featured Block Title
+cssselect_20_1|cssselect_21_1
+type12
+text-indent
+Text Indent
+#uhu_xp_9501 h4, #uhu_xp_9502 h4,  #index .nav-tabs
+501
+
+font_95
+Featured Block Title
+cssselect_20_1|cssselect_21_1
+type12
+line-height
+Line Height
+#uhu_xp_9501 h4, #uhu_xp_9502 h4,  #index .nav-tabs
+502
+
+font_96
+Featured Product Title
+cssselect_20_3|cssselect_21_3
+type13
+font-family
+Font Family
+#uhu_xp_9501 .block_content ul li h5, #uhu_xp_9502 .block_content ul li h5,  #index .tab-content ul li h5
+502
+
+font_97
+Featured Product Title
+cssselect_20_3|cssselect_21_3
+type13
+font-size
+Font Size
+#uhu_xp_9501 .block_content ul li h5, #uhu_xp_9502 .block_content ul li h5,  #index .tab-content ul li h5
+502
+
+font_98
+Featured Product Title
+cssselect_20_3|cssselect_21_3
+type13
+font-weight
+Font Weight
+#uhu_xp_9501 .block_content ul li h5, #uhu_xp_9502 .block_content ul li h5,  #index .tab-content ul li h5
+502
+
+font_99
+Featured Product Title
+cssselect_20_3|cssselect_21_3
+type13
+font-style
+Font Style
+#uhu_xp_9501 .block_content ul li h5, #uhu_xp_9502 .block_content ul li h5,  #index .tab-content ul li h5
+502
+
+font_100
+Featured Product Title
+cssselect_20_3|cssselect_21_3
+type13
+text-align
+Text Align
+#uhu_xp_9501 .block_content ul li h5, #uhu_xp_9502 .block_content ul li h5,  #index .tab-content ul li h5
+502
+
+font_101
+Featured Product Title
+cssselect_20_3|cssselect_21_3
+type13
+text-transform
+Text Transform
+#uhu_xp_9501 .block_content ul li h5, #uhu_xp_9502 .block_content ul li h5,  #index .tab-content ul li h5
+502
+
+font_102
+Featured Product Title
+cssselect_20_3|cssselect_21_3
+type13
+text-indent
+Text Indent
+#uhu_xp_9501 .block_content ul li h5, #uhu_xp_9502 .block_content ul li h5,  #index .tab-content ul li h5
+502
+
+font_103
+Featured Product Title
+cssselect_20_3|cssselect_21_3
+type13
+line-height
+Line Height
+#uhu_xp_9501 .block_content ul li h5, #uhu_xp_9502 .block_content ul li h5,  #index .tab-content ul li h5
+503
+
+font_104
+Featured Product Price
+cssselect_20_6|cssselect_21_6
+type14
+font-family
+Font Family
+#uhu_xp_9501 .block_content ul li p.price_container, #uhu_xp_9502 .block_content ul li p.price_container,  #index .tab-content ul li p.price_container
+503
+
+font_105
+Featured Product Price
+cssselect_20_6|cssselect_21_6
+type14
+font-size
+Font Size
+#uhu_xp_9501 .block_content ul li p.price_container, #uhu_xp_9502 .block_content ul li p.price_container,  #index .tab-content ul li p.price_container
+503
+
+font_106
+Featured Product Price
+cssselect_20_6|cssselect_21_6
+type14
+font-weight
+Font Weight
+#uhu_xp_9501 .block_content ul li p.price_container, #uhu_xp_9502 .block_content ul li p.price_container,  #index .tab-content ul li p.price_container
+503
+
+font_107
+Featured Product Price
+cssselect_20_6|cssselect_21_6
+type14
+font-style
+Font Style
+#uhu_xp_9501 .block_content ul li p.price_container, #uhu_xp_9502 .block_content ul li p.price_container,  #index .tab-content ul li p.price_container
+503
+
+font_108
+Featured Product Price
+cssselect_20_6|cssselect_21_6
+type14
+text-align
+Text Align
+#uhu_xp_9501 .block_content ul li p.price_container, #uhu_xp_9502 .block_content ul li p.price_container,  #index .tab-content ul li p.price_container
+503
+
+font_109
+Featured Product Price
+cssselect_20_6|cssselect_21_6
+type14
+text-transform
+Text Transform
+#uhu_xp_9501 .block_content ul li p.price_container, #uhu_xp_9502 .block_content ul li p.price_container,  #index .tab-content ul li p.price_container
+503
+
+font_110
+Featured Product Price
+cssselect_20_6|cssselect_21_6
+type14
+text-indent
+Text Indent
+#uhu_xp_9501 .block_content ul li p.price_container, #uhu_xp_9502 .block_content ul li p.price_container,  #index .tab-content ul li p.price_container
+503
+
+font_111
+Featured Product Price
+cssselect_20_6|cssselect_21_6
+type14
+line-height
+Line Height
+#uhu_xp_9501 .block_content ul li p.price_container, #uhu_xp_9502 .block_content ul li p.price_container,  #index .tab-content ul li p.price_container
+601
+Dosis
+font_112
+New Arrivals
+cssselect_68_43
+type15
+font-family
+Font Family
+#uhu_tj_9502 h4
+601
+20px
+font_113
+New Arrivals
+cssselect_68_43
+type15
+font-size
+Font Size
+#uhu_tj_9502 h4
+601
+
+font_114
+New Arrivals
+cssselect_68_43
+type15
+font-weight
+Font Weight
+#uhu_tj_9502 h4
+601
+
+font_115
+New Arrivals
+cssselect_68_43
+type15
+font-style
+Font Style
+#uhu_tj_9502 h4
+601
+
+font_116
+New Arrivals
+cssselect_68_43
+type15
+text-align
+Text Align
+#uhu_tj_9502 h4
+601
+
+font_117
+New Arrivals
+cssselect_68_43
+type15
+text-transform
+Text Transform
+#uhu_tj_9502 h4
+601
+
+font_118
+New Arrivals
+cssselect_68_43
+type15
+text-indent
+Text Indent
+#uhu_tj_9502 h4
+601
+58px
+font_119
+New Arrivals
+cssselect_68_43
+type15
+line-height
+Line Height
+#uhu_tj_9502 h4
+602
+Dosis
+font_120
+New Block Title
+cssselect_68_1
+type16
+font-family
+Font Family
+#center_column  #uhu_tj_9502 .nav-tabs
+602
+24px
+font_121
+New Block Title
+cssselect_68_1
+type16
+font-size
+Font Size
+#center_column  #uhu_tj_9502 .nav-tabs
+602
+
+font_122
+New Block Title
+cssselect_68_1
+type16
+font-weight
+Font Weight
+#center_column  #uhu_tj_9502 .nav-tabs
+602
+
+font_123
+New Block Title
+cssselect_68_1
+type16
+font-style
+Font Style
+#center_column  #uhu_tj_9502 .nav-tabs
+602
+center
+font_124
+New Block Title
+cssselect_68_1
+type16
+text-align
+Text Align
+#center_column  #uhu_tj_9502 .nav-tabs
+602
+
+font_125
+New Block Title
+cssselect_68_1
+type16
+text-transform
+Text Transform
+#center_column  #uhu_tj_9502 .nav-tabs
+602
+
+font_126
+New Block Title
+cssselect_68_1
+type16
+text-indent
+Text Indent
+#center_column  #uhu_tj_9502 .nav-tabs
+602
+58px
+font_127
+New Block Title
+cssselect_68_1
+type16
+line-height
+Line Height
+#center_column  #uhu_tj_9502 .nav-tabs
+603
+Dosis
+font_128
+New Product Title
+cssselect_68_7
+type17
+font-family
+Font Family
+#uhu_tj_9502 #more_info_sheets ul.pd li h5,  #uhu_tj_9502 #home-uhu-contents ul.tab-pane li h5
+603
+14px
+font_129
+New Product Title
+cssselect_68_7
+type17
+font-size
+Font Size
+#uhu_tj_9502 #more_info_sheets ul.pd li h5,  #uhu_tj_9502 #home-uhu-contents ul.tab-pane li h5
+603
+
+font_130
+New Product Title
+cssselect_68_7
+type17
+font-weight
+Font Weight
+#uhu_tj_9502 #more_info_sheets ul.pd li h5,  #uhu_tj_9502 #home-uhu-contents ul.tab-pane li h5
+603
+
+font_131
+New Product Title
+cssselect_68_7
+type17
+font-style
+Font Style
+#uhu_tj_9502 #more_info_sheets ul.pd li h5,  #uhu_tj_9502 #home-uhu-contents ul.tab-pane li h5
+603
+
+font_132
+New Product Title
+cssselect_68_7
+type17
+text-align
+Text Align
+#uhu_tj_9502 #more_info_sheets ul.pd li h5,  #uhu_tj_9502 #home-uhu-contents ul.tab-pane li h5
+603
+
+font_133
+New Product Title
+cssselect_68_7
+type17
+text-transform
+Text Transform
+#uhu_tj_9502 #more_info_sheets ul.pd li h5,  #uhu_tj_9502 #home-uhu-contents ul.tab-pane li h5
+603
+
+font_134
+New Product Title
+cssselect_68_7
+type17
+text-indent
+Text Indent
+#uhu_tj_9502 #more_info_sheets ul.pd li h5,  #uhu_tj_9502 #home-uhu-contents ul.tab-pane li h5
+603
+43px
+font_135
+New Product Title
+cssselect_68_7
+type17
+line-height
+Line Height
+#uhu_tj_9502 #more_info_sheets ul.pd li h5,  #uhu_tj_9502 #home-uhu-contents ul.tab-pane li h5
+604
+Dosis
+font_136
+New Product Price
+cssselect_68_11
+type18
+font-family
+Font Family
+#uhu_tj_9502 #more_info_sheets ul.pd li p.price_container,  #uhu_tj_9502 #more_info_sheets ul.pd li .content_price,  #uhu_tj_9502 #home-uhu-contents ul.tab-pane li .content_price
+604
+16px
+font_137
+New Product Price
+cssselect_68_11
+type18
+font-size
+Font Size
+#uhu_tj_9502 #more_info_sheets ul.pd li p.price_container,  #uhu_tj_9502 #more_info_sheets ul.pd li .content_price,  #uhu_tj_9502 #home-uhu-contents ul.tab-pane li .content_price
+604
+
+font_138
+New Product Price
+cssselect_68_11
+type18
+font-weight
+Font Weight
+#uhu_tj_9502 #more_info_sheets ul.pd li p.price_container,  #uhu_tj_9502 #more_info_sheets ul.pd li .content_price,  #uhu_tj_9502 #home-uhu-contents ul.tab-pane li .content_price
+604
+
+font_139
+New Product Price
+cssselect_68_11
+type18
+font-style
+Font Style
+#uhu_tj_9502 #more_info_sheets ul.pd li p.price_container,  #uhu_tj_9502 #more_info_sheets ul.pd li .content_price,  #uhu_tj_9502 #home-uhu-contents ul.tab-pane li .content_price
+604
+
+font_140
+New Product Price
+cssselect_68_11
+type18
+text-align
+Text Align
+#uhu_tj_9502 #more_info_sheets ul.pd li p.price_container,  #uhu_tj_9502 #more_info_sheets ul.pd li .content_price,  #uhu_tj_9502 #home-uhu-contents ul.tab-pane li .content_price
+604
+
+font_141
+New Product Price
+cssselect_68_11
+type18
+text-transform
+Text Transform
+#uhu_tj_9502 #more_info_sheets ul.pd li p.price_container,  #uhu_tj_9502 #more_info_sheets ul.pd li .content_price,  #uhu_tj_9502 #home-uhu-contents ul.tab-pane li .content_price
+604
+
+font_142
+New Product Price
+cssselect_68_11
+type18
+text-indent
+Text Indent
+#uhu_tj_9502 #more_info_sheets ul.pd li p.price_container,  #uhu_tj_9502 #more_info_sheets ul.pd li .content_price,  #uhu_tj_9502 #home-uhu-contents ul.tab-pane li .content_price
+604
+
+font_143
+New Product Price
+cssselect_68_11
+type18
+line-height
+Line Height
+#uhu_tj_9502 #more_info_sheets ul.pd li p.price_container,  #uhu_tj_9502 #more_info_sheets ul.pd li .content_price,  #uhu_tj_9502 #home-uhu-contents ul.tab-pane li .content_price
+701
+Dosis
+font_144
+Best Block Title
+cssselect_72_2
+type19
+font-family
+Font Family
+#uhu_cp_1901 .title_block
+701
+24px
+font_145
+Best Block Title
+cssselect_72_2
+type19
+font-size
+Font Size
+#uhu_cp_1901 .title_block
+701
+
+font_146
+Best Block Title
+cssselect_72_2
+type19
+font-weight
+Font Weight
+#uhu_cp_1901 .title_block
+701
+
+font_147
+Best Block Title
+cssselect_72_2
+type19
+font-style
+Font Style
+#uhu_cp_1901 .title_block
+701
+
+font_148
+Best Block Title
+cssselect_72_2
+type19
+text-align
+Text Align
+#uhu_cp_1901 .title_block
+701
+
+font_149
+Best Block Title
+cssselect_72_2
+type19
+text-transform
+Text Transform
+#uhu_cp_1901 .title_block
+701
+15px
+font_150
+Best Block Title
+cssselect_72_2
+type19
+text-indent
+Text Indent
+#uhu_cp_1901 .title_block
+701
+58px
+font_151
+Best Block Title
+cssselect_72_2
+type19
+line-height
+Line Height
+#uhu_cp_1901 .title_block
+702
+Dosis
+font_152
+Best Product Title
+cssselect_72_4
+type20
+font-family
+Font Family
+#uhu_cp_1901 .block_content ul li h5
+702
+14px
+font_153
+Best Product Title
+cssselect_72_4
+type20
+font-size
+Font Size
+#uhu_cp_1901 .block_content ul li h5
+702
+
+font_154
+Best Product Title
+cssselect_72_4
+type20
+font-weight
+Font Weight
+#uhu_cp_1901 .block_content ul li h5
+702
+
+font_155
+Best Product Title
+cssselect_72_4
+type20
+font-style
+Font Style
+#uhu_cp_1901 .block_content ul li h5
+702
+
+font_156
+Best Product Title
+cssselect_72_4
+type20
+text-align
+Text Align
+#uhu_cp_1901 .block_content ul li h5
+702
+
+font_157
+Best Product Title
+cssselect_72_4
+type20
+text-transform
+Text Transform
+#uhu_cp_1901 .block_content ul li h5
+702
+
+font_158
+Best Product Title
+cssselect_72_4
+type20
+text-indent
+Text Indent
+#uhu_cp_1901 .block_content ul li h5
+702
+
+font_159
+Best Product Title
+cssselect_72_4
+type20
+line-height
+Line Height
+#uhu_cp_1901 .block_content ul li h5
+703
+Dosis
+font_160
+Best Product Price
+cssselect_72_12
+type21
+font-family
+Font Family
+#uhu_cp_1901 .block_content ul li p.price_container
+703
+14px
+font_161
+Best Product Price
+cssselect_72_12
+type21
+font-size
+Font Size
+#uhu_cp_1901 .block_content ul li p.price_container
+703
+
+font_162
+Best Product Price
+cssselect_72_12
+type21
+font-weight
+Font Weight
+#uhu_cp_1901 .block_content ul li p.price_container
+703
+
+font_163
+Best Product Price
+cssselect_72_12
+type21
+font-style
+Font Style
+#uhu_cp_1901 .block_content ul li p.price_container
+703
+
+font_164
+Best Product Price
+cssselect_72_12
+type21
+text-align
+Text Align
+#uhu_cp_1901 .block_content ul li p.price_container
+703
+
+font_165
+Best Product Price
+cssselect_72_12
+type21
+text-transform
+Text Transform
+#uhu_cp_1901 .block_content ul li p.price_container
+703
+
+font_166
+Best Product Price
+cssselect_72_12
+type21
+text-indent
+Text Indent
+#uhu_cp_1901 .block_content ul li p.price_container
+703
+20px
+font_167
+Best Product Price
+cssselect_72_12
+type21
+line-height
+Line Height
+#uhu_cp_1901 .block_content ul li p.price_container
+901
+
+font_168
+Footer Title
+cssselect_3_85
+type22
+font-family
+Font Family
+.footer-container .title_block,  .footer-container h4,  .footer-container #footer h4,  #footer #newsletter_block_left h4
+901
+
+font_169
+Footer Title
+cssselect_3_85
+type22
+font-size
+Font Size
+.footer-container .title_block,  .footer-container h4,  .footer-container #footer h4,  #footer #newsletter_block_left h4
+901
+
+font_170
+Footer Title
+cssselect_3_85
+type22
+font-weight
+Font Weight
+.footer-container .title_block,  .footer-container h4,  .footer-container #footer h4,  #footer #newsletter_block_left h4
+901
+
+font_171
+Footer Title
+cssselect_3_85
+type22
+font-style
+Font Style
+.footer-container .title_block,  .footer-container h4,  .footer-container #footer h4,  #footer #newsletter_block_left h4
+901
+
+font_172
+Footer Title
+cssselect_3_85
+type22
+text-align
+Text Align
+.footer-container .title_block,  .footer-container h4,  .footer-container #footer h4,  #footer #newsletter_block_left h4
+901
+
+font_173
+Footer Title
+cssselect_3_85
+type22
+text-transform
+Text Transform
+.footer-container .title_block,  .footer-container h4,  .footer-container #footer h4,  #footer #newsletter_block_left h4
+901
+
+font_174
+Footer Title
+cssselect_3_85
+type22
+text-indent
+Text Indent
+.footer-container .title_block,  .footer-container h4,  .footer-container #footer h4,  #footer #newsletter_block_left h4
+901
+
+font_175
+Footer Title
+cssselect_3_85
+type22
+line-height
+Line Height
+.footer-container .title_block,  .footer-container h4,  .footer-container #footer h4,  #footer #newsletter_block_left h4
+902
+
+font_176
+Footer Link
+cssselect_3_56|cssselect_34_1|cssselect_33_3
+type23
+font-family
+Font Family
+.footer-container #footer ul li, #uhu_ft_fblike .fb_likes, .footer-container #block_various_links_footer ul li
+902
+
+font_177
+Footer Link
+cssselect_3_56|cssselect_34_1|cssselect_33_3
+type23
+font-size
+Font Size
+.footer-container #footer ul li, #uhu_ft_fblike .fb_likes, .footer-container #block_various_links_footer ul li
+902
+
+font_178
+Footer Link
+cssselect_3_56|cssselect_34_1|cssselect_33_3
+type23
+font-weight
+Font Weight
+.footer-container #footer ul li, #uhu_ft_fblike .fb_likes, .footer-container #block_various_links_footer ul li
+902
+
+font_179
+Footer Link
+cssselect_3_56|cssselect_34_1|cssselect_33_3
+type23
+font-style
+Font Style
+.footer-container #footer ul li, #uhu_ft_fblike .fb_likes, .footer-container #block_various_links_footer ul li
+902
+
+font_180
+Footer Link
+cssselect_3_56|cssselect_34_1|cssselect_33_3
+type23
+text-align
+Text Align
+.footer-container #footer ul li, #uhu_ft_fblike .fb_likes, .footer-container #block_various_links_footer ul li
+902
+
+font_181
+Footer Link
+cssselect_3_56|cssselect_34_1|cssselect_33_3
+type23
+text-transform
+Text Transform
+.footer-container #footer ul li, #uhu_ft_fblike .fb_likes, .footer-container #block_various_links_footer ul li
+902
+
+font_182
+Footer Link
+cssselect_3_56|cssselect_34_1|cssselect_33_3
+type23
+text-indent
+Text Indent
+.footer-container #footer ul li, #uhu_ft_fblike .fb_likes, .footer-container #block_various_links_footer ul li
+902
+
+font_183
+Footer Link
+cssselect_3_56|cssselect_34_1|cssselect_33_3
+type23
+line-height
+Line Height
+.footer-container #footer ul li, #uhu_ft_fblike .fb_likes, .footer-container #block_various_links_footer ul li
+801
+
+font_184
+Reassurance Title Header
+cssselect_73_4
+type24
+font-family
+Font Family
+#uhu_reassure_top ul li h3
+801
+
+font_185
+Reassurance Title Header
+cssselect_73_4
+type24
+font-size
+Font Size
+#uhu_reassure_top ul li h3
+801
+
+font_186
+Reassurance Title Header
+cssselect_73_4
+type24
+font-weight
+Font Weight
+#uhu_reassure_top ul li h3
+801
+
+font_187
+Reassurance Title Header
+cssselect_73_4
+type24
+font-style
+Font Style
+#uhu_reassure_top ul li h3
+801
+
+font_188
+Reassurance Title Header
+cssselect_73_4
+type24
+text-align
+Text Align
+#uhu_reassure_top ul li h3
+801
+
+font_189
+Reassurance Title Header
+cssselect_73_4
+type24
+text-transform
+Text Transform
+#uhu_reassure_top ul li h3
+801
+
+font_190
+Reassurance Title Header
+cssselect_73_4
+type24
+text-indent
+Text Indent
+#uhu_reassure_top ul li h3
+801
+
+font_191
+Reassurance Title Header
+cssselect_73_4
+type24
+line-height
+Line Height
+#uhu_reassure_top ul li h3
+811
+
+font_192
+Reassurance Title Slide
+cssselect_73_9
+type25
+font-family
+Font Family
+#uhu_reassure_column ul li h3
+811
+
+font_193
+Reassurance Title Slide
+cssselect_73_9
+type25
+font-size
+Font Size
+#uhu_reassure_column ul li h3
+811
+
+font_194
+Reassurance Title Slide
+cssselect_73_9
+type25
+font-weight
+Font Weight
+#uhu_reassure_column ul li h3
+811
+
+font_195
+Reassurance Title Slide
+cssselect_73_9
+type25
+font-style
+Font Style
+#uhu_reassure_column ul li h3
+811
+
+font_196
+Reassurance Title Slide
+cssselect_73_9
+type25
+text-align
+Text Align
+#uhu_reassure_column ul li h3
+811
+
+font_197
+Reassurance Title Slide
+cssselect_73_9
+type25
+text-transform
+Text Transform
+#uhu_reassure_column ul li h3
+811
+
+font_198
+Reassurance Title Slide
+cssselect_73_9
+type25
+text-indent
+Text Indent
+#uhu_reassure_column ul li h3
+811
+
+font_199
+Reassurance Title Slide
+cssselect_73_9
+type25
+line-height
+Line Height
+#uhu_reassure_column ul li h3
+841
+
+font_200
+Reassurance Title Footer
+cssselect_73_19
+type26
+font-family
+Font Family
+#uhu_reassure_footer ul li h3
+841
+
+font_201
+Reassurance Title Footer
+cssselect_73_19
+type26
+font-size
+Font Size
+#uhu_reassure_footer ul li h3
+841
+
+font_202
+Reassurance Title Footer
+cssselect_73_19
+type26
+font-weight
+Font Weight
+#uhu_reassure_footer ul li h3
+841
+
+font_203
+Reassurance Title Footer
+cssselect_73_19
+type26
+font-style
+Font Style
+#uhu_reassure_footer ul li h3
+841
+
+font_204
+Reassurance Title Footer
+cssselect_73_19
+type26
+text-align
+Text Align
+#uhu_reassure_footer ul li h3
+841
+
+font_205
+Reassurance Title Footer
+cssselect_73_19
+type26
+text-transform
+Text Transform
+#uhu_reassure_footer ul li h3
+841
+
+font_206
+Reassurance Title Footer
+cssselect_73_19
+type26
+text-indent
+Text Indent
+#uhu_reassure_footer ul li h3
+841
+
+font_207
+Reassurance Title Footer
+cssselect_73_19
+type26
+line-height
+Line Height
+#uhu_reassure_footer ul li h3
+831
+Carrois Gothic SC
+font_208
+Reassurance Text FooterNav
+cssselect_73_14
+type27
+font-family
+Font Family
+#uhu_reassure_nav ul li h3
+831
+23px
+font_209
+Reassurance Text FooterNav
+cssselect_73_14
+type27
+font-size
+Font Size
+#uhu_reassure_nav ul li h3
+831
+
+font_210
+Reassurance Text FooterNav
+cssselect_73_14
+type27
+font-weight
+Font Weight
+#uhu_reassure_nav ul li h3
+831
+
+font_211
+Reassurance Text FooterNav
+cssselect_73_14
+type27
+font-style
+Font Style
+#uhu_reassure_nav ul li h3
+831
+
+font_212
+Reassurance Text FooterNav
+cssselect_73_14
+type27
+text-align
+Text Align
+#uhu_reassure_nav ul li h3
+831
+
+font_213
+Reassurance Text FooterNav
+cssselect_73_14
+type27
+text-transform
+Text Transform
+#uhu_reassure_nav ul li h3
+831
+
+font_214
+Reassurance Text FooterNav
+cssselect_73_14
+type27
+text-indent
+Text Indent
+#uhu_reassure_nav ul li h3
+831
+
+font_215
+Reassurance Text FooterNav
+cssselect_73_14
+type27
+line-height
+Line Height
+#uhu_reassure_nav ul li h3
+001
+
+font_216
+Body
+cssselect_2_0
+type28
+font-family
+Font Family
+body
+001
+
+font_217
+Body
+cssselect_2_0
+type28
+font-size
+Font Size
+body
+001
+
+font_218
+Body
+cssselect_2_0
+type28
+font-weight
+Font Weight
+body
+001
+
+font_219
+Body
+cssselect_2_0
+type28
+font-style
+Font Style
+body
+001
+
+font_220
+Body
+cssselect_2_0
+type28
+text-align
+Text Align
+body
+001
+
+font_221
+Body
+cssselect_2_0
+type28
+text-transform
+Text Transform
+body
+001
+
+font_222
+Body
+cssselect_2_0
+type28
+text-indent
+Text Indent
+body
+001
+
+font_223
+Body
+cssselect_2_0
+type28
+line-height
+Line Height
+body
+821
+Carrois Gothic SC
+font_224
+Reassurance Title Home
+cssselect_73_40
+type29
+font-family
+Font Family
+#uhu_reassure_home ul li h3
+821
+15px
+font_225
+Reassurance Title Home
+cssselect_73_40
+type29
+font-size
+Font Size
+#uhu_reassure_home ul li h3
+821
+
+font_226
+Reassurance Title Home
+cssselect_73_40
+type29
+font-weight
+Font Weight
+#uhu_reassure_home ul li h3
+821
+
+font_227
+Reassurance Title Home
+cssselect_73_40
+type29
+font-style
+Font Style
+#uhu_reassure_home ul li h3
+821
+
+font_228
+Reassurance Title Home
+cssselect_73_40
+type29
+text-align
+Text Align
+#uhu_reassure_home ul li h3
+821
+capitalize
+font_229
+Reassurance Title Home
+cssselect_73_40
+type29
+text-transform
+Text Transform
+#uhu_reassure_home ul li h3
+821
+
+font_230
+Reassurance Title Home
+cssselect_73_40
+type29
+text-indent
+Text Indent
+#uhu_reassure_home ul li h3
+821
+20px
+font_231
+Reassurance Title Home
+cssselect_73_40
+type29
+line-height
+Line Height
+#uhu_reassure_home ul li h3
+301
+
+font_232
+Native Product Module Block Title
+cssselect_56_13|cssselect_22_1
+type30
+font-family
+Font Family
+#index .nav-tabs, #columns_home #center_column .sdstitle_block
+301
+16px
+font_233
+Native Product Module Block Title
+cssselect_56_13|cssselect_22_1
+type30
+font-size
+Font Size
+#index .nav-tabs, #columns_home #center_column .sdstitle_block
+301
+
+font_234
+Native Product Module Block Title
+cssselect_56_13|cssselect_22_1
+type30
+font-weight
+Font Weight
+#index .nav-tabs, #columns_home #center_column .sdstitle_block
+301
+
+font_235
+Native Product Module Block Title
+cssselect_56_13|cssselect_22_1
+type30
+font-style
+Font Style
+#index .nav-tabs, #columns_home #center_column .sdstitle_block
+301
+
+font_236
+Native Product Module Block Title
+cssselect_56_13|cssselect_22_1
+type30
+text-align
+Text Align
+#index .nav-tabs, #columns_home #center_column .sdstitle_block
+301
+
+font_237
+Native Product Module Block Title
+cssselect_56_13|cssselect_22_1
+type30
+text-transform
+Text Transform
+#index .nav-tabs, #columns_home #center_column .sdstitle_block
+301
+
+font_238
+Native Product Module Block Title
+cssselect_56_13|cssselect_22_1
+type30
+text-indent
+Text Indent
+#index .nav-tabs, #columns_home #center_column .sdstitle_block
+301
+48px
+font_239
+Native Product Module Block Title
+cssselect_56_13|cssselect_22_1
+type30
+line-height
+Line Height
+#index .nav-tabs, #columns_home #center_column .sdstitle_block
+302
+
+font_240
+Native Product Module Product Title
+cssselect_56_36
+type31
+font-family
+Font Family
+#index ul.product_list.grid li .product-container h5
+302
+15px
+font_241
+Native Product Module Product Title
+cssselect_56_36
+type31
+font-size
+Font Size
+#index ul.product_list.grid li .product-container h5
+302
+normal
+font_242
+Native Product Module Product Title
+cssselect_56_36
+type31
+font-weight
+Font Weight
+#index ul.product_list.grid li .product-container h5
+302
+
+font_243
+Native Product Module Product Title
+cssselect_56_36
+type31
+font-style
+Font Style
+#index ul.product_list.grid li .product-container h5
+302
+left
+font_244
+Native Product Module Product Title
+cssselect_56_36
+type31
+text-align
+Text Align
+#index ul.product_list.grid li .product-container h5
+302
+
+font_245
+Native Product Module Product Title
+cssselect_56_36
+type31
+text-transform
+Text Transform
+#index ul.product_list.grid li .product-container h5
+302
+
+font_246
+Native Product Module Product Title
+cssselect_56_36
+type31
+text-indent
+Text Indent
+#index ul.product_list.grid li .product-container h5
+302
+40px
+font_247
+Native Product Module Product Title
+cssselect_56_36
+type31
+line-height
+Line Height
+#index ul.product_list.grid li .product-container h5
+303
+
+font_248
+Native Product Module Product Price
+cssselect_56_40
+type32
+font-family
+Font Family
+#index ul.product_list.grid li .product-container .content_price
+303
+13px
+font_249
+Native Product Module Product Price
+cssselect_56_40
+type32
+font-size
+Font Size
+#index ul.product_list.grid li .product-container .content_price
+303
+
+font_250
+Native Product Module Product Price
+cssselect_56_40
+type32
+font-weight
+Font Weight
+#index ul.product_list.grid li .product-container .content_price
+303
+
+font_251
+Native Product Module Product Price
+cssselect_56_40
+type32
+font-style
+Font Style
+#index ul.product_list.grid li .product-container .content_price
+303
+
+font_252
+Native Product Module Product Price
+cssselect_56_40
+type32
+text-align
+Text Align
+#index ul.product_list.grid li .product-container .content_price
+303
+
+font_253
+Native Product Module Product Price
+cssselect_56_40
+type32
+text-transform
+Text Transform
+#index ul.product_list.grid li .product-container .content_price
+303
+
+font_254
+Native Product Module Product Price
+cssselect_56_40
+type32
+text-indent
+Text Indent
+#index ul.product_list.grid li .product-container .content_price
+303
+24px
+font_255
+Native Product Module Product Price
+cssselect_56_40
+type32
+line-height
+Line Height
+#index ul.product_list.grid li .product-container .content_price
+304
+Adamina
+font_256
+Native Product Module Product New label
+cssselect_56_35
+type33
+font-family
+Font Family
+#index ul.product_list.grid li .product-container .new-label
+304
+12px
+font_257
+Native Product Module Product New label
+cssselect_56_35
+type33
+font-size
+Font Size
+#index ul.product_list.grid li .product-container .new-label
+304
+
+font_258
+Native Product Module Product New label
+cssselect_56_35
+type33
+font-weight
+Font Weight
+#index ul.product_list.grid li .product-container .new-label
+304
+italic
+font_259
+Native Product Module Product New label
+cssselect_56_35
+type33
+font-style
+Font Style
+#index ul.product_list.grid li .product-container .new-label
+304
+
+font_260
+Native Product Module Product New label
+cssselect_56_35
+type33
+text-align
+Text Align
+#index ul.product_list.grid li .product-container .new-label
+304
+
+font_261
+Native Product Module Product New label
+cssselect_56_35
+type33
+text-transform
+Text Transform
+#index ul.product_list.grid li .product-container .new-label
+304
+
+font_262
+Native Product Module Product New label
+cssselect_56_35
+type33
+text-indent
+Text Indent
+#index ul.product_list.grid li .product-container .new-label
+304
+12px
+font_263
+Native Product Module Product New label
+cssselect_56_35
+type33
+line-height
+Line Height
+#index ul.product_list.grid li .product-container .new-label
+305
+Carrois Gothic SC
+font_264
+Native Product Module Product Button
+cssselect_56_59
+type34
+font-family
+Font Family
+#index .tab-content ul li .button,  #index .tab-content ul li .btn
+305
+12px
+font_265
+Native Product Module Product Button
+cssselect_56_59
+type34
+font-size
+Font Size
+#index .tab-content ul li .button,  #index .tab-content ul li .btn
+305
+
+font_266
+Native Product Module Product Button
+cssselect_56_59
+type34
+font-weight
+Font Weight
+#index .tab-content ul li .button,  #index .tab-content ul li .btn
+305
+
+font_267
+Native Product Module Product Button
+cssselect_56_59
+type34
+font-style
+Font Style
+#index .tab-content ul li .button,  #index .tab-content ul li .btn
+305
+
+font_268
+Native Product Module Product Button
+cssselect_56_59
+type34
+text-align
+Text Align
+#index .tab-content ul li .button,  #index .tab-content ul li .btn
+305
+
+font_269
+Native Product Module Product Button
+cssselect_56_59
+type34
+text-transform
+Text Transform
+#index .tab-content ul li .button,  #index .tab-content ul li .btn
+305
+
+font_270
+Native Product Module Product Button
+cssselect_56_59
+type34
+text-indent
+Text Indent
+#index .tab-content ul li .button,  #index .tab-content ul li .btn
+305
+24px
+font_271
+Native Product Module Product Button
+cssselect_56_59
+type34
+line-height
+Line Height
+#index .tab-content ul li .button,  #index .tab-content ul li .btn
+401
+
+font_272
+Contact Block Title
+cssselect_35_8|cssselect_35_22|cssselect_35_29
+type35
+font-family
+Font Family
+#uhu_contactus_home .title_block,  #uhu_contactus_home .title_block a, #uhu_contactus_slider .title_block,  #uhu_contactus_slider .title_block a, #uhu_contactus_bottom .title_block,  #uhu_contactus_bottom .title_block a
+401
+
+font_273
+Contact Block Title
+cssselect_35_8|cssselect_35_22|cssselect_35_29
+type35
+font-size
+Font Size
+#uhu_contactus_home .title_block,  #uhu_contactus_home .title_block a, #uhu_contactus_slider .title_block,  #uhu_contactus_slider .title_block a, #uhu_contactus_bottom .title_block,  #uhu_contactus_bottom .title_block a
+401
+
+font_274
+Contact Block Title
+cssselect_35_8|cssselect_35_22|cssselect_35_29
+type35
+font-weight
+Font Weight
+#uhu_contactus_home .title_block,  #uhu_contactus_home .title_block a, #uhu_contactus_slider .title_block,  #uhu_contactus_slider .title_block a, #uhu_contactus_bottom .title_block,  #uhu_contactus_bottom .title_block a
+401
+
+font_275
+Contact Block Title
+cssselect_35_8|cssselect_35_22|cssselect_35_29
+type35
+font-style
+Font Style
+#uhu_contactus_home .title_block,  #uhu_contactus_home .title_block a, #uhu_contactus_slider .title_block,  #uhu_contactus_slider .title_block a, #uhu_contactus_bottom .title_block,  #uhu_contactus_bottom .title_block a
+401
+
+font_276
+Contact Block Title
+cssselect_35_8|cssselect_35_22|cssselect_35_29
+type35
+text-align
+Text Align
+#uhu_contactus_home .title_block,  #uhu_contactus_home .title_block a, #uhu_contactus_slider .title_block,  #uhu_contactus_slider .title_block a, #uhu_contactus_bottom .title_block,  #uhu_contactus_bottom .title_block a
+401
+
+font_277
+Contact Block Title
+cssselect_35_8|cssselect_35_22|cssselect_35_29
+type35
+text-transform
+Text Transform
+#uhu_contactus_home .title_block,  #uhu_contactus_home .title_block a, #uhu_contactus_slider .title_block,  #uhu_contactus_slider .title_block a, #uhu_contactus_bottom .title_block,  #uhu_contactus_bottom .title_block a
+401
+
+font_278
+Contact Block Title
+cssselect_35_8|cssselect_35_22|cssselect_35_29
+type35
+text-indent
+Text Indent
+#uhu_contactus_home .title_block,  #uhu_contactus_home .title_block a, #uhu_contactus_slider .title_block,  #uhu_contactus_slider .title_block a, #uhu_contactus_bottom .title_block,  #uhu_contactus_bottom .title_block a
+401
+
+font_279
+Contact Block Title
+cssselect_35_8|cssselect_35_22|cssselect_35_29
+type35
+line-height
+Line Height
+#uhu_contactus_home .title_block,  #uhu_contactus_home .title_block a, #uhu_contactus_slider .title_block,  #uhu_contactus_slider .title_block a, #uhu_contactus_bottom .title_block,  #uhu_contactus_bottom .title_block a
+402
+
+font_280
+Contact Block Subtitle
+cssselect_35_46|cssselect_35_47|cssselect_35_48
+type36
+font-family
+Font Family
+#uhu_contactus_home .sub_title, #uhu_contactus_slider .sub_title, #uhu_contactus_bottom .sub_title
+402
+13px
+font_281
+Contact Block Subtitle
+cssselect_35_46|cssselect_35_47|cssselect_35_48
+type36
+font-size
+Font Size
+#uhu_contactus_home .sub_title, #uhu_contactus_slider .sub_title, #uhu_contactus_bottom .sub_title
+402
+
+font_282
+Contact Block Subtitle
+cssselect_35_46|cssselect_35_47|cssselect_35_48
+type36
+font-weight
+Font Weight
+#uhu_contactus_home .sub_title, #uhu_contactus_slider .sub_title, #uhu_contactus_bottom .sub_title
+402
+
+font_283
+Contact Block Subtitle
+cssselect_35_46|cssselect_35_47|cssselect_35_48
+type36
+font-style
+Font Style
+#uhu_contactus_home .sub_title, #uhu_contactus_slider .sub_title, #uhu_contactus_bottom .sub_title
+402
+
+font_284
+Contact Block Subtitle
+cssselect_35_46|cssselect_35_47|cssselect_35_48
+type36
+text-align
+Text Align
+#uhu_contactus_home .sub_title, #uhu_contactus_slider .sub_title, #uhu_contactus_bottom .sub_title
+402
+
+font_285
+Contact Block Subtitle
+cssselect_35_46|cssselect_35_47|cssselect_35_48
+type36
+text-transform
+Text Transform
+#uhu_contactus_home .sub_title, #uhu_contactus_slider .sub_title, #uhu_contactus_bottom .sub_title
+402
+
+font_286
+Contact Block Subtitle
+cssselect_35_46|cssselect_35_47|cssselect_35_48
+type36
+text-indent
+Text Indent
+#uhu_contactus_home .sub_title, #uhu_contactus_slider .sub_title, #uhu_contactus_bottom .sub_title
+402
+20px
+font_287
+Contact Block Subtitle
+cssselect_35_46|cssselect_35_47|cssselect_35_48
+type36
+line-height
+Line Height
+#uhu_contactus_home .sub_title, #uhu_contactus_slider .sub_title, #uhu_contactus_bottom .sub_title
+403
+
+font_288
+Contact Block Text
+cssselect_35_35|cssselect_35_36|cssselect_35_37
+type37
+font-family
+Font Family
+#uhu_contactus_bottom p, #uhu_contactus_home p, #uhu_contactus_slider p
+403
+14px
+font_289
+Contact Block Text
+cssselect_35_35|cssselect_35_36|cssselect_35_37
+type37
+font-size
+Font Size
+#uhu_contactus_bottom p, #uhu_contactus_home p, #uhu_contactus_slider p
+403
+
+font_290
+Contact Block Text
+cssselect_35_35|cssselect_35_36|cssselect_35_37
+type37
+font-weight
+Font Weight
+#uhu_contactus_bottom p, #uhu_contactus_home p, #uhu_contactus_slider p
+403
+
+font_291
+Contact Block Text
+cssselect_35_35|cssselect_35_36|cssselect_35_37
+type37
+font-style
+Font Style
+#uhu_contactus_bottom p, #uhu_contactus_home p, #uhu_contactus_slider p
+403
+
+font_292
+Contact Block Text
+cssselect_35_35|cssselect_35_36|cssselect_35_37
+type37
+text-align
+Text Align
+#uhu_contactus_bottom p, #uhu_contactus_home p, #uhu_contactus_slider p
+403
+
+font_293
+Contact Block Text
+cssselect_35_35|cssselect_35_36|cssselect_35_37
+type37
+text-transform
+Text Transform
+#uhu_contactus_bottom p, #uhu_contactus_home p, #uhu_contactus_slider p
+403
+
+font_294
+Contact Block Text
+cssselect_35_35|cssselect_35_36|cssselect_35_37
+type37
+text-indent
+Text Indent
+#uhu_contactus_bottom p, #uhu_contactus_home p, #uhu_contactus_slider p
+403
+20px
+font_295
+Contact Block Text
+cssselect_35_35|cssselect_35_36|cssselect_35_37
+type37
+line-height
+Line Height
+#uhu_contactus_bottom p, #uhu_contactus_home p, #uhu_contactus_slider p
+404
+Abel
+font_296
+Contact Block List
+cssselect_35_10|cssselect_35_24|cssselect_35_31
+type38
+font-family
+Font Family
+#uhu_contactus_home li, #uhu_contactus_slider li, #uhu_contactus_bottom li
+404
+20px
+font_297
+Contact Block List
+cssselect_35_10|cssselect_35_24|cssselect_35_31
+type38
+font-size
+Font Size
+#uhu_contactus_home li, #uhu_contactus_slider li, #uhu_contactus_bottom li
+404
+
+font_298
+Contact Block List
+cssselect_35_10|cssselect_35_24|cssselect_35_31
+type38
+font-weight
+Font Weight
+#uhu_contactus_home li, #uhu_contactus_slider li, #uhu_contactus_bottom li
+404
+
+font_299
+Contact Block List
+cssselect_35_10|cssselect_35_24|cssselect_35_31
+type38
+font-style
+Font Style
+#uhu_contactus_home li, #uhu_contactus_slider li, #uhu_contactus_bottom li
+404
+
+font_300
+Contact Block List
+cssselect_35_10|cssselect_35_24|cssselect_35_31
+type38
+text-align
+Text Align
+#uhu_contactus_home li, #uhu_contactus_slider li, #uhu_contactus_bottom li
+404
+
+font_301
+Contact Block List
+cssselect_35_10|cssselect_35_24|cssselect_35_31
+type38
+text-transform
+Text Transform
+#uhu_contactus_home li, #uhu_contactus_slider li, #uhu_contactus_bottom li
+404
+
+font_302
+Contact Block List
+cssselect_35_10|cssselect_35_24|cssselect_35_31
+type38
+text-indent
+Text Indent
+#uhu_contactus_home li, #uhu_contactus_slider li, #uhu_contactus_bottom li
+404
+60px
+font_303
+Contact Block List
+cssselect_35_10|cssselect_35_24|cssselect_35_31
+type38
+line-height
+Line Height
+#uhu_contactus_home li, #uhu_contactus_slider li, #uhu_contactus_bottom li
+802
+
+font_304
+Reassurance Text Header
+cssselect_73_24
+type39
+font-family
+Font Family
+#uhu_reassure_top ul li p
+802
+
+font_305
+Reassurance Text Header
+cssselect_73_24
+type39
+font-size
+Font Size
+#uhu_reassure_top ul li p
+802
+
+font_306
+Reassurance Text Header
+cssselect_73_24
+type39
+font-weight
+Font Weight
+#uhu_reassure_top ul li p
+802
+
+font_307
+Reassurance Text Header
+cssselect_73_24
+type39
+font-style
+Font Style
+#uhu_reassure_top ul li p
+802
+
+font_308
+Reassurance Text Header
+cssselect_73_24
+type39
+text-align
+Text Align
+#uhu_reassure_top ul li p
+802
+
+font_309
+Reassurance Text Header
+cssselect_73_24
+type39
+text-transform
+Text Transform
+#uhu_reassure_top ul li p
+802
+
+font_310
+Reassurance Text Header
+cssselect_73_24
+type39
+text-indent
+Text Indent
+#uhu_reassure_top ul li p
+802
+
+font_311
+Reassurance Text Header
+cssselect_73_24
+type39
+line-height
+Line Height
+#uhu_reassure_top ul li p
+812
+
+font_312
+Reassurance Text Slider
+cssselect_73_25
+type40
+font-family
+Font Family
+#uhu_reassure_column ul li p
+812
+
+font_313
+Reassurance Text Slider
+cssselect_73_25
+type40
+font-size
+Font Size
+#uhu_reassure_column ul li p
+812
+
+font_314
+Reassurance Text Slider
+cssselect_73_25
+type40
+font-weight
+Font Weight
+#uhu_reassure_column ul li p
+812
+
+font_315
+Reassurance Text Slider
+cssselect_73_25
+type40
+font-style
+Font Style
+#uhu_reassure_column ul li p
+812
+
+font_316
+Reassurance Text Slider
+cssselect_73_25
+type40
+text-align
+Text Align
+#uhu_reassure_column ul li p
+812
+
+font_317
+Reassurance Text Slider
+cssselect_73_25
+type40
+text-transform
+Text Transform
+#uhu_reassure_column ul li p
+812
+
+font_318
+Reassurance Text Slider
+cssselect_73_25
+type40
+text-indent
+Text Indent
+#uhu_reassure_column ul li p
+812
+
+font_319
+Reassurance Text Slider
+cssselect_73_25
+type40
+line-height
+Line Height
+#uhu_reassure_column ul li p
+822
+Dosis
+font_320
+Reassurance Text Home
+cssselect_73_42
+type41
+font-family
+Font Family
+#uhu_reassure_home ul li p
+822
+13px
+font_321
+Reassurance Text Home
+cssselect_73_42
+type41
+font-size
+Font Size
+#uhu_reassure_home ul li p
+822
+normal
+font_322
+Reassurance Text Home
+cssselect_73_42
+type41
+font-weight
+Font Weight
+#uhu_reassure_home ul li p
+822
+
+font_323
+Reassurance Text Home
+cssselect_73_42
+type41
+font-style
+Font Style
+#uhu_reassure_home ul li p
+822
+
+font_324
+Reassurance Text Home
+cssselect_73_42
+type41
+text-align
+Text Align
+#uhu_reassure_home ul li p
+822
+
+font_325
+Reassurance Text Home
+cssselect_73_42
+type41
+text-transform
+Text Transform
+#uhu_reassure_home ul li p
+822
+
+font_326
+Reassurance Text Home
+cssselect_73_42
+type41
+text-indent
+Text Indent
+#uhu_reassure_home ul li p
+822
+16px
+font_327
+Reassurance Text Home
+cssselect_73_42
+type41
+line-height
+Line Height
+#uhu_reassure_home ul li p
+832
+
+font_328
+Reassurance Text FooterNav
+cssselect_73_26
+type42
+font-family
+Font Family
+#uhu_reassure_nav ul li p
+832
+
+font_329
+Reassurance Text FooterNav
+cssselect_73_26
+type42
+font-size
+Font Size
+#uhu_reassure_nav ul li p
+832
+
+font_330
+Reassurance Text FooterNav
+cssselect_73_26
+type42
+font-weight
+Font Weight
+#uhu_reassure_nav ul li p
+832
+
+font_331
+Reassurance Text FooterNav
+cssselect_73_26
+type42
+font-style
+Font Style
+#uhu_reassure_nav ul li p
+832
+
+font_332
+Reassurance Text FooterNav
+cssselect_73_26
+type42
+text-align
+Text Align
+#uhu_reassure_nav ul li p
+832
+
+font_333
+Reassurance Text FooterNav
+cssselect_73_26
+type42
+text-transform
+Text Transform
+#uhu_reassure_nav ul li p
+832
+
+font_334
+Reassurance Text FooterNav
+cssselect_73_26
+type42
+text-indent
+Text Indent
+#uhu_reassure_nav ul li p
+832
+
+font_335
+Reassurance Text FooterNav
+cssselect_73_26
+type42
+line-height
+Line Height
+#uhu_reassure_nav ul li p
+842
+
+font_336
+Reassurance Text Footer
+cssselect_73_27
+type43
+font-family
+Font Family
+#uhu_reassure_footer ul li p
+842
+
+font_337
+Reassurance Text Footer
+cssselect_73_27
+type43
+font-size
+Font Size
+#uhu_reassure_footer ul li p
+842
+
+font_338
+Reassurance Text Footer
+cssselect_73_27
+type43
+font-weight
+Font Weight
+#uhu_reassure_footer ul li p
+842
+
+font_339
+Reassurance Text Footer
+cssselect_73_27
+type43
+font-style
+Font Style
+#uhu_reassure_footer ul li p
+842
+
+font_340
+Reassurance Text Footer
+cssselect_73_27
+type43
+text-align
+Text Align
+#uhu_reassure_footer ul li p
+842
+
+font_341
+Reassurance Text Footer
+cssselect_73_27
+type43
+text-transform
+Text Transform
+#uhu_reassure_footer ul li p
+842
+
+font_342
+Reassurance Text Footer
+cssselect_73_27
+type43
+text-indent
+Text Indent
+#uhu_reassure_footer ul li p
+842
+
+font_343
+Reassurance Text Footer
+cssselect_73_27
+type43
+line-height
+Line Height
+#uhu_reassure_footer ul li p
+803
+
+font_344
+Reassurance Icon Header
+cssselect_73_3
+type44
+font-family
+Font Family
+#uhu_reassure_top ul li i
+803
+
+font_345
+Reassurance Icon Header
+cssselect_73_3
+type44
+font-size
+Font Size
+#uhu_reassure_top ul li i
+803
+
+font_346
+Reassurance Icon Header
+cssselect_73_3
+type44
+font-weight
+Font Weight
+#uhu_reassure_top ul li i
+803
+
+font_347
+Reassurance Icon Header
+cssselect_73_3
+type44
+font-style
+Font Style
+#uhu_reassure_top ul li i
+803
+
+font_348
+Reassurance Icon Header
+cssselect_73_3
+type44
+text-align
+Text Align
+#uhu_reassure_top ul li i
+803
+
+font_349
+Reassurance Icon Header
+cssselect_73_3
+type44
+text-transform
+Text Transform
+#uhu_reassure_top ul li i
+803
+
+font_350
+Reassurance Icon Header
+cssselect_73_3
+type44
+text-indent
+Text Indent
+#uhu_reassure_top ul li i
+803
+
+font_351
+Reassurance Icon Header
+cssselect_73_3
+type44
+line-height
+Line Height
+#uhu_reassure_top ul li i
+813
+
+font_352
+Reassurance Icon Slider
+cssselect_73_8
+type45
+font-family
+Font Family
+#uhu_reassure_column ul li i
+813
+
+font_353
+Reassurance Icon Slider
+cssselect_73_8
+type45
+font-size
+Font Size
+#uhu_reassure_column ul li i
+813
+
+font_354
+Reassurance Icon Slider
+cssselect_73_8
+type45
+font-weight
+Font Weight
+#uhu_reassure_column ul li i
+813
+
+font_355
+Reassurance Icon Slider
+cssselect_73_8
+type45
+font-style
+Font Style
+#uhu_reassure_column ul li i
+813
+
+font_356
+Reassurance Icon Slider
+cssselect_73_8
+type45
+text-align
+Text Align
+#uhu_reassure_column ul li i
+813
+
+font_357
+Reassurance Icon Slider
+cssselect_73_8
+type45
+text-transform
+Text Transform
+#uhu_reassure_column ul li i
+813
+
+font_358
+Reassurance Icon Slider
+cssselect_73_8
+type45
+text-indent
+Text Indent
+#uhu_reassure_column ul li i
+813
+
+font_359
+Reassurance Icon Slider
+cssselect_73_8
+type45
+line-height
+Line Height
+#uhu_reassure_column ul li i
+823
+
+font_360
+Reassurance Icon Home
+cssselect_73_39
+type46
+font-family
+Font Family
+#uhu_reassure_home ul li i
+823
+45px
+font_361
+Reassurance Icon Home
+cssselect_73_39
+type46
+font-size
+Font Size
+#uhu_reassure_home ul li i
+823
+
+font_362
+Reassurance Icon Home
+cssselect_73_39
+type46
+font-weight
+Font Weight
+#uhu_reassure_home ul li i
+823
+
+font_363
+Reassurance Icon Home
+cssselect_73_39
+type46
+font-style
+Font Style
+#uhu_reassure_home ul li i
+823
+
+font_364
+Reassurance Icon Home
+cssselect_73_39
+type46
+text-align
+Text Align
+#uhu_reassure_home ul li i
+823
+
+font_365
+Reassurance Icon Home
+cssselect_73_39
+type46
+text-transform
+Text Transform
+#uhu_reassure_home ul li i
+823
+
+font_366
+Reassurance Icon Home
+cssselect_73_39
+type46
+text-indent
+Text Indent
+#uhu_reassure_home ul li i
+823
+
+font_367
+Reassurance Icon Home
+cssselect_73_39
+type46
+line-height
+Line Height
+#uhu_reassure_home ul li i
+833
+
+font_368
+Reassurance Icon FooterNav
+cssselect_73_13
+type47
+font-family
+Font Family
+#uhu_reassure_nav ul li i
+833
+
+font_369
+Reassurance Icon FooterNav
+cssselect_73_13
+type47
+font-size
+Font Size
+#uhu_reassure_nav ul li i
+833
+
+font_370
+Reassurance Icon FooterNav
+cssselect_73_13
+type47
+font-weight
+Font Weight
+#uhu_reassure_nav ul li i
+833
+
+font_371
+Reassurance Icon FooterNav
+cssselect_73_13
+type47
+font-style
+Font Style
+#uhu_reassure_nav ul li i
+833
+
+font_372
+Reassurance Icon FooterNav
+cssselect_73_13
+type47
+text-align
+Text Align
+#uhu_reassure_nav ul li i
+833
+
+font_373
+Reassurance Icon FooterNav
+cssselect_73_13
+type47
+text-transform
+Text Transform
+#uhu_reassure_nav ul li i
+833
+
+font_374
+Reassurance Icon FooterNav
+cssselect_73_13
+type47
+text-indent
+Text Indent
+#uhu_reassure_nav ul li i
+833
+
+font_375
+Reassurance Icon FooterNav
+cssselect_73_13
+type47
+line-height
+Line Height
+#uhu_reassure_nav ul li i
+843
+
+font_376
+Reassurance Icon Footer
+cssselect_73_18
+type48
+font-family
+Font Family
+#uhu_reassure_footer ul li i
+843
+
+font_377
+Reassurance Icon Footer
+cssselect_73_18
+type48
+font-size
+Font Size
+#uhu_reassure_footer ul li i
+843
+
+font_378
+Reassurance Icon Footer
+cssselect_73_18
+type48
+font-weight
+Font Weight
+#uhu_reassure_footer ul li i
+843
+
+font_379
+Reassurance Icon Footer
+cssselect_73_18
+type48
+font-style
+Font Style
+#uhu_reassure_footer ul li i
+843
+
+font_380
+Reassurance Icon Footer
+cssselect_73_18
+type48
+text-align
+Text Align
+#uhu_reassure_footer ul li i
+843
+
+font_381
+Reassurance Icon Footer
+cssselect_73_18
+type48
+text-transform
+Text Transform
+#uhu_reassure_footer ul li i
+843
+
+font_382
+Reassurance Icon Footer
+cssselect_73_18
+type48
+text-indent
+Text Indent
+#uhu_reassure_footer ul li i
+843
+
+font_383
+Reassurance Icon Footer
+cssselect_73_18
+type48
+line-height
+Line Height
+#uhu_reassure_footer ul li i
+405
+Carrois Gothic SC
+font_384
+Footer Contact Title
+cssselect_35_1
+type49
+font-family
+Font Family
+#uhu_contactus_foot .title_block,  #uhu_contactus_foot .title_block a
+405
+20px
+font_385
+Footer Contact Title
+cssselect_35_1
+type49
+font-size
+Font Size
+#uhu_contactus_foot .title_block,  #uhu_contactus_foot .title_block a
+405
+
+font_386
+Footer Contact Title
+cssselect_35_1
+type49
+font-weight
+Font Weight
+#uhu_contactus_foot .title_block,  #uhu_contactus_foot .title_block a
+405
+
+font_387
+Footer Contact Title
+cssselect_35_1
+type49
+font-style
+Font Style
+#uhu_contactus_foot .title_block,  #uhu_contactus_foot .title_block a
+405
+
+font_388
+Footer Contact Title
+cssselect_35_1
+type49
+text-align
+Text Align
+#uhu_contactus_foot .title_block,  #uhu_contactus_foot .title_block a
+405
+
+font_389
+Footer Contact Title
+cssselect_35_1
+type49
+text-transform
+Text Transform
+#uhu_contactus_foot .title_block,  #uhu_contactus_foot .title_block a
+405
+
+font_390
+Footer Contact Title
+cssselect_35_1
+type49
+text-indent
+Text Indent
+#uhu_contactus_foot .title_block,  #uhu_contactus_foot .title_block a
+405
+
+font_391
+Footer Contact Title
+cssselect_35_1
+type49
+line-height
+Line Height
+#uhu_contactus_foot .title_block,  #uhu_contactus_foot .title_block a
+406
+Carrois Gothic SC
+font_392
+Footer Footer Subtitle
+cssselect_35_49
+type50
+font-family
+Font Family
+#uhu_contactus_foot .sub_title
+406
+
+font_393
+Footer Footer Subtitle
+cssselect_35_49
+type50
+font-size
+Font Size
+#uhu_contactus_foot .sub_title
+406
+
+font_394
+Footer Footer Subtitle
+cssselect_35_49
+type50
+font-weight
+Font Weight
+#uhu_contactus_foot .sub_title
+406
+
+font_395
+Footer Footer Subtitle
+cssselect_35_49
+type50
+font-style
+Font Style
+#uhu_contactus_foot .sub_title
+406
+
+font_396
+Footer Footer Subtitle
+cssselect_35_49
+type50
+text-align
+Text Align
+#uhu_contactus_foot .sub_title
+406
+
+font_397
+Footer Footer Subtitle
+cssselect_35_49
+type50
+text-transform
+Text Transform
+#uhu_contactus_foot .sub_title
+406
+
+font_398
+Footer Footer Subtitle
+cssselect_35_49
+type50
+text-indent
+Text Indent
+#uhu_contactus_foot .sub_title
+406
+
+font_399
+Footer Footer Subtitle
+cssselect_35_49
+type50
+line-height
+Line Height
+#uhu_contactus_foot .sub_title
+407
+Carrois Gothic SC
+font_400
+Footer Contact Text
+cssselect_35_38
+type51
+font-family
+Font Family
+#uhu_contactus_foot p
+407
+
+font_401
+Footer Contact Text
+cssselect_35_38
+type51
+font-size
+Font Size
+#uhu_contactus_foot p
+407
+
+font_402
+Footer Contact Text
+cssselect_35_38
+type51
+font-weight
+Font Weight
+#uhu_contactus_foot p
+407
+
+font_403
+Footer Contact Text
+cssselect_35_38
+type51
+font-style
+Font Style
+#uhu_contactus_foot p
+407
+
+font_404
+Footer Contact Text
+cssselect_35_38
+type51
+text-align
+Text Align
+#uhu_contactus_foot p
+407
+
+font_405
+Footer Contact Text
+cssselect_35_38
+type51
+text-transform
+Text Transform
+#uhu_contactus_foot p
+407
+
+font_406
+Footer Contact Text
+cssselect_35_38
+type51
+text-indent
+Text Indent
+#uhu_contactus_foot p
+407
+
+font_407
+Footer Contact Text
+cssselect_35_38
+type51
+line-height
+Line Height
+#uhu_contactus_foot p
+408
+Carrois Gothic SC
+font_408
+Footer Contact List
+cssselect_35_3
+type52
+font-family
+Font Family
+#uhu_contactus_foot li
+408
+
+font_409
+Footer Contact List
+cssselect_35_3
+type52
+font-size
+Font Size
+#uhu_contactus_foot li
+408
+
+font_410
+Footer Contact List
+cssselect_35_3
+type52
+font-weight
+Font Weight
+#uhu_contactus_foot li
+408
+
+font_411
+Footer Contact List
+cssselect_35_3
+type52
+font-style
+Font Style
+#uhu_contactus_foot li
+408
+
+font_412
+Footer Contact List
+cssselect_35_3
+type52
+text-align
+Text Align
+#uhu_contactus_foot li
+408
+
+font_413
+Footer Contact List
+cssselect_35_3
+type52
+text-transform
+Text Transform
+#uhu_contactus_foot li
+408
+
+font_414
+Footer Contact List
+cssselect_35_3
+type52
+text-indent
+Text Indent
+#uhu_contactus_foot li
+408
+
+font_415
+Footer Contact List
+cssselect_35_3
+type52
+line-height
+Line Height
+#uhu_contactus_foot li
+306
+
+font_416
+Latest News
+cssselect_22_1|cssselect_31_1
+type53
+font-family
+Font Family
+#columns_home #center_column .sdstitle_block, #uhu_news_home .title_block
+306
+
+font_417
+Latest News
+cssselect_22_1|cssselect_31_1
+type53
+font-size
+Font Size
+#columns_home #center_column .sdstitle_block, #uhu_news_home .title_block
+306
+
+font_418
+Latest News
+cssselect_22_1|cssselect_31_1
+type53
+font-weight
+Font Weight
+#columns_home #center_column .sdstitle_block, #uhu_news_home .title_block
+306
+
+font_419
+Latest News
+cssselect_22_1|cssselect_31_1
+type53
+font-style
+Font Style
+#columns_home #center_column .sdstitle_block, #uhu_news_home .title_block
+306
+
+font_420
+Latest News
+cssselect_22_1|cssselect_31_1
+type53
+text-align
+Text Align
+#columns_home #center_column .sdstitle_block, #uhu_news_home .title_block
+306
+
+font_421
+Latest News
+cssselect_22_1|cssselect_31_1
+type53
+text-transform
+Text Transform
+#columns_home #center_column .sdstitle_block, #uhu_news_home .title_block
+306
+
+font_422
+Latest News
+cssselect_22_1|cssselect_31_1
+type53
+text-indent
+Text Indent
+#columns_home #center_column .sdstitle_block, #uhu_news_home .title_block
+306
+
+font_423
+Latest News
+cssselect_22_1|cssselect_31_1
+type53
+line-height
+Line Height
+#columns_home #center_column .sdstitle_block, #uhu_news_home .title_block
+307
+
+font_424
+Blog Post Time
+cssselect_22_6|cssselect_31_9
+type54
+font-family
+Font Family
+#columns_home #center_column #sds_blog_post span, #uhu_news_home .block_content ul li .subtitle
+307
+
+font_425
+Blog Post Time
+cssselect_22_6|cssselect_31_9
+type54
+font-size
+Font Size
+#columns_home #center_column #sds_blog_post span, #uhu_news_home .block_content ul li .subtitle
+307
+
+font_426
+Blog Post Time
+cssselect_22_6|cssselect_31_9
+type54
+font-weight
+Font Weight
+#columns_home #center_column #sds_blog_post span, #uhu_news_home .block_content ul li .subtitle
+307
+
+font_427
+Blog Post Time
+cssselect_22_6|cssselect_31_9
+type54
+font-style
+Font Style
+#columns_home #center_column #sds_blog_post span, #uhu_news_home .block_content ul li .subtitle
+307
+
+font_428
+Blog Post Time
+cssselect_22_6|cssselect_31_9
+type54
+text-align
+Text Align
+#columns_home #center_column #sds_blog_post span, #uhu_news_home .block_content ul li .subtitle
+307
+
+font_429
+Blog Post Time
+cssselect_22_6|cssselect_31_9
+type54
+text-transform
+Text Transform
+#columns_home #center_column #sds_blog_post span, #uhu_news_home .block_content ul li .subtitle
+307
+
+font_430
+Blog Post Time
+cssselect_22_6|cssselect_31_9
+type54
+text-indent
+Text Indent
+#columns_home #center_column #sds_blog_post span, #uhu_news_home .block_content ul li .subtitle
+307
+
+font_431
+Blog Post Time
+cssselect_22_6|cssselect_31_9
+type54
+line-height
+Line Height
+#columns_home #center_column #sds_blog_post span, #uhu_news_home .block_content ul li .subtitle
+308
+
+font_432
+Blog Post Title
+cssselect_22_7|cssselect_31_8
+type55
+font-family
+Font Family
+#columns_home #center_column #sds_blog_post .sds_post_title, #uhu_news_home .block_content ul li .title
+308
+
+font_433
+Blog Post Title
+cssselect_22_7|cssselect_31_8
+type55
+font-size
+Font Size
+#columns_home #center_column #sds_blog_post .sds_post_title, #uhu_news_home .block_content ul li .title
+308
+
+font_434
+Blog Post Title
+cssselect_22_7|cssselect_31_8
+type55
+font-weight
+Font Weight
+#columns_home #center_column #sds_blog_post .sds_post_title, #uhu_news_home .block_content ul li .title
+308
+
+font_435
+Blog Post Title
+cssselect_22_7|cssselect_31_8
+type55
+font-style
+Font Style
+#columns_home #center_column #sds_blog_post .sds_post_title, #uhu_news_home .block_content ul li .title
+308
+
+font_436
+Blog Post Title
+cssselect_22_7|cssselect_31_8
+type55
+text-align
+Text Align
+#columns_home #center_column #sds_blog_post .sds_post_title, #uhu_news_home .block_content ul li .title
+308
+
+font_437
+Blog Post Title
+cssselect_22_7|cssselect_31_8
+type55
+text-transform
+Text Transform
+#columns_home #center_column #sds_blog_post .sds_post_title, #uhu_news_home .block_content ul li .title
+308
+
+font_438
+Blog Post Title
+cssselect_22_7|cssselect_31_8
+type55
+text-indent
+Text Indent
+#columns_home #center_column #sds_blog_post .sds_post_title, #uhu_news_home .block_content ul li .title
+308
+
+font_439
+Blog Post Title
+cssselect_22_7|cssselect_31_8
+type55
+line-height
+Line Height
+#columns_home #center_column #sds_blog_post .sds_post_title, #uhu_news_home .block_content ul li .title
+309
+
+font_440
+Blog Post Text
+cssselect_22_8|cssselect_31_10
+type56
+font-family
+Font Family
+#columns_home #center_column #sds_blog_post p, #uhu_news_home .block_content ul li p
+309
+
+font_441
+Blog Post Text
+cssselect_22_8|cssselect_31_10
+type56
+font-size
+Font Size
+#columns_home #center_column #sds_blog_post p, #uhu_news_home .block_content ul li p
+309
+
+font_442
+Blog Post Text
+cssselect_22_8|cssselect_31_10
+type56
+font-weight
+Font Weight
+#columns_home #center_column #sds_blog_post p, #uhu_news_home .block_content ul li p
+309
+
+font_443
+Blog Post Text
+cssselect_22_8|cssselect_31_10
+type56
+font-style
+Font Style
+#columns_home #center_column #sds_blog_post p, #uhu_news_home .block_content ul li p
+309
+
+font_444
+Blog Post Text
+cssselect_22_8|cssselect_31_10
+type56
+text-align
+Text Align
+#columns_home #center_column #sds_blog_post p, #uhu_news_home .block_content ul li p
+309
+
+font_445
+Blog Post Text
+cssselect_22_8|cssselect_31_10
+type56
+text-transform
+Text Transform
+#columns_home #center_column #sds_blog_post p, #uhu_news_home .block_content ul li p
+309
+
+font_446
+Blog Post Text
+cssselect_22_8|cssselect_31_10
+type56
+text-indent
+Text Indent
+#columns_home #center_column #sds_blog_post p, #uhu_news_home .block_content ul li p
+309
+
+font_447
+Blog Post Text
+cssselect_22_8|cssselect_31_10
+type56
+line-height
+Line Height
+#columns_home #center_column #sds_blog_post p, #uhu_news_home .block_content ul li p
+310
+
+font_448
+Blog Post More
+cssselect_22_9|cssselect_22_12|cssselect_31_11
+type57
+font-family
+Font Family
+#columns_home #center_column #sds_blog_post .r_more, #columns_home #center_column .sdsreadMore .more a.button-medium, #uhu_news_home .block_content ul li .foot_title
+310
+
+font_449
+Blog Post More
+cssselect_22_9|cssselect_22_12|cssselect_31_11
+type57
+font-size
+Font Size
+#columns_home #center_column #sds_blog_post .r_more, #columns_home #center_column .sdsreadMore .more a.button-medium, #uhu_news_home .block_content ul li .foot_title
+310
+
+font_450
+Blog Post More
+cssselect_22_9|cssselect_22_12|cssselect_31_11
+type57
+font-weight
+Font Weight
+#columns_home #center_column #sds_blog_post .r_more, #columns_home #center_column .sdsreadMore .more a.button-medium, #uhu_news_home .block_content ul li .foot_title
+310
+
+font_451
+Blog Post More
+cssselect_22_9|cssselect_22_12|cssselect_31_11
+type57
+font-style
+Font Style
+#columns_home #center_column #sds_blog_post .r_more, #columns_home #center_column .sdsreadMore .more a.button-medium, #uhu_news_home .block_content ul li .foot_title
+310
+
+font_452
+Blog Post More
+cssselect_22_9|cssselect_22_12|cssselect_31_11
+type57
+text-align
+Text Align
+#columns_home #center_column #sds_blog_post .r_more, #columns_home #center_column .sdsreadMore .more a.button-medium, #uhu_news_home .block_content ul li .foot_title
+310
+
+font_453
+Blog Post More
+cssselect_22_9|cssselect_22_12|cssselect_31_11
+type57
+text-transform
+Text Transform
+#columns_home #center_column #sds_blog_post .r_more, #columns_home #center_column .sdsreadMore .more a.button-medium, #uhu_news_home .block_content ul li .foot_title
+310
+
+font_454
+Blog Post More
+cssselect_22_9|cssselect_22_12|cssselect_31_11
+type57
+text-indent
+Text Indent
+#columns_home #center_column #sds_blog_post .r_more, #columns_home #center_column .sdsreadMore .more a.button-medium, #uhu_news_home .block_content ul li .foot_title
+310
+
+font_455
+Blog Post More
+cssselect_22_9|cssselect_22_12|cssselect_31_11
+type57
+line-height
+Line Height
+#columns_home #center_column #sds_blog_post .r_more, #columns_home #center_column .sdsreadMore .more a.button-medium, #uhu_news_home .block_content ul li .foot_title

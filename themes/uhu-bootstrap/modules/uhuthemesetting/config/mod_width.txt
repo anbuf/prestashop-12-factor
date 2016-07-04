@@ -1,0 +1,297 @@
+0
+100%|1290px|
+width_0
+Nav
+cssselect_3_69
+
+width
+Nav
+header .nav
+1
+100%|1290px|
+width_1
+Content
+cssselect_3_100
+
+width
+Content
+header .content
+2
+100%|100%|
+width_2
+Menu
+cssselect_16_0
+
+width
+Menu
+#header .menu
+3
+100%|1290px|1170px
+width_3
+Slider
+cssselect_3_72
+
+width
+Slider
+#columns #columns_top,  #columns #slider_row
+4
+100%|1290px|1170px
+width_4
+Top Banner
+cssselect_3_110
+
+width
+Top Banner
+#columns #top_banner
+5
+100%|1290px|1170px
+width_5
+Bottom Banner
+cssselect_3_111
+
+width
+Bottom Banner
+#columns #bottom_banner
+6
+
+width_6
+Content
+cssselect_3_73
+
+width
+Content
+#columns #columns_home
+7
+100%|1290px|
+width_7
+Top
+cssselect_3_86
+
+width
+Top
+.footer-container .footer_nav
+8
+100%|1290px|
+width_8
+Content
+cssselect_3_5
+
+width
+Content
+.footer-container #footer
+9
+100%|1290px|
+width_9
+Bottom
+cssselect_3_95
+
+width
+Bottom
+.footer-container .footer_banner
+10
+|1290px|
+width_10
+Head Container
+cssselect_3_91
+
+max-width
+Head Container
+.header-container
+11
+||
+width_11
+Cols Container
+cssselect_3_70
+
+max-width
+Cols Container
+.columns-container
+12
+||
+width_12
+Foot Container
+cssselect_3_4
+
+max-width
+Foot Container
+.footer-container
+13
+||
+width_13
+FootBannerRow
+cssselect_3_109
+
+max-width
+FootBannerRow
+.footer-container .footer_banner .row
+14
+
+width_14
+Menu Content
+cssselect_16_1
+
+max-width
+Menu Content
+#header .menu ul.nav_item
+15
+||
+width_15
+All ad Content
+cssselect_65_1
+
+max-width
+All ad Content
+.advertising .block_content
+16
+||
+width_16
+ReassureSlider
+cssselect_73_33
+
+max-width
+ReassureSlider
+#uhu_reassure_column .block_content
+17
+||
+width_17
+Best Content
+cssselect_72_11
+
+max-width
+Best Content
+#uhu_cp_1901 .block_content
+18
+1170px||
+width_18
+New Content
+cssselect_68_2
+
+max-width
+New Content
+#uhu_tj_9502 #more_info_sheets
+19
+||
+width_19
+Puplar Content
+cssselect_20_20|cssselect_21_14
+
+max-width
+Puplar Content
+#uhu_xp_9501 .block_content, #uhu_xp_9502 .block_content,  #index .tab-content
+20
+1170px||
+width_20
+Best Title
+cssselect_72_2
+
+max-width
+Best Title
+#uhu_cp_1901 .title_block
+21
+1170px||
+width_21
+New Title
+cssselect_68_43|cssselect_68_1
+
+max-width
+New Title
+#uhu_tj_9502 h4, #center_column  #uhu_tj_9502 .nav-tabs
+22
+
+width_22
+Puplar Title
+cssselect_20_1|cssselect_21_1
+
+max-width
+Puplar Title
+#uhu_xp_9501 h4, #uhu_xp_9502 h4,  #index .nav-tabs
+23
+||
+width_23
+Top Column
+cssselect_3_106
+
+max-width
+Top Column
+#columns #slider_row #top_column
+24
+||
+width_24
+Center Column
+cssselect_3_61
+
+max-width
+Center Column
+#index #center_column
+25
+1530px|1290px|
+width_25
+Footer Row
+cssselect_3_97
+
+max-width
+Footer Row
+.footer-container #footer .row
+26
+||
+width_26
+Top Banner L
+cssselect_3_119
+
+max-width
+Top Banner L
+#columns #top_banner .left_column
+27
+||
+width_27
+Top Banner R
+cssselect_3_120
+
+max-width
+Top Banner R
+#columns #top_banner .right_column
+28
+||
+width_28
+Top Banner C
+cssselect_3_121
+
+max-width
+Top Banner C
+#columns #top_banner .center_column
+29
+||
+width_29
+Columns Home C
+cssselect_3_23
+
+max-width
+Columns Home C
+#center_column
+30
+||
+width_30
+Bottom Banner C
+cssselect_3_118
+
+max-width
+Bottom Banner C
+#columns #bottom_banner .center_column
+31
+||
+width_31
+Content Row
+cssselect_3_123
+
+width
+Content Row
+header .content .row
+32
+||
+width_32
+Menu
+cssselect_16_0
+
+position
+Menu
+#header .menu

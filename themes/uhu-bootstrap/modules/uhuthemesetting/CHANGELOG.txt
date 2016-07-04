@@ -1,0 +1,24 @@
+2015-02-27 1.0.0			// Created
+2015-05-22 1.0.1			// Add contact D and contact E
+2015-06-11 1.0.2			// Add WOW.js, jquery.imageScroll.min.js, owl.carousel.min.js
+2015-07-11 1.0.3			// Fixed button link issue
+2015-07-11 1.1.0			// Add support native product module
+2015-07-31 1.1.1			// Add support style(*)_layout.css
+2015-07-31 1.2.0			// Add font and color setting
+2015-08-04 1.2.1			// Remove font and color setting, add uhutopmenu.js
+2015-08-19 1.2.2			// Add native product slider
+2015-08-25 1.2.3			// remove jquery.cycle2.js, use jquery.refineslide.js
+2015-08-29 1.2.4			// Change uhu.js to support support banner
+2015-08-31 1.2.5			// Add newsletter settings | Fixed bug in delete img
+2015-09-03 1.2.6			// Add fixed menu setting
+2015-09-23 1.2.7			// Add main border color and main background color, add background attachment setting
+2015-10-09 1.2.8			// Add fixmenu.js, jquery.stellar.js, fix uhu.js, add top banner setting
+2015-10-12 1.2.9			// Fixed: newsletter setting issue, top banner setting issue
+2015-10-13 1.3.0			// Add: tags setting
+2015-10-14 1.3.1			// Add: news setting
+2015-10-17 1.3.2			// Add: native product owl responsive number [php|tpl] 
+2015-10-26 1.3.3			// Add: stellar and imageScroll setting 
+2015-11-03 1.3.4			// Fix: popup newsletter issue 
+2015-11-06 1.3.5			// Add: news and categories setting 
+2015-11-10 1.3.6			// Fix: issue when _PS_MODE_DEV_ is true
+2015-12-02 1.3.7			// Add: multi header and footer

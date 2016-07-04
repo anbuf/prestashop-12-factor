@@ -1,0 +1,189 @@
+0
+
+setting_0
+Theme Name
+
+Lichida - 0317
+
+Theme Name
+
+1
+
+setting_1
+Theme Version
+
+1.0
+
+Theme Version
+
+2
+
+setting_2
+Theme Date
+
+2015/12/07
+
+Theme Date
+
+3
+
+setting_3
+Theme Names
+
+theme1|theme2|theme3|theme4|theme5|theme6
+
+Theme Names
+
+4
+
+setting_4
+Theme Colors
+
+#1578BC|#12C7D8|#F9BF06|#B12727|#124489|#6F149D
+
+Theme Colors
+
+5
+
+setting_5
+Theme Styles
+
+style1|style2
+
+Theme Styles
+
+6
+
+setting_6
+Style Titles
+
+Full Width Version|Boxed Version
+
+Style Titles
+
+7
+
+setting_7
+Theme Color Text
+
+#434343^^^#808080^#EEEEEE^#646464^#CCCCCC^#989898^#FFFFFF
+
+Theme Color Text
+
+8
+
+setting_8
+Theme Color Background
+
+#FFBB18|#FF2933|#FB5E01|#2487FF|#FFCB2F|#83B94A^#323232^^#373737^#2C2C2C^#F9F9F9^#F1F1F1^#EAEAEA^#DADADA^#FFFFFF
+
+Theme Color Background
+
+9
+
+setting_9
+Theme Color Border
+
+#F63864|#FEBB3B|#43B9EB|#F9BF06|#F88D19|#FF638A^#272727^^#E1E1E1^#CCCCCC^#F9F9F9^^^^#FFFFFF
+
+Theme Color Border
+
+10
+
+setting_10
+Native Product Slider
+
+
+
+Native Product Slider
+
+11
+
+setting_11
+Fixed Menu Bar
+
+
+
+Fixed Menu Bar
+
+12
+
+setting_12
+Selected Style
+
+
+
+Selected Style
+
+13
+
+setting_13
+Native Responsive
+
+
+
+Native Responsive
+
+14
+
+setting_14
+Close Header
+
+
+
+Close Header
+
+15
+
+setting_15
+Stellar Setting
+
+
+
+Stellar Setting
+
+16
+
+setting_16
+imageScroll Setting
+
+
+
+imageScroll Setting
+
+17
+
+setting_17
+Popup Newsletter
+
+yes
+
+Popup Newsletter
+
+18
+
+setting_18
+Layout
+
+fw003
+
+Layout
+
+19
+
+setting_19
+Header
+
+
+
+Header
+
+20
+
+setting_20
+Footer
+
+
+
+Footer
+

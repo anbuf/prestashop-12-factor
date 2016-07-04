@@ -1,0 +1,108 @@
+0
+
+facebook_0
+
+
+6
+false
+
+1-12 means grids this module use, 0 means no use this module
+1
+
+facebook_1
+
+
+7
+true
+Number of Fans to show
+Nubmer of visible facebook fans
+2
+
+facebook_2
+
+
+prestashop
+true
+Facebook Page Name
+The name of the Facebook Page
+3
+
+facebook_3
+
+
+Facebook
+true
+Block Title
+The title of block on the front page
+4
+
+facebook_4
+
+
+12
+false
+
+
+5
+
+facebook_5
+
+
+true
+true
+sandbox
+true|false, true for test, false for live
+6
+
+facebook_6
+
+
+Prestashop
+false
+
+
+7
+
+facebook_7
+
+
+24889
+false
+
+
+8
+
+facebook_8
+
+
+114089955274622
+false
+
+
+9
+
+facebook_9
+
+
+yes
+true
+Enable This Module
+yes|no
+10
+
+facebook_10
+
+
+https://www.facebook.com/
+false
+Fackbook url
+
+11
+
+facebook_11
+
+
+yes|no
+false
+Display This Module
+Hook on footer or footer banner, yes or no|yes or no

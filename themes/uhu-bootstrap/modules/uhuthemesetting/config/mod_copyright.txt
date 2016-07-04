@@ -1,0 +1,126 @@
+0
+
+copyright_0
+
+
+12
+
+Block Grids
+0-12
+1
+
+copyright_1
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Message
+
+2
+
+copyright_2
+Multi-languages
+
+© Your Company. All rights reserved.¤en|¤fr|¤es|¤de|
+true
+Copyright
+
+3
+
+copyright_3
+Logo
+
+
+true
+Logo
+Filename for Logo
+4
+
+copyright_4
+
+
+yes
+
+Footer All
+yes|no
+0
+
+copyright_5
+插件位置
+
+FooterBanner
+
+Hook Pos
+footer|FooterBanner
+5
+
+copyright_6
+cms page
+
+3,4,5
+true
+CMS page
+Set CMS ID, separated by commas (e.g. 3,4,5)
+6
+
+copyright_7
+store
+
+yes
+true
+Display 'our stores' link
+yes|no
+6
+
+copyright_8
+special
+
+
+true
+Display 'Special' link
+yes|no
+6
+
+copyright_9
+New
+
+
+true
+Display 'New products' link
+yes|no
+6
+
+copyright_10
+Best
+
+
+true
+Display 'Top sellers' link
+yes|no
+6
+
+copyright_11
+Contact
+
+yes
+true
+Display 'Contact us' link
+yes|no
+6
+
+copyright_12
+Sitemap
+
+yes
+true
+Display sitemap link
+yes|no
+0
+
+copyright_13
+
+
+
+true
+(No Use) Languages
+

@@ -1,0 +1,1395 @@
+A0
+
+advertising_0
+
+
+no|yes|no
+true
+Display This Module
+top|banner|nav
+A1
+
+advertising_1
+
+
+yes|yes|yes
+false
+Enable This Module
+Set yes or no for each theme style, separated by |
+A2
+
+advertising_2
+
+
+12
+false
+Block Grids
+Set blcck girds each theme style, pc|pad|phone, style1:style2:style3
+A3
+
+advertising_3
+
+
+12
+false
+Image Grids
+One value for all, or each image has a value, separated by commas
+A4
+
+advertising_4
+
+
+
+false
+Slider
+Enable Slider:Showing columns on pc|pad|mobile, yes:4|2|1
+A5
+
+advertising_5
+
+
+
+true
+CSS3 effects
+no|zoom
+A6
+
+advertising_6
+
+
+1
+true
+Number of Image
+
+A7
+
+advertising_7
+
+
+
+
+No Use
+
+A8
+textarea
+advertising_8
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Title
+Title for each image, separated by ^
+A9
+textarea
+advertising_9
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Text
+Text for each image, separated by ^
+A10
+
+advertising_10
+
+
+
+true
+Icon
+Icon for each image, separated by ^
+A11
+textarea
+advertising_11
+Multi-languages
+
+http://prestashop.uhupage.com/theme_317/modules/uhuthemesetting/views/img/advertising/img_header.jpg¤en|¤fr|¤es|¤de|
+true
+Image
+Image for each image, separated by ^.  (Image filename you upload below or the img url in the web)
+A12
+textarea
+advertising_12
+
+
+
+true
+Link
+Link for each image, separated by ^
+A13
+
+advertising_13
+
+
+uhubanner
+false
+Id name
+
+A14
+
+advertising_14
+
+
+
+false
+Reserved
+
+B0
+
+advertising_15
+
+
+yes
+true
+Display This Module
+yes|no
+B1
+
+advertising_16
+
+
+yes|yes|yes
+false
+Enable This Module
+Set yes or no for each theme style, separated by |
+B2
+
+advertising_17
+
+
+6
+false
+Block Grids
+Set blcck girds each theme style, pc|pad|phone, style1:style2:style3
+B3
+
+advertising_18
+
+
+6
+false
+Image Grids
+One value for all, or each image has a value, separated by commas
+B4
+
+advertising_19
+
+
+
+false
+Slider
+Enable Slider:Showing columns on pc|pad|mobile, yes:4|2|1
+B5
+
+advertising_20
+
+
+
+true
+CSS3 effects
+no|zoom
+B6
+
+advertising_21
+
+
+4
+true
+Number of Image
+
+B7
+
+advertising_22
+
+
+
+
+No Use
+
+B8
+textarea
+advertising_23
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Title
+Title for each image, separated by ^
+B9
+textarea
+advertising_24
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Text
+Text for each image, separated by ^
+B10
+
+advertising_25
+
+
+
+true
+Icon
+Icon for each image, separated by ^
+B11
+textarea
+advertising_26
+Multi-languages
+
+http://prestashop.uhupage.com/theme_317/modules/uhuthemesetting/views/img/advertising/270x270_3.jpg^http://prestashop.uhupage.com/theme_317/modules/uhuthemesetting/views/img/advertising/270x270_2.jpg^270x270_3.png^270x270_4.png¤en|¤fr|¤es|¤de|
+true
+Image
+Image for each image, separated by ^.  (Image filename you upload below or the img url in the web)
+B12
+textarea
+advertising_27
+
+
+
+true
+Link
+Link for each image, separated by ^
+B13
+
+advertising_28
+
+
+uhu_gj_9541
+false
+Id name
+
+B14
+
+advertising_29
+
+
+
+false
+Reserved
+
+C0
+
+advertising_30
+
+
+
+true
+Display This Module
+yes|no
+C1
+
+advertising_31
+
+
+
+false
+Enable This Module
+Set yes or no for each theme style, separated by |
+C2
+
+advertising_32
+
+
+
+false
+Block Grids
+Set blcck girds each theme style, pc|pad|phone, style1:style2:style3
+C3
+
+advertising_33
+
+
+
+false
+Image Grids
+One value for all, or each image has a value, separated by commas
+C4
+
+advertising_34
+
+
+
+false
+Slider
+Enable Slider:Showing columns on pc|pad|mobile, yes:4|2|1
+C5
+
+advertising_35
+
+
+
+true
+CSS3 effects
+no|zoom
+C6
+
+advertising_36
+
+
+
+true
+Number of Image
+
+C7
+
+advertising_37
+
+
+
+
+No Use
+
+C8
+textarea
+advertising_38
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Title
+Title for each image, separated by ^
+C9
+textarea
+advertising_39
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Text
+Text for each image, separated by ^
+C10
+
+advertising_40
+
+
+
+true
+Icon
+Icon for each image, separated by ^
+C11
+textarea
+advertising_41
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Image
+Image for each image, separated by ^.  (Image filename you upload below or the img url in the web)
+C12
+textarea
+advertising_42
+
+
+
+true
+Link
+Link for each image, separated by ^
+C13
+
+advertising_43
+
+
+
+false
+Id name
+
+C14
+
+advertising_44
+
+
+
+false
+Reserved
+
+D0
+
+advertising_45
+
+
+
+true
+Display This Module
+yes|no
+D1
+
+advertising_46
+
+
+
+false
+Enable This Module
+Set yes or no for each theme style, separated by |
+D2
+
+advertising_47
+
+
+
+false
+Block Grids
+Set blcck girds each theme style, pc|pad|phone, style1:style2:style3
+D3
+
+advertising_48
+
+
+
+false
+Image Grids
+One value for all, or each image has a value, separated by commas
+D4
+
+advertising_49
+
+
+
+false
+Slider
+Enable Slider:Showing columns on pc|pad|mobile, yes:4|2|1
+D5
+
+advertising_50
+
+
+
+true
+CSS3 effects
+no|zoom
+D6
+
+advertising_51
+
+
+
+true
+Number of Image
+
+D7
+
+advertising_52
+
+
+
+
+No Use
+
+D8
+textarea
+advertising_53
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Title
+Title for each image, separated by ^
+D9
+textarea
+advertising_54
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Text
+Text for each image, separated by ^
+D10
+
+advertising_55
+
+
+
+true
+Icon
+Icon for each image, separated by ^
+D11
+textarea
+advertising_56
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Image
+Image for each image, separated by ^.  (Image filename you upload below or the img url in the web)
+D12
+textarea
+advertising_57
+
+
+
+true
+Link
+Link for each image, separated by ^
+D13
+
+advertising_58
+
+
+
+false
+Id name
+
+D14
+
+advertising_59
+
+
+
+false
+Reserved
+
+E0
+
+advertising_60
+
+
+yes
+true
+Display This Module
+yes|no
+E1
+
+advertising_61
+
+
+yes|yes|yes
+false
+Enable This Module
+Set yes or no for each theme style, separated by |
+E2
+
+advertising_62
+
+
+12
+false
+Block Grids
+Set blcck girds each theme style, pc|pad|phone, style1:style2:style3
+E3
+
+advertising_63
+
+
+4
+false
+Image Grids
+One value for all, or each image has a value, separated by commas
+E4
+
+advertising_64
+
+
+
+false
+Slider
+Enable Slider:Showing columns on pc|pad|mobile, yes:4|2|1
+E5
+
+advertising_65
+
+
+
+true
+CSS3 effects
+no|zoom
+E6
+
+advertising_66
+
+
+3
+true
+Number of Image
+
+E7
+
+advertising_67
+
+
+
+
+No Use
+
+E8
+textarea
+advertising_68
+Multi-languages
+
+Activewear^Jackets & Blazers^Free Shipping¤en|¤fr|¤es|¤de|
+true
+Title
+Title for each image, separated by ^
+E9
+textarea
+advertising_69
+Multi-languages
+
+20% OFF^20% OFF^20% OFF¤en|¤fr|¤es|¤de|
+true
+Text
+Text for each image, separated by ^
+E10
+
+advertising_70
+
+
+
+true
+Icon
+Icon for each image, separated by ^
+E11
+textarea
+advertising_71
+Multi-languages
+
+http://prestashop.uhupage.com/theme_317/modules/uhuthemesetting/views/img/advertising/370x270_1.jpg^http://prestashop.uhupage.com/theme_317/modules/uhuthemesetting/views/img/advertising/370x270_2.jpg^http://prestashop.uhupage.com/theme_317/modules/uhuthemesetting/views/img/advertising/370x270_3.jpg¤en|¤fr|¤es|¤de|
+true
+Image
+Image for each image, separated by ^.  (Image filename you upload below or the img url in the web)
+E12
+textarea
+advertising_72
+
+
+
+true
+Link
+Link for each image, separated by ^
+E13
+
+advertising_73
+
+
+uhu_gj_9531
+false
+Id name
+
+E14
+
+advertising_74
+
+
+uhuimagetext
+false
+Reserved
+
+F0
+
+advertising_75
+
+
+
+true
+Display This Module
+yes|no
+F1
+
+advertising_76
+
+
+
+false
+Enable This Module
+Set yes or no for each theme style, separated by |
+F2
+
+advertising_77
+
+
+
+false
+Block Grids
+Set blcck girds each theme style, pc|pad|phone, style1:style2:style3
+F3
+
+advertising_78
+
+
+
+false
+Image Grids
+One value for all, or each image has a value, separated by commas
+F4
+
+advertising_79
+
+
+
+false
+Slider
+Enable Slider:Showing columns on pc|pad|mobile, yes:4|2|1
+F5
+
+advertising_80
+
+
+
+true
+CSS3 effects
+no|zoom
+F6
+
+advertising_81
+
+
+
+true
+Number of Image
+
+F7
+
+advertising_82
+
+
+
+
+No Use
+
+F8
+textarea
+advertising_83
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Title
+Title for each image, separated by ^
+F9
+textarea
+advertising_84
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Text
+Text for each image, separated by ^
+F10
+
+advertising_85
+
+
+
+true
+Icon
+Icon for each image, separated by ^
+F11
+textarea
+advertising_86
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Image
+Image for each image, separated by ^.  (Image filename you upload below or the img url in the web)
+F12
+textarea
+advertising_87
+
+
+
+true
+Link
+Link for each image, separated by ^
+F13
+
+advertising_88
+
+
+
+false
+Id name
+
+F14
+
+advertising_89
+
+
+
+false
+Reserved
+
+G0
+
+advertising_90
+
+
+
+true
+Display This Module
+yes|no
+G1
+
+advertising_91
+
+
+
+false
+Enable This Module
+Set yes or no for each theme style, separated by |
+G2
+
+advertising_92
+
+
+
+false
+Block Grids
+Set blcck girds each theme style, pc|pad|phone, style1:style2:style3
+G3
+
+advertising_93
+
+
+
+false
+Image Grids
+One value for all, or each image has a value, separated by commas
+G4
+
+advertising_94
+
+
+
+false
+Slider
+Enable Slider:Showing columns on pc|pad|mobile, yes:4|2|1
+G5
+
+advertising_95
+
+
+
+true
+CSS3 effects
+no|zoom
+G6
+
+advertising_96
+
+
+
+true
+Number of Image
+
+G7
+
+advertising_97
+
+
+
+
+No Use
+
+G8
+textarea
+advertising_98
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Title
+Title for each image, separated by ^
+G9
+textarea
+advertising_99
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Text
+Text for each image, separated by ^
+G10
+
+advertising_100
+
+
+
+true
+Icon
+Icon for each image, separated by ^
+G11
+textarea
+advertising_101
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Image
+Image for each image, separated by ^.  (Image filename you upload below or the img url in the web)
+G12
+textarea
+advertising_102
+
+
+
+true
+Link
+Link for each image, separated by ^
+G13
+
+advertising_103
+
+
+
+false
+Id name
+
+G14
+
+advertising_104
+
+
+
+false
+Reserved
+
+H0
+
+advertising_105
+
+
+yes
+true
+Display This Module
+yes|no
+H1
+
+advertising_106
+
+
+yes|yes|yes
+false
+Enable This Module
+Set yes or no for each theme style, separated by |
+H2
+
+advertising_107
+
+
+12
+false
+Block Grids
+Set blcck girds each theme style, pc|pad|phone, style1:style2:style3
+H3
+
+advertising_108
+
+
+6|6
+false
+Image Grids
+One value for all, or each image has a value, separated by commas
+H4
+
+advertising_109
+
+
+
+false
+Slider
+Enable Slider:Showing columns on pc|pad|mobile, yes:4|2|1
+H5
+
+advertising_110
+
+
+
+true
+CSS3 effects
+no|zoom
+H6
+
+advertising_111
+
+
+2
+true
+Number of Image
+
+H7
+
+advertising_112
+
+
+
+
+No Use
+
+H8
+textarea
+advertising_113
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Title
+Title for each image, separated by ^
+H9
+textarea
+advertising_114
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Text
+Text for each image, separated by ^
+H10
+
+advertising_115
+
+
+
+true
+Icon
+Icon for each image, separated by ^
+H11
+textarea
+advertising_116
+Multi-languages
+
+http://prestashop.uhupage.com/theme_317/modules/uhuthemesetting/views/img/advertising/570x370_1.jpg^http://prestashop.uhupage.com/theme_317/modules/uhuthemesetting/views/img/advertising/570x370_4.jpg¤en|¤fr|¤es|¤de|
+true
+Image
+Image for each image, separated by ^.  (Image filename you upload below or the img url in the web)
+H12
+textarea
+advertising_117
+
+
+
+true
+Link
+Link for each image, separated by ^
+H13
+
+advertising_118
+
+
+uhu_gj_9521
+false
+Id name
+
+H14
+
+advertising_119
+
+
+
+false
+Reserved
+
+I0
+
+advertising_120
+
+
+
+true
+Display This Module
+yes|no
+I1
+
+advertising_121
+
+
+
+false
+Enable This Module
+Set yes or no for each theme style, separated by |
+I2
+
+advertising_122
+
+
+
+false
+Block Grids
+Set blcck girds each theme style, pc|pad|phone, style1:style2:style3
+I3
+
+advertising_123
+
+
+
+false
+Image Grids
+One value for all, or each image has a value, separated by commas
+I4
+
+advertising_124
+
+
+
+false
+Slider
+Enable Slider:Showing columns on pc|pad|mobile, yes:4|2|1
+I5
+
+advertising_125
+
+
+
+true
+CSS3 effects
+no|zoom
+I6
+
+advertising_126
+
+
+
+true
+Number of Image
+
+I7
+
+advertising_127
+
+
+
+
+No Use
+
+I8
+textarea
+advertising_128
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Title
+Title for each image, separated by ^
+I9
+textarea
+advertising_129
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Text
+Text for each image, separated by ^
+I10
+
+advertising_130
+
+
+
+true
+Icon
+Icon for each image, separated by ^
+I11
+textarea
+advertising_131
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Image
+Image for each image, separated by ^.  (Image filename you upload below or the img url in the web)
+I12
+textarea
+advertising_132
+
+
+
+true
+Link
+Link for each image, separated by ^
+I13
+
+advertising_133
+
+
+
+false
+Id name
+
+I14
+
+advertising_134
+
+
+
+false
+Reserved
+
+J0
+
+advertising_135
+
+
+no|yes
+true
+Display This Module
+yes|no
+J1
+
+advertising_136
+
+
+yes|yes|yes
+false
+Enable This Module
+Set yes or no for each theme style, separated by |
+J2
+
+advertising_137
+
+
+12
+false
+Block Grids
+Set blcck girds each theme style, pc|pad|phone, style1:style2:style3
+J3
+
+advertising_138
+
+
+2
+false
+Image Grids
+One value for all, or each image has a value, separated by commas
+J4
+
+advertising_139
+
+
+
+false
+Slider
+Enable Slider:Showing columns on pc|pad|mobile, yes:4|2|1
+J5
+
+advertising_140
+
+
+
+true
+CSS3 effects
+no|zoom
+J6
+
+advertising_141
+
+
+6
+true
+Number of Image
+
+J7
+
+advertising_142
+
+
+
+
+No Use
+
+J8
+textarea
+advertising_143
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Title
+Title for each image, separated by ^
+J9
+textarea
+advertising_144
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Text
+Text for each image, separated by ^
+J10
+
+advertising_145
+
+
+
+true
+Icon
+Icon for each image, separated by ^
+J11
+textarea
+advertising_146
+Multi-languages
+
+discover.png^visa.png^paypal.png^mastercard.png^moneybookers.png^express.png¤en|¤fr|¤es|¤de|
+true
+Image
+Image for each image, separated by ^.  (Image filename you upload below or the img url in the web)
+J12
+textarea
+advertising_147
+
+
+
+true
+Link
+Link for each image, separated by ^
+J13
+
+advertising_148
+
+
+uhu_gj_9561
+false
+Id name
+
+J14
+
+advertising_149
+
+
+
+false
+Reserved
+
+
+
+advertising_150
+
+
+
+
+
+
+
+
+advertising_151
+
+
+
+
+
+
+
+
+advertising_152
+
+
+
+
+
+
+
+
+advertising_153
+
+
+
+
+
+
+
+
+advertising_154
+
+
+
+
+
+

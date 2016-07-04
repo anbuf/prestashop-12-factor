@@ -1,0 +1,34 @@
+@media only screen and (min-width: 1200px) {
+#header .menu ul.nav_item { max-width: 1170px; }
+ }
+#columns #slider_row #top_column { padding: 0 0 0 0; }
+#index #center_column { padding: 0 0 0 0; margin: 0 auto 0 auto; }
+@media only screen and (min-width: 1200px) {
+header .nav .row { max-width: 1170px; }
+ }
+@media only screen and (min-width: 768px) and (max-width: 1199px) {
+#header_right {     width: 50%; }
+ }
+@media only screen and (min-width: 1200px) {
+#header_right {     width: 50%; }
+ }
+@media only screen and (min-width: 768px) and (max-width: 1199px) {
+#header_left { width: 50%; }
+ }
+@media only screen and (min-width: 1200px) {
+#header_left { width: 50%; }
+ }
+#index ul.product_list.tab-pane li .product-container .product-image-container { border-width: 1px;     border-style: solid;     padding: 5px !important; }
+#uhu_tj_9502 #more_info_sheets ul.pd li .product-image-container { border: none;     padding: 0px !important; }
+#uhu_contactus_home { margin-top: 0; }
+#uhu_contactus_home .logo { position: static; }
+#uhu_tj_9502 #more_info_sheets ul.pd li .product-container, #uhu_tj_9502 #home-uhu-contents ul.tab-pane li .product-container { border-width: 1px; padding: 15px 10px; margin-bottom: 15px; }
+#uhu_tj_9502 h4 { border-bottom: 0; }
+#uhu_gj_9531 ul li .item-title { top: 25%;     left: 10%;     width: 80%;     text-align: center;     text-transform: uppercase; }
+#uhu_gj_9531 ul li .item-html { bottom: 15%;     left: 10%;     font-size: 20px;     width: 80%;     text-align: center; }
+#uhu_gj_9531 ul li:hover .item-title { top: 30%; }
+#uhu_gj_9531 ul li:hover .item-html { bottom: 20%; }
+#uhu_contactus_home .logo img { max-width: 100%; }
+#uhuslider .block_content ul li .lnk_view { padding: 0; }
+#uhu_gj_9531 ul li .image-container:hover::after { width: 80%;     height: 80%;     background-color: rgba(255, 255, 255, 0.5); }
+#uhuslider .block_content ul li .slide_content { width: 80%; }

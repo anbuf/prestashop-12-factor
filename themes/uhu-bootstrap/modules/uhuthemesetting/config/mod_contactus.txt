@@ -1,0 +1,540 @@
+A2
+
+contactus_0
+框架所占的格子数
+
+8|8|12
+true
+Block Grids
+pc|pad|phone, style1:style2:style3
+A3
+
+contactus_1
+Multi-languages
+
+Monday to Friday: 9am - 6pm¤en|¤fr|¤es|¤de|
+true
+Company
+
+A4
+
+contactus_2
+Multi-languages
+
+42 avenue des Champs Elysées 75000 Paris¤en|¤fr|¤es|¤de|
+true
+Address
+
+A5
+
+contactus_3
+
+
+800-123-456-789
+true
+Phone
+
+A6
+
+contactus_4
+
+
+sales@yourcompany.com
+true
+Email
+
+A0
+
+contactus_5
+
+
+yes|no|no
+true
+Display This Module
+Display this block on footer nav|footer|footerbanne, yes|yes|yes
+A7
+
+contactus_6
+
+
+
+true
+Logo
+Filename for Logo
+A8
+
+contactus_7
+
+
+en|fr
+true
+Logo Link
+
+A9
+
+contactus_8
+Multi-languages
+
+New arrivals collection released !¤en|¤fr|¤es|¤de|
+true
+Title
+
+A10
+textarea
+contactus_9
+Multi-languages
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.¤en|¤fr|¤es|¤de|
+true
+Text
+
+A1
+
+contactus_10
+
+
+yes|yes|yes
+true
+Enable This Module
+Enable or disable this module on each theme style, separated by |
+B2
+
+contactus_11
+
+
+
+true
+Block Grids
+pc|pad|phone, style1:style2:style3
+B3
+
+contactus_12
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Company
+
+B4
+
+contactus_13
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Address
+
+B5
+
+contactus_14
+
+
+
+true
+Phone
+
+B6
+
+contactus_15
+
+
+
+true
+Email
+
+B0
+
+contactus_16
+
+
+
+true
+Display This Module
+Display this block on nav|top|topcontent, yes|yes|yes
+B7
+
+contactus_17
+图片
+
+
+true
+Logo
+Filename for Logo
+B8
+
+contactus_18
+
+
+
+true
+Logo Link
+
+B9
+
+contactus_19
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Title
+
+B10
+textarea
+contactus_20
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Text
+
+B1
+
+contactus_21
+
+
+
+true
+Enable This Module
+Enable or disable this module on each theme style, separated by |
+C2
+
+contactus_22
+
+
+3|3|12
+true
+Block Grids
+pc|pad|phone, style1:style2:style3
+C3
+
+contactus_23
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Company
+
+C4
+
+contactus_24
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Address
+
+C5
+
+contactus_25
+
+
+
+true
+Phone
+
+C6
+
+contactus_26
+
+
+
+true
+Email
+
+C0
+
+contactus_27
+是否启用本插件
+
+yes
+true
+Display This Module
+Display this block on BottomBanner
+C7
+
+contactus_28
+
+
+casey.png
+true
+Logo
+Filename for Logo
+C8
+
+contactus_29
+
+
+
+true
+Logo Link
+
+C9
+
+contactus_30
+Multi-languages
+
+John DOE¤en|¤fr|¤es|¤de|
+true
+Title
+
+C10
+textarea
+contactus_31
+Multi-languages
+
+Lorem ipsum dolor sit amet conse ctetur voluptate velit esse cillum dolore eu¤en|¤fr|¤es|¤de|
+true
+Text
+
+C1
+
+contactus_32
+
+
+yes|yes|no
+true
+Enable This Module
+Enable or disable this module on each theme style, separated by |
+D2
+
+contactus_33
+框架所占的格子数
+
+3
+true
+Block Grids
+pc|pad|phone, style1:style2:style3
+D3
+
+contactus_34
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Company
+
+D4
+
+contactus_35
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Address
+
+D5
+
+contactus_36
+
+
+
+true
+Phone
+
+D6
+
+contactus_37
+
+
+
+true
+Email
+
+D0
+
+contactus_38
+
+
+yes
+true
+Display This Module
+Display this block on Home
+D7
+
+contactus_39
+
+
+http://prestashop.uhupage.com/theme_317/modules/uhuthemesetting/views/img/contactus/logo.jpg
+true
+Logo
+Filename for Logo
+D8
+
+contactus_40
+
+
+
+true
+Logo Link
+
+D9
+
+contactus_41
+Multi-languages
+
+Our online Store¤en|¤fr|¤es|¤de|
+true
+Title
+
+D10
+textarea
+contactus_42
+Multi-languages
+
+Lorem ipsum dolor sit amet conse ctetur voluptate velit esse cillum dolore eu¤en|¤fr|¤es|¤de|
+true
+Text
+
+D1
+
+contactus_43
+
+
+yes|yes|no
+true
+Enable This Module
+Enable or disable this module on each theme style, separated by |
+E2
+
+contactus_44
+
+
+12
+true
+Block Grids
+pc|pad|phone, style1:style2:style3
+E3
+
+contactus_45
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Company
+
+E4
+
+contactus_46
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Address
+
+E5
+
+contactus_47
+
+
++33 (0)1.23.45.67.89
+true
+Phone
+
+E6
+
+contactus_48
+
+
+sales@yourcompany.com
+true
+Email
+
+E0
+
+contactus_49
+
+
+no
+true
+Display This Module
+Display this block on TopColumn
+E7
+
+contactus_50
+
+
+
+true
+Logo
+Filename for Logo
+E8
+
+contactus_51
+
+
+
+true
+Logo Link
+
+E9
+
+contactus_52
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Title
+
+E10
+textarea
+contactus_53
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Text
+
+E1
+
+contactus_54
+
+
+yes|yes|yes
+true
+Enable This Module
+Enable or disable this module on each theme style, separated by |
+A9
+
+contactus_55
+Multi-languages
+
+2015.08.01¤en|¤fr|¤es|¤de|
+true
+Sub Title
+
+B9
+
+contactus_56
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Sub Title
+
+C9
+
+contactus_57
+Multi-languages
+
+Ceo¤en|¤fr|¤es|¤de|
+true
+Sub Title
+
+D9
+
+contactus_58
+Multi-languages
+
+Welcome to¤en|¤fr|¤es|¤de|
+true
+Sub Title
+
+E9
+
+contactus_59
+Multi-languages
+
+¤en|¤fr|¤es|¤de|
+true
+Sub Title
+

@@ -1,0 +1,280 @@
+40
+type01
+global
+16,3,10,11,348
+hidden
+Global & General
+
+
+type02
+header
+19,181,376,57,341,12,13,303,41,80
+hidden
+Global & General
+
+
+type03
+language
+66,68,69,67
+hidden
+Modules in Header
+
+
+type04
+currency
+71,72,73,74
+hidden
+Modules in Header
+
+
+type05
+search
+76,77,78,79,180
+
+Modules in Header
+
+
+type06
+shopping cart
+257,258,259,260,261,262,263,264,266,267,268
+
+Modules in Header
+
+
+type07
+menu
+28,43,44,45,46,47,4,302,156,157,366,48
+
+Modules in Header
+
+
+type08
+Content
+22,378,392,383,384,385,54,55,342,349
+
+Global & General
+
+
+type09
+Featured Product Modules
+110,111
+
+Modules in Middle
+hidden
+
+type10
+New Products Module
+126,127,129,130,182,386,128,301,131,132,300,6,133,134,135,136,137,138,139
+hidden
+Modules in Middle
+hidden
+
+type11
+Best Seller Module
+98,99,96,97,100,101,102,103,104,105,106,107,108,109,372,373,374,375
+hidden
+Modules in Middle
+hidden
+
+type12
+Image Slider Module
+350,351,352,353,354,355,356,357,160,161
+
+Modules in Middle
+
+
+type13
+Advertising Module
+343,344,345,346,360,361
+
+Modules in Middle
+
+
+type14
+Footer
+25,59,269,81,335,380,381,382,14,15,256,50,51,52,42
+hidden
+Global & General
+
+
+type15
+Copyright
+146,147,347,178,179
+
+Modules in Footer
+
+
+type16
+Newsletter
+334,337,338,336,339,340
+
+Modules in Footer
+
+
+type17
+Category
+219,220,221,222,387,388,223,362,368
+
+Category Page
+
+
+type18
+Product
+184,185,369,370,209,210,211,212,213,217,186,214,191,192,193,194,215,216
+
+Category Page
+
+
+type19
+Pagination
+164,165,304,305,306,307,308,309,310,311
+
+Category Page
+
+
+type20
+Category Others
+162,163,187,188,189,190,312,313,314,206,207,208,218
+
+Category Page
+
+
+type21
+Product Block
+390,170,238,239,245,246,240,241
+
+Product Page
+
+
+type22
+Images in Product Block
+166,167,173,236,237,171,244,172,242,243
+
+Product Page
+
+
+type23
+Infos in Product Block
+168,169,227,322,228,159,265,318,319,320,321,229,230,231,232,233,234,235
+
+Product Page
+
+
+type24
+Product Description
+247,248,251,249,250,317,252,253
+
+Product Page
+
+
+type25
+Product Comments
+328,329,330,331,332,333
+
+Product Page
+
+
+type26
+Order Steps
+276,277,297,296,174,270,273,175,271,274,176,272,275
+
+Order Pages
+
+
+type27
+List Sheet
+389,279,278,280,281,282,283,284,285,286,287,288,289,290,291,292,323,324,325
+
+Order Pages
+
+
+type28
+Order Others
+293,294,295,326,327
+
+Order Pages
+
+
+type29
+Left & Right Column
+196,197,198,33,34,35,199,200,201,202,203,204,205,224,225,226,315,316
+
+Category Page
+
+
+type30
+Reassure on Header Block
+89,90,91,92
+
+Modules in Header
+hidden
+
+type31
+Reassure on Slider Block
+82,83,84,85,86,87,88
+
+Modules in Middle
+hidden
+
+type32
+Reassure on Content Block
+393,394,395,396,397,398
+
+Modules in Middle
+
+
+type33
+Reassure on Footer Block
+142,143,144,145,152,153
+
+Modules in Footer
+hidden
+
+type34
+Contact on Footer Block
+154,155,177,298,358,359
+
+Modules in Footer
+hidden
+
+type35
+Contact on Header Block
+402,403,404,405,406,407
+
+Modules in Header
+hidden
+
+type36
+Contact on Slider Block
+414,415,416,417,418,419
+
+Modules in Middle
+
+
+type37
+Contact on Content Block
+408,409,410,411,412,413
+
+Modules in Middle
+hidden
+
+type38
+Contact on Bottom Block
+420,421,422,423,424,425
+
+Modules in Middle
+hidden
+
+type39
+Native Product Modules
+5,299,112,113,114,115,116,117,124,125,254,255,118,119,120,121,122,123,213,186,93,94,95
+
+Modules in Middle
+
+
+
+
+
+
+
+

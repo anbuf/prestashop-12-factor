@@ -1,0 +1,324 @@
+A1
+
+featured_0
+
+
+12|9|9
+false
+Total Grids
+
+A2
+
+featured_1
+
+
+3
+true
+Grids per item
+
+A3
+
+featured_2
+
+
+4
+true
+Items per line
+
+A4
+
+featured_3
+
+
+4|8|8
+true
+Total of product to show
+4|8|12|16|20
+C0
+
+featured_4
+
+
+en|fr|es|de
+true
+Language
+Multi-languages: lang1|lang2|lang3, such as en|fr|es|de
+A6
+
+featured_5
+
+
+bottom
+false
+
+
+A8
+
+featured_6
+
+
+certificate
+true
+Type of label
+circle | bookmark | certificate | cloud | comment | flag | heart | star | tag | trophy
+A0
+
+featured_7
+
+
+no|yes|yes
+true
+Enable This Module
+Enable or disable this module on each theme style, separated by |
+A8
+
+featured_8
+
+
+rollleft
+false
+
+
+A9
+
+featured_9
+
+
+
+true
+Icon for Block Title
+icon-asterisk|icon-star, all icon in Font Awesome 3.0
+A10
+
+featured_10
+
+
+no
+true
+Description
+yes|no
+A11
+
+featured_11
+
+
+
+true
+Description Length
+length of description to show, default is 65
+12
+
+featured_12
+
+
+
+
+
+
+A13
+
+featured_13
+
+
+
+
+
+
+A14
+
+featured_14
+
+
+yes
+true
+Show Rating
+yes|no
+B1
+
+featured_15
+
+
+12
+
+Total Grids
+
+B2
+
+featured_16
+
+
+10
+true
+Total of product to show
+
+B3
+
+featured_17
+
+
+false
+true
+Auto Play
+true|false
+B4
+
+featured_18
+
+
+5
+
+maxslides
+
+B4
+
+featured_19
+
+
+30
+
+slidemargin
+
+B4
+
+featured_20
+
+
+300
+
+slidewidth
+
+B5
+
+featured_21
+
+
+
+true
+Type of label
+circle | bookmark | certificate | cloud | comment | flag | heart | star | tag | trophy
+B0
+
+featured_22
+
+
+no|no|no
+true
+Enable This Module
+yes|no
+B4
+
+featured_23
+
+
+rollleft
+
+css effect
+
+B6
+
+featured_24
+
+
+
+true
+Icon for Block Title
+icon-asterisk|icon-star, all icon in Font Awesome 3.0
+B7
+
+featured_25
+
+
+icon-caret-left|icon-caret-right
+true
+Prev control
+icon-angle-left,  all icon in Font Awesome 3.x
+C1
+
+featured_26
+
+
+Popular|Populaire|Populares|Beliebt
+true
+Block Title
+Title for each language, separated by |
+B4
+
+featured_27
+
+
+bottom
+
+title pos
+
+B8
+
+featured_28
+
+
+
+true
+Title length
+Length of product title to show, default is 32
+B4
+
+featured_29
+
+
+
+
+label
+
+C2
+
+featured_30
+
+
+Add to cart|Ajouter au panier|Añadir al carrito|In den Warenkorb
+true
+Add to cart
+Title for each language, separated by |
+B9
+
+featured_31
+
+
+
+true
+Grids per item
+1,2,3,4,6,12
+B10
+
+featured_32
+
+
+
+true
+Description
+yes|no
+B11
+
+featured_33
+
+
+
+true
+Description Length
+length of description to show, default is 65
+B12
+
+featured_34
+
+
+yes
+true
+Show Rating
+yes|no
+C3
+
+featured_35
+
+
+home
+
+Hook
+home|topcolumn

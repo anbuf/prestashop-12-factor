@@ -1,0 +1,529 @@
+/*
+* 2007-2013 PrestaShop
+*
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Academic Free License (AFL 3.0)
+* that is bundled with this package in the file LICENSE.txt.
+* It is also available through the world-wide-web at this URL:
+* http://opensource.org/licenses/afl-3.0.php
+* If you did not receive a copy of the license and are unable to
+* obtain it through the world-wide-web, please send an email
+* to license@prestashop.com so we can send you a copy immediately.
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+* versions in the future. If you wish to customize PrestaShop for your
+* needs please refer to http://www.prestashop.com for more information.
+*
+*  @author PrestaShop SA <contact@prestashop.com>
+*  @copyright  2007-2013 PrestaShop SA
+*  @license    http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+*  International Registered Trademark & Property of PrestaShop SA
+*/
+body {
+	-webkit-transition: margin 0.5s ease, -webkit-transform 0.5s ease /*rtl:append:, padding 0.3s ease*/;
+	-moz-transition: margin 0.5s ease, -moz-transform 0.5s ease /*rtl:append:, padding 0.3s ease*/;
+	transition: margin 0.5s ease, transform 0.5s ease /*rtl:append:, padding 0.3s ease*/;
+	position: relative;
+}
+#mColorPicker{
+	margin-left: -320px;
+}
+.footer-container #footer .row {
+	position: static;
+}
+.body_pushed {
+	margin-left: 320px;
+}
+.custom_style {
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: 5004;
+	height: 100%;
+	width: 320px;
+	background: #191C23;
+	padding: 0;
+}
+.custom_style {
+	margin-left: -320px;
+	-webkit-transition: margin-left 0.5s ease, margin-top 0.5s ease;
+	-moz-transition: margin-left 0.5s ease, margin-top 0.5s ease;
+	transition: margin-left 0.5s ease, margin-top 0.5s ease;	
+}
+.custom_active {
+	margin-left: 0;
+}
+.config_icons {
+	display: block;
+	height: 50px;
+	left: 20px;
+	position: absolute;
+	top: 0;
+	width: 50px;
+	z-index: 5004;
+}
+#footer .config_icons i {
+	display: block;
+	padding-top: 0;
+	text-align: center;
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	cursor: pointer;
+	border-radius: 25px;
+	background: #00AFF0;
+	color: #888;
+	position: fixed;
+}
+#footer .config_icons i.active {
+	color: #FFFFFF;
+}
+
+#switch-right i {
+	top: 150px;
+}
+#color-right i {
+	top: 220px;
+}
+#font-right i {
+	top: 290px;
+}
+#setting-right i {
+	top: 360px;
+}
+#border-right i {
+	top: 430px;
+}
+
+.custom_style #color-box{
+	margin: 0;
+	padding: 15px 0 0 15px;
+}
+.custom_style #color-box li{
+	display: inline-block;
+	border: 2px solid black;
+	height: 30px;
+	width: 30px;
+	margin: 0 15px 15px 0;
+	cursor: pointer;
+}
+.custom_style #color-box li:hover{
+	border-color: #FFFFFF;
+}
+.custom_style #color-box li.select {
+	border-color: #DDDDDD;
+}
+
+
+#block-header {
+	height: 50px;
+	line-height: 50px;
+	font-size: 20px;
+	background: #050507;
+	text-indent: 10px;
+}
+#block-version {
+	position: absolute;
+	bottom: 0;
+	height: 50px;
+	line-height: 50px;
+	margin: 0;
+	width: 100%;
+	background: #050507;
+	padding: 0 15px;
+}
+.custom_style .list-title {
+	margin-bottom: 0;
+	height: 24px;
+	border-bottom: #232732 solid 1px;
+	background-color: #383f50;
+	color: #c3c5ca;
+	line-height: 24px;
+	text-transform: uppercase;
+	padding: 0 15px;
+	cursor: pointer;
+}
+.custom_style p{
+	padding: 0;
+	margin: 0;
+	color: #CBCBCB;
+	border: none;
+	font-family: sans-serif;
+	font-size: 12px;
+}
+.custom_style .row{
+	width: 100% !important;
+	padding: 10px 5px !important;
+}
+.custom_style .listbox {
+	font-family: sans-serif;
+	line-height: 20px;
+	color: #00aff0;
+	background: #1F1F1F;
+}
+
+
+.custom_style p span{
+	color: #8d8c8c;
+	font-size: 11px;
+}
+.custom_style .list-tools{
+	margin-bottom: 5px;
+}
+.custom_style .list-tools p{
+	font-size: 1em;
+	text-transform: uppercase;
+	padding: 0;
+	line-height: 25px;
+	margin: 0;
+}
+.custom_style .list-tools i{
+	font-size: 20px;
+	position: relative;
+	top: 3px;
+}
+
+.custom_style #font-box{
+	padding: 0 15px 15px;
+}
+.custom_style #font-box p{
+	padding: 0; 
+	margin: 15px 0 5px;
+	color: #9c9b9b;
+}
+.custom_style #font-box .font-list{
+	height: 30px;
+	width: 180px;
+}
+
+.custom_style .btn{
+	display: block;
+}
+#footer .custom_style i {
+	color: #383F50;
+}
+.custom_style .btn-2{
+	background: #383F50;
+	color: #C8C8C8;
+	margin: 20px auto 0;
+	padding: 6px 24px;
+}
+.custom_style .btn-2:hover{
+	color: #F8F8F8;
+	background: #00AFF0;
+}
+.custom_style #block-advertisement{
+	padding: 10px 0;
+}
+.custom_style label {
+	width: 45%;
+	margin: 0 5px 0 0;
+	text-align: right;
+}
+.custom_style .listbox {
+	margin: 0;
+	padding: 15px 0 0 15px;
+}
+.custom_style .listbox li{
+	display: inline-block;
+	height: 60px;
+	width: 32px;
+	margin: 0 15px 15px 0;
+	font-size: 10px;
+	text-align: center;
+}
+#color_customization .listbox span.colorpicker {
+	border: 1px solid #ABADB3;
+	width: 28px;
+	height: 28px;
+	display: inline-block;
+	float: left;
+	margin-right: 3px;
+}
+
+div.radio span {
+	top: 0;
+}
+
+.custom_style .listbox .setwidth{
+	padding: 0 7px;
+}
+
+.custom_style .listbox label{
+	width: 100%;
+	text-align: left;
+	margin-bottom: 3px;
+	margin-top: 3px;
+}
+.custom_style .listbox select{
+	width: 100%;
+	height: 24px;
+}
+
+#color_customization .listbox .item-first, #color_customization .listbox .item {
+	padding: 0 1px 12px;
+	font-size: 12px;
+	font-family: sans-serif;
+	line-height: 14px;
+}
+
+.custom_style .listbox label{
+	width: 100%;
+	text-align: left;
+	margin-bottom: 3px;
+	margin-top: 3px;
+}
+.custom_style .listbox select{
+	width: 100%;
+	height: 24px;
+}
+.custom_style .listbox .item-left {
+	padding: 0 10px 0 0;
+}
+.custom_style .listbox .item-right {
+	padding: 0 0 0 10px;
+}
+.custom_style .listbox .item-first {
+	padding: 0 3px;
+}
+.custom_style .listbox .item {
+	padding: 0 3px;
+	margin-bottom: 10px;
+}
+
+
+
+
+
+#gear-right {
+	background: #333333;
+	display: block;
+	height: 50px;
+	left: 215px;
+	position: fixed;
+	top: 150px;
+	width: 50px;
+	z-index: 5004;
+	cursor: pointer;
+}
+#gear-right i {
+	display: block;
+	padding-top: 10px;
+	text-align: center;
+}
+#tool_customization{
+	position: fixed;
+	left: 0;
+	top: 150px;
+	z-index: 5004; 
+	height: auto;
+	width: 215px;
+	background: #333333
+}
+#tool_customization p{
+	padding: 15px;
+	color: #ffffff;
+	font-size: 13px;
+}
+#tool_customization p span{
+	color: #8d8c8c;
+	font-size: 11px;
+}
+#tool_customization .list-tools{
+	background: #484848;
+	border: 1px solid #595959;
+	border-left: none;
+	border-right: none;
+	height: 50px;
+}
+#tool_customization .list-tools p{
+	font-size: 1em;
+	text-transform: uppercase;
+}
+#tool_customization .list-tools i{
+	font-size: 1.4em;
+	position: relative;
+	top: -4px;
+}
+#tool_customization #color-box{
+	margin: 0;
+	padding: 15px 0 0 15px;
+}
+#tool_customization #color-box li{
+	display: inline-block;
+	border: 2px solid black;
+	height: 30px;
+	width: 30px;
+	margin: 0 15px 15px 0;
+}
+#tool_customization #color-box li:hover{
+	border: 2px solid white;
+}
+#tool_customization #color-box .color-theme1{
+	display: block;
+	width: 0px;
+	height: 0px;
+	border-left-color: transparent !important;
+	border-top-color: transparent !important;
+	position: relative;
+	z-index: 1
+}
+#tool_customization #color-box .color-theme2{
+	display: block;
+	width: 26px;
+	height: 26px;
+	position: relative;
+	top: -26px;
+}
+#tool_customization #color-box li.theme1{
+}
+#tool_customization #color-box li{
+	cursor: pointer
+}
+#tool_customization #color-box .theme1 .color1{
+	border: 13px solid #ffffff;
+}
+#tool_customization #color-box .theme1 .color2{
+	background: #484848;
+}
+#tool_customization #color-box .theme2 .color1{
+	border: 13px solid #f6f6f6;
+}
+#tool_customization #color-box .theme2 .color2{
+	background: #f2404e;
+}
+#tool_customization #color-box .theme3 .color1{
+	border: 13px solid #cbccbe;
+}
+#tool_customization #color-box .theme3 .color2{
+	background: #584336;
+}
+#tool_customization #color-box .theme4 .color1{
+	border: 13px solid #fdfdfd;
+}
+#tool_customization #color-box .theme4 .color2{
+	background: #eac12d;
+}
+#tool_customization #color-box .theme5 .color1{
+	border: 13px solid #f5f1e8;
+}
+#tool_customization #color-box .theme5 .color2{
+	background: #b04444;
+}
+#tool_customization #color-box .theme6 .color1{
+	border: 13px solid #ffffff;
+}
+#tool_customization #color-box .theme6 .color2{
+	background: #729f42;
+}
+#tool_customization #color-box .theme7 .color1{
+	border: 13px solid #f1f1f1;
+}
+#tool_customization #color-box .theme7 .color2{
+	background: #317081;
+}
+#tool_customization #color-box .theme8 .color1{
+	border: 13px solid #fcfcfc;
+}
+#tool_customization #color-box .theme8 .color2{
+	background: #43bebc;
+}
+#tool_customization #color-box .theme9 .color1{
+	border: 13px solid #f9f6ed;
+}
+#tool_customization #color-box .theme9 .color2{
+	background: #eea200;
+}
+#tool_customization #font-box{
+	padding: 0 15px 15px;
+}
+#tool_customization #font-box p{
+	padding: 0; 
+	margin: 15px 0 5px;
+	color: #9c9b9b;
+}
+#tool_customization #font-box .font-list{
+	height: 30px;
+	width: 180px;
+}
+#tool_customization .btn-tools{
+	background: #484848;
+	border: 1px solid #595959;
+	border-left: none;
+	border-right: none;
+	height: 56px;
+	padding: 10px 15px;
+}
+#tool_customization .btn{
+	width: 47%;
+	padding: 8px 5px;
+	float: left;
+	display: block;
+	overflow: hidden;
+}
+#tool_customization .btn-1{
+	background: #727171;
+	color: white;
+	margin: 0 4% 0 0;
+}
+#tool_customization .btn-2{
+	background: white;
+	color: #3a3939;
+	font-weight: bold;
+}
+#tool_customization .btn-1:hover{
+	background-color: #959394;
+}
+#tool_customization .btn-2:hover{
+	background-color: #64D3FF;
+}
+#tool_customization #block-advertisement{
+	padding: 20px;
+}
+#tool_customization  label{
+	color: #9c9b9b;
+	font-weight: normal;
+	font-size: 9px;
+}
+#tool_customization .colorbox {
+	margin: 0;
+	padding: 15px 0 0 15px;
+}
+#tool_customization .colorbox li{
+	display: inline-block;
+	height: 60px;
+	width: 32px;
+	margin: 0 15px 15px 0;
+	font-size: 10px;
+	text-align: center;
+}
+#tool_customization .colorbox span.colorpicker {
+	border: 2px solid #ABADB3;
+	float: right;
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+}
+#tool_customization #logo-box, #tool_customization #slider-box , #tool_customization #adver-box{
+	padding: 15px;
+	color: #9c9b9b;
+}
+#tool_customization #logo-box p, #tool_customization #slider-box p, #tool_customization #adver-box p{
+	padding: 0; 
+	margin: 15px 0 5px;
+	color: #9c9b9b;
+}
+#tool_customization #logo-box #logo_size{
+	height: 30px;
+	width: 54px;
+}
+#tool_customization #logo-box #logo_font{
+	height: 30px;
+	width: 92px;
+}
+@media only screen and (max-width: 767px) {
+#switch-right, #color-right, #font-right  {display: none;}
+}

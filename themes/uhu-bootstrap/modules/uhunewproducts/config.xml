@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>uhunewproducts</name>
+	<displayName><![CDATA[New products block]]></displayName>
+	<version><![CDATA[1.0.6]]></version>
+	<description><![CDATA[Displays a block featuring your store&amp;#039;s newest products.]]></description>
+	<author><![CDATA[uhuPage]]></author>
+	<tab><![CDATA[others]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

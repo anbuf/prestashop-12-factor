@@ -1,0 +1,13 @@
+2015-02-27 1.0.0			// Created
+2015-05-22 1.0.1			// Fixed the show footer bug
+							// Fixed live demo bug
+2015-06-11 1.0.2			// Add support animate.css
+2015-08-15 1.0.3			// Add footer nav
+2015-08-29 1.0.4			// Add banner hook
+2015-10-10 1.0.5			// Check top banner setting
+2015-10-11 1.0.6			// Add effect line
+2015-10-12 1.0.7			// Fixed no top banner issue
+2015-10-18 1.0.8			// Add grid setting for pc,pad and phone
+2015-10-20 1.0.9			// Support Native Languages Setting
+2015-10-27 1.1.0			// Fixed logo image issue
+2015-11-10 1.1.1			// Fix language issue

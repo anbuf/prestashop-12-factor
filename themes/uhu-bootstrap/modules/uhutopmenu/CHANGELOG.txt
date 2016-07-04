@@ -1,0 +1,8 @@
+2015-03-10 6.0.0			// Created
+2015-07-05 6.0.1			// Add hooktop and uhutopmenu.js in header
+2015-08-25 6.0.2			// Add popup window for categories on ipad
+2015-09-23 6.0.3			// Add multi languages for custom link label
+2015-10-13 6.0.4			// Add menuitem News
+2015-10-20 6.0.5			// Support Native Languages Setting
+2015-10-30 6.0.6			// Add search block
+2015-11-10 6.0.7			// Fix language issue

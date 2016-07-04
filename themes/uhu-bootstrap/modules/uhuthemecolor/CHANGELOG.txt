@@ -1,0 +1,5 @@
+2015-02-27 1.0.0			// Created
+2015-05-27 1.0.1			// Add color id: 182,342,349,96,97
+2015-07-24 1.1.0			// Add order, remove backoffice hook. 
+2015-08-04 1.2.0			// Add backoffice hook to change color block setting on front panel. 
+

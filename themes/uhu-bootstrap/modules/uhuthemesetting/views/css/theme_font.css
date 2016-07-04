@@ -1,0 +1,80 @@
+header .nav {line-height:100px;}
+header .row #logo {font-family:Fascinate Inline;}
+header .row #logo {font-size:50px;}
+header .row #logo {text-align:left;}
+#header .menu ul.nav_item li {font-family:Carrois Gothic SC;}
+#header .menu ul.nav_item li {font-size:16px;}
+#header .menu ul.nav_item li {line-height:70px;}
+#header .menu .nav_item li dl dd .s_title_block {font-family:Dosis;}
+#header .menu .nav_item li dl.pop_adver p {font-family:Dosis;}
+#header .menu .nav_item li dl dd .product_desc {font-size:12px;}
+#uhuslider .block_content ul li h2 {font-family:Lato;}
+#uhuslider .block_content ul li h2 {font-size:50px;}
+#uhuslider .block_content ul li h2 {text-transform:uppercase;}
+#uhuslider .block_content ul li h3 {font-family:Lato;}
+#uhuslider .block_content ul li h3 {font-size:22px;}
+#uhuslider .block_content ul li h3 {text-transform:capitalize;}
+#uhuslider .block_content ul li h4 {font-family:Lato;}
+#uhuslider .block_content ul li h4 {font-size:20px;}
+#uhuslider .block_content ul li h5 {font-family:Lato;}
+#uhuslider .block_content ul li h5 {font-size:20px;}
+#uhuslider .block_content ul li h5 {text-transform:lowercase;}
+#uhu_tj_9502 h4 {font-family:Dosis;}
+#uhu_tj_9502 h4 {font-size:20px;}
+#uhu_tj_9502 h4 {line-height:58px;}
+#center_column  #uhu_tj_9502 .nav-tabs {font-family:Dosis;}
+#center_column  #uhu_tj_9502 .nav-tabs {font-size:24px;}
+#center_column  #uhu_tj_9502 .nav-tabs {text-align:center;}
+#center_column  #uhu_tj_9502 .nav-tabs {line-height:58px;}
+#uhu_tj_9502 #more_info_sheets ul.pd li h5,  #uhu_tj_9502 #home-uhu-contents ul.tab-pane li h5 {font-family:Dosis;}
+#uhu_tj_9502 #more_info_sheets ul.pd li h5,  #uhu_tj_9502 #home-uhu-contents ul.tab-pane li h5 {font-size:14px;}
+#uhu_tj_9502 #more_info_sheets ul.pd li h5,  #uhu_tj_9502 #home-uhu-contents ul.tab-pane li h5 {line-height:43px;}
+#uhu_tj_9502 #more_info_sheets ul.pd li p.price_container,  #uhu_tj_9502 #more_info_sheets ul.pd li .content_price,  #uhu_tj_9502 #home-uhu-contents ul.tab-pane li .content_price {font-family:Dosis;}
+#uhu_tj_9502 #more_info_sheets ul.pd li p.price_container,  #uhu_tj_9502 #more_info_sheets ul.pd li .content_price,  #uhu_tj_9502 #home-uhu-contents ul.tab-pane li .content_price {font-size:16px;}
+#uhu_cp_1901 .title_block {font-family:Dosis;}
+#uhu_cp_1901 .title_block {font-size:24px;}
+#uhu_cp_1901 .title_block {text-indent:15px;}
+#uhu_cp_1901 .title_block {line-height:58px;}
+#uhu_cp_1901 .block_content ul li h5 {font-family:Dosis;}
+#uhu_cp_1901 .block_content ul li h5 {font-size:14px;}
+#uhu_cp_1901 .block_content ul li p.price_container {font-family:Dosis;}
+#uhu_cp_1901 .block_content ul li p.price_container {font-size:14px;}
+#uhu_cp_1901 .block_content ul li p.price_container {line-height:20px;}
+#uhu_reassure_nav ul li h3 {font-family:Carrois Gothic SC;}
+#uhu_reassure_nav ul li h3 {font-size:23px;}
+#uhu_reassure_home ul li h3 {font-family:Carrois Gothic SC;}
+#uhu_reassure_home ul li h3 {font-size:15px;}
+#uhu_reassure_home ul li h3 {text-transform:capitalize;}
+#uhu_reassure_home ul li h3 {line-height:20px;}
+#index .nav-tabs, #columns_home #center_column .sdstitle_block {font-size:16px;}
+#index .nav-tabs, #columns_home #center_column .sdstitle_block {line-height:48px;}
+#index ul.product_list.grid li .product-container h5 {font-size:15px;}
+#index ul.product_list.grid li .product-container h5 {font-weight:normal;}
+#index ul.product_list.grid li .product-container h5 {text-align:left;}
+#index ul.product_list.grid li .product-container h5 {line-height:40px;}
+#index ul.product_list.grid li .product-container .content_price {font-size:13px;}
+#index ul.product_list.grid li .product-container .content_price {line-height:24px;}
+#index ul.product_list.grid li .product-container .new-label {font-family:Adamina;}
+#index ul.product_list.grid li .product-container .new-label {font-size:12px;}
+#index ul.product_list.grid li .product-container .new-label {font-style:italic;}
+#index ul.product_list.grid li .product-container .new-label {line-height:12px;}
+#index .tab-content ul li .button,  #index .tab-content ul li .btn {font-family:Carrois Gothic SC;}
+#index .tab-content ul li .button,  #index .tab-content ul li .btn {font-size:12px;}
+#index .tab-content ul li .button,  #index .tab-content ul li .btn {line-height:24px;}
+#uhu_contactus_home .sub_title, #uhu_contactus_slider .sub_title, #uhu_contactus_bottom .sub_title {font-size:13px;}
+#uhu_contactus_home .sub_title, #uhu_contactus_slider .sub_title, #uhu_contactus_bottom .sub_title {line-height:20px;}
+#uhu_contactus_bottom p, #uhu_contactus_home p, #uhu_contactus_slider p {font-size:14px;}
+#uhu_contactus_bottom p, #uhu_contactus_home p, #uhu_contactus_slider p {line-height:20px;}
+#uhu_contactus_home li, #uhu_contactus_slider li, #uhu_contactus_bottom li {font-family:Abel;}
+#uhu_contactus_home li, #uhu_contactus_slider li, #uhu_contactus_bottom li {font-size:20px;}
+#uhu_contactus_home li, #uhu_contactus_slider li, #uhu_contactus_bottom li {line-height:60px;}
+#uhu_reassure_home ul li p {font-family:Dosis;}
+#uhu_reassure_home ul li p {font-size:13px;}
+#uhu_reassure_home ul li p {font-weight:normal;}
+#uhu_reassure_home ul li p {line-height:16px;}
+#uhu_reassure_home ul li i {font-size:45px;}
+#uhu_contactus_foot .title_block,  #uhu_contactus_foot .title_block a {font-family:Carrois Gothic SC;}
+#uhu_contactus_foot .title_block,  #uhu_contactus_foot .title_block a {font-size:20px;}
+#uhu_contactus_foot .sub_title {font-family:Carrois Gothic SC;}
+#uhu_contactus_foot p {font-family:Carrois Gothic SC;}
+#uhu_contactus_foot li {font-family:Carrois Gothic SC;}

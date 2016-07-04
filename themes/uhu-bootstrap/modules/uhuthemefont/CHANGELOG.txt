@@ -1,0 +1,6 @@
+2015-02-27 1.0.0			// Created
+2015-05-22 1.0.1			// Fixed update google font
+							// Fixed update design font
+2015-07-22 1.0.2			// Add active for display
+2015-07-24 1.1.0			// Add order, remove backoffice hook, fixed google font update. 
+2015-08-04 1.2.0			// Add backoffice hook to change font block setting on front panel. 

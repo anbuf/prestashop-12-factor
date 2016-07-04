@@ -1,0 +1,13 @@
+@media only screen and (min-width: 1200px) {
+header .nav {width:1290px;}
+header .content {width:1290px;}
+#header .menu {width:100%;}
+#columns #columns_top,  #columns #slider_row {width:1290px;}
+#columns #top_banner {width:1290px;}
+#columns #bottom_banner {width:1290px;}
+.footer-container .footer_nav {width:1290px;}
+.footer-container #footer {width:1290px;}
+.footer-container .footer_banner {width:1290px;}
+.header-container {max-width:1290px;}
+.footer-container #footer .row {max-width:1290px;}
+ }
