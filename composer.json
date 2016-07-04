@@ -6,8 +6,9 @@
 	},
 	"scripts": {
 		"post-install-cmd": "composer prestashop-setup",
-		"prestashop-setup": "composer prestashop-setup-core && composer prestashop-setup-db && composer prestashop-setup-clean && composer prestashop-setup-welcome",
+		"prestashop-setup": "composer prestashop-setup-core && composer prestashop-patch-mysql57 && composer prestashop-setup-db && composer prestashop-setup-clean && composer prestashop-setup-welcome",
 		"prestashop-setup-core": "prestashop new store --release=1.6.1.4 --fixture=starwars",
+		"prestashop-patch-mysql57": "cp db_structure.sql store/install/data/",
 		"prestashop-setup-db": "php store/install/index_cli.php --domain=\"$PRESTASHOP_SHOP_DOMAIN\" --db_server=\"$PRESTASHOP_DATABASE_SERVER\" --db_name=\"$PRESTASHOP_DATABASE_NAME\" --db_user=\"$PRESTASHOP_DATABASE_USER\" --db_password=\"$PRESTASHOP_DATABASE_PASSWORD\" --send_email=0",
 		"prestashop-setup-clean": "mv store/install/ store/archived/ & mv store/admin/ store/backoffice/",
 		"prestashop-setup-welcome": [
