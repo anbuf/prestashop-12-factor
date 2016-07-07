@@ -1,33 +1,16 @@
 <?php
-
-$db = array_merge(['port' => 3306], parse_url(getenv('JAWSDB_URL') ?: getenv('CLEARDB_DATABASE_URL')));
-define('DB_NAME', substr($db['path'], 1));
-define('DB_USER', $db['user']);
-define('DB_PASSWORD', $db['pass']);
-define('DB_SERVER', $db['host'].':'.$db['port']);
-define('DB_CHARSET', 'utf8');
-
-define('AWS_ACCESS_KEY_ID', getenv('AWS_ACCESS_KEY_ID') ?: getenv('BUCKETEER_AWS_ACCESS_KEY_ID'));
-define('AWS_SECRET_ACCESS_KEY', getenv('AWS_SECRET_ACCESS_KEY') ?: getenv('BUCKETEER_AWS_SECRET_ACCESS_KEY'));
-define('AS3CF_BUCKET', getenv('S3_BUCKET') ?: getenv('BUCKETEER_BUCKET_NAME'));
-if (getenv('S3_REGION')) {
-    define('AS3CF_REGION', getenv('S3_REGION'));
-}
-
-define('SENDGRID_AUTH_METHOD', 'credentials');
-define('SENDGRID_USERNAME', getenv('SENDGRID_USERNAME'));
-define('SENDGRID_PASSWORD', getenv('SENDGRID_PASSWORD'));
-define('SENDGRID_SEND_METHOD', 'api');
-
-if (!defined('ABSPATH')) {
-    define('ABSPATH', dirname(__FILE__).'/store/config/');
-} // should not be necessary
-
-require_once ABSPATH.'settings.inc.php';
-
-// installs using a Heroku button do not know the URL, so they use example.com as the site URL, which we need to fix
-if (function_exists('get_option') && get_option('siteurl') == 'http://example.herokuapp.com') {
-    update_option('siteurl', set_url_scheme($url = 'http://'.$_SERVER['HTTP_HOST']));
-    header("Location: $url".$_SERVER['REQUEST_URI']);
-    exit;
-}
+define('_DB_SERVER_', getenv('PRESTASHOP_DATABASE_SERVER'));
+define('_DB_NAME_', getenv('PRESTASHOP_DATABASE_NAME'));
+define('_DB_USER_', getenv('PRESTASHOP_DATABASE_USER'));
+define('_DB_PASSWD_', getenv('PRESTASHOP_DATABASE_PASSWORD'));
+define('_DB_PREFIX_', 'ps_');
+define('_MYSQL_ENGINE_', 'InnoDB');
+define('_PS_CACHING_SYSTEM_', 'CacheMemcache');
+define('_PS_CACHE_ENABLED_', '0');
+define('_COOKIE_KEY_', 'v9Y4d3dwg7nGpLrmp6vSzwjcA5YacUDXb9prcZKWa1YLLWRe5CLyMz8t');
+define('_COOKIE_IV_', '1KKy5MsS');
+define('_PS_CREATION_DATE_', '2016-07-04');
+if (!defined('_PS_VERSION_'))
+	define('_PS_VERSION_', '1.6.1.4');
+define('_RIJNDAEL_KEY_', '0t2jUwfqIEvB3QuPYnwadN8UiiIfOvOP');
+define('_RIJNDAEL_IV_', 'QyODUKGrMbw0lok8vsAd8A==');
