@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "33372e37f61622efb9f52cc076f8c59a",
-    "content-hash": "814a6a814841b1821ca2122b96be64b6",
+    "hash": "8a9fef91f5af861582827e9cee6b2335",
+    "content-hash": "1c08a73b8839d880614efe46ff8362dc",
     "packages": [
         {
             "name": "gskema/prestashop-installer",
@@ -480,7 +480,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": "^5.5.0",
+        "php": "^7.0.0",
         "ext-gd": "*"
     },
     "platform-dev": []
